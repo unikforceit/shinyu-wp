@@ -1,0 +1,63 @@
+.site-navigation {
+  // margin-right: 5rem;
+
+  @media screen and (max-width: 991px) {
+    display: none;
+  }
+
+
+  ul {
+    margin: 0;
+    list-style: none;
+    white-space: nowrap;
+  }
+}
+
+.navigation {
+  &-item {
+    display: inline-block;
+  
+    a {
+      position: relative;
+      font-size: 1.125rem;
+      line-height: 1;
+      color: $dark;
+      display: block;
+      padding: 31px 10px;
+
+      html[lang="en-US"] & {
+        font-size: 16px;
+        text-transform: uppercase; 
+        padding-top: 32px;
+        padding-bottom: 32px; 
+      }
+
+      .open-menu & {
+        color: #fff;
+      }
+  
+      &:hover {
+        color: $danger;
+      }
+
+      &::after {
+        position: absolute;
+        top: -3px;
+        left: 0;
+        right: 0;
+        height: 3px;
+        background: $danger;
+        content: '';
+        opacity: 0;
+      }
+    }
+
+    &.is-active {
+      a {
+        &::after {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}

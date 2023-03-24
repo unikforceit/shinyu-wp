@@ -1,0 +1,343 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/bootstrap-reboot";
+// @import "~bootstrap/scss/root";
+@import "~bootstrap/scss/utilities";
+// @import "~bootstrap/scss/bootstrap-grid";
+// @import "~bootstrap/scss/forms";
+// @import "~bootstrap/scss/input-group";
+// @import "~bootstrap/scss/custom-forms";
+
+// Import Bulma's core
+@import "~bulma/sass/utilities/_all";
+
+$family-primary: 'Prompt', sans-serif;
+
+$twitter: #92b6d6;
+$twitter-invert: findColorInvert($twitter);
+
+$facebook: #3874FB;
+$facebook-invert: findColorInvert($facebook);
+
+$primary: #0f4b81;
+$primary-invert: findColorInvert($primary);
+
+// $success: #95c53e;
+// $success-invert: findColorInvert($success);
+
+$info: #e7a62a;
+$info-invert: findColorInvert($info);
+
+$danger: #e41c54;
+$danger-invert: findColorInvert($danger);
+
+$dark: #414141;
+$dark-invert: findColorInvert($dark);
+
+$link: $info;
+$link-focus-border: $info;
+$pagination-focus-border-color: $info;
+
+// Setup $colors to use as bulma classes (e.g. 'is-twitter')
+$colors: (
+  "white": ($white, $black),
+  "black": ($black, $white),
+  "light": ($light, $light-invert),
+  "dark": ($dark, $dark-invert),
+  "primary": ($primary, $primary-invert),
+  "info": ($info, $info-invert),
+  "success": ($success, $success-invert),
+  "warning": ($warning, $warning-invert),
+  "danger": ($danger, $danger-invert),
+  "twitter": ($twitter, $twitter-invert),
+  "facebook": ($facebook, $facebook-invert)
+);
+
+$input-shadow: none;
+
+// Links
+$link: $primary;
+$link-invert: $primary-invert;
+$link-focus-border: $primary;
+
+$title-color: #000;
+
+$navbar-height: 4.375rem;
+
+$desktop: 768px;
+$widescreen: 992px;
+$fullhd: 1200px;
+
+$column-gap: 16px;
+
+$section-padding: 3rem 1rem;
+
+$button-padding-horizontal: 2rem;
+
+
+// Card
+$card-radius: 0;
+$card-shadow: none;
+$card-color: #252525;
+$card-footer-border-top: solid 1px #e7e7e7;
+$card-content-padding: 1rem;
+
+
+// Modal
+$modal-z: 1000;
+$modal-card-head-radius: 0;
+$modal-card-foot-radius: 0;
+
+// $modal-card-head-radius: 0;
+// $modal-card-foot-radius: 0;
+// $modal-card-head-border-bottom: none;
+// $modal-card-foot-border-top: none;
+// $modal-card-head-background-color: transparent;
+// $modal-card-head-padding: 2rem 3rem;
+// $modal-card-body-padding: 1rem 3rem;
+
+// $slider-thumb-radius: 100%;
+// $slider-thumb-border: solid 1px $info;
+
+// $navbar-breakpoint: $widescreen;
+
+// $steps-default-color: #b0e550;
+// $steps-active-color: #fff;
+// $steps-divider-height: 1px;
+// $steps-maker-default-color: #b0e550;
+// $steps-marker-default-border: #b0e550;
+
+// $box-radius: 0.25rem;
+// $box-shadow: none;
+
+// $message-body-color: #000;
+
+// $message-background-color: #c0e5f1;
+
+// $message-body-padding: 1rem 2rem;
+
+// $table-color: 1px solid #e8e8e8;
+
+// tooltip
+$tooltip-arrow-size: 4px;
+
+.b-tooltip .tooltip-content {
+  box-shadow: none !important
+}
+
+// dropdown
+.dropdown {
+  &-item {
+    padding-right: 1rem !important;
+  }
+
+  // &-content {
+  //   border-bottom: solid 3px $primary;
+  // }
+
+  &-trigger {
+    min-width: 2.5rem;
+    font-weight: bold;
+    color: $primary;
+
+    &::after {
+      position: absolute;
+      top: 50%;
+      right: 0;
+      border-left: solid 3px transparent;
+      border-right: solid 3px transparent;
+      border-top: solid 4px #545454;
+      content: "";
+      margin: -2px 0 0;
+      transition: transform 0.2s;
+    }
+
+    .dropdown:hover & {
+      &::after {
+        transform: scaleY(-1);
+      }
+    }
+  }
+}
+
+$dropdown-content-radius: 0;
+$dropdown-content-shadow: 20px 20px 25px 0 rgba(0, 0, 0, 0.18);
+
+// select
+
+body {
+  .select {
+    &::after {
+      width: auto !important;
+      height: auto !important;
+      border-bottom: none !important;
+      border-left: solid 3px transparent !important;
+      border-right: solid 3px transparent !important;
+      border-top: solid 4px $primary !important;
+      transform: rotate(0) !important;
+      border-radius: 0 !important;
+      margin-top: -2px !important;
+      right: 0.75rem !important;
+    }
+    // &:hover {
+    //   &::after {
+    //     transform: scaleY(-1) !important;
+    //   }
+    // }
+  
+    select:not([multiple]) {
+      padding-right: 1.5em;
+    }
+  }
+}
+
+// section
+$section-padding: 5rem 1rem;
+
+
+// input
+
+$input-shadow: none;
+
+
+// panel
+$panel-shadow: 20px 20px 25px 0 rgba(0, 0, 0, 0.18);
+// $panel-heading-radius: 6px 6px 0 0;
+$panel-radius: 4px 4px 0 0;
+
+.panel {
+  overflow: hidden;
+}
+
+.panel-block {
+  background: #fff;
+}
+
+// table
+
+$table-background-color: transparent;
+
+//pagination
+$pagination-color: $primary;
+$pagination-focus-color: $primary;
+$pagination-hover-color: $dark;
+$pagination-item-margin: 0;
+$pagination-item-padding-left: 0.5rem;
+$pagination-item-padding-right: 0.5rem;
+$pagination-item-font-size: 1.125rem;
+$pagination-border-color: transparent;
+$pagination-current-border-color: transparent;
+$pagination-hover-border-color: transparent;
+$pagination-active-border-color: transparent;
+$pagination-focus-border-color: transparent;
+$pagination-disabled-border-color: transparent;
+$pagination-current-background-color: transparent;
+$pagination-disabled-background-color: transparent;
+$pagination-current-color: $danger;
+$pagination-min-width: 1rem;
+
+.pagination {
+
+  &-list {
+    flex-grow: unset !important;
+  }
+
+  &-link {
+    box-shadow: none !important;
+  }
+
+  &-previous,
+  &-next {
+    position: relative;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+
+    &::after {
+      position: absolute;
+      top: 50%;
+      border-bottom: solid 4px transparent;
+      border-top: solid 4px transparent;
+      margin-top: -6px;
+      content: "";
+    }
+  }
+
+  &-next {
+    &::after {
+      border-left: solid 8px $primary;
+    }
+
+    &:hover {
+      &::after {
+        border-left-color: $danger;
+      }
+    }
+  }
+
+  &-previous {
+    &::after {
+      border-right: solid 8px $primary;
+    }
+
+    &:hover {
+      &::after {
+        border-right-color: $danger;
+      }
+    }
+  }
+}
+
+
+// autocomplete
+
+.autocomplete {
+  .control.is-loading {
+    &::after {
+      border-bottom-color: $danger;
+      border-left-color: $danger;
+    }
+  }
+
+  .icon {
+    i {
+      &::after {
+        content: 'x';
+        font-style: normal;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+// skeleton
+
+$skeleton-margin-top: 0;
+
+//loading
+$loading-background: rgba(245, 247, 251, 0.5);
+
+.has-text-gray {
+  color: #ccc;
+}
+
+// Import Bulma and Buefy styles
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
+
+
+// content
+.content ol {
+  margin-left: 1rem;
+
+  li {
+    &::marker {
+      color: $primary;
+      font-weight: bold;
+    }
+  }
+}

@@ -1,0 +1,162 @@
+.slideshow {
+  position: relative;
+  transition: height 0.3s;
+
+  &::after {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    content: '';
+    background: #e8e8e8;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+  }
+
+  &.is-loading {
+    height: 500px;
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  &-item {
+    position: relative;
+    background-position: bottom center;
+    background-size: cover;
+
+    @media screen and (min-width: 1921px) {
+      height: 590px;
+    }
+
+    a {
+      width: 100%;
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+
+      @media screen and (min-width: 1921px) {
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+  }
+
+  &-content {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+  &-title {
+    color: #fff;
+    font-weight: bold;
+    font-size: 5.25rem;
+    text-transform: uppercase;
+
+    @media screen and (max-width: 1600px) {
+      font-size: 4rem;
+    }
+
+    @media screen and (max-width: 767px) {
+      font-size: 2rem;
+    }
+
+    @media screen and (max-width: 575px) {
+      font-size: 1.25rem;
+    }
+
+    span {
+      color: #ce0e2c;
+    }
+  }
+
+  &-description {
+    color: #fff;
+    font-weight: 300;
+    font-size: 1.125rem;
+    max-width: 40rem;
+    padding: 0 1rem;
+    margin: 0 auto;
+
+    @media screen and (max-width: 1600px) {
+      font-size: 1rem;
+    }
+
+    @media screen and (max-width: 767px) {
+      font-size: 0.875rem;
+    }
+
+    @media screen and (max-width: 575px) {
+      font-size: 0.75rem;
+    }
+  }
+  
+
+  .container {
+    z-index: 20;
+  }
+
+  .swiper-pagination {
+    right: 0;
+    bottom: 50px;
+  }
+}
+
+.swiper {
+  &-navigation {  
+    button {
+      position: absolute;
+      top: 50%;
+      width: 2.5rem;
+      height: 2.5rem;
+      border: none;
+      box-shadow: none !important;
+      outline: none !important;
+      margin: 0 0.25rem;
+      padding: 0;
+      border-radius: 100%;
+      transform: translateY(-50%);
+      z-index: 20;
+      text-indent: -9999px;
+  
+      &::after {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        border-bottom: solid 5px transparent;
+        border-top: solid 5px transparent;
+        margin-top: -5px;
+        content: "";
+      }
+
+      &.swiper-button-disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+  
+      &.prev {
+        left: 1rem;
+
+        &::after {
+          border-right: solid 8px #0f4b81;
+          margin-left: -6px;
+        }
+      }
+  
+      &.next {
+        right: 1rem;
+
+        &::after {
+          border-left: solid 8px #0f4b81;
+          margin-left: -4px;
+        }
+      }
+    }
+  }
+}

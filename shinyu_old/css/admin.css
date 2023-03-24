@@ -1,0 +1,317 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-size: 24px;
+  font-style: normal;
+}
+.flaticon-arrow:before { content: "\f100"; }
+.flaticon-money:before { content: "\f101"; }
+.flaticon-train:before { content: "\f102"; }
+.flaticon-eye:before { content: "\f103"; }
+.flaticon-bed:before { content: "\f104"; }
+.flaticon-calendar:before { content: "\f105"; }
+.flaticon-search:before { content: "\f106"; }
+.flaticon-mouse:before { content: "\f107"; }
+.flaticon-emoji:before { content: "\f108"; }
+.flaticon-focus:before { content: "\f109"; }
+.flaticon-tower:before { content: "\f10a"; }
+.flaticon-pin:before { content: "\f10b"; }
+.flaticon-edit:before { content: "\f10c"; }
+.flaticon-bathroom:before { content: "\f10d"; }
+.flaticon-chat:before { content: "\f10e"; }
+.flaticon-chat-1:before { content: "\f10f"; }
+.flaticon-social-media:before { content: "\f110"; }
+.flaticon-facebook:before { content: "\f111"; }
+.flaticon-heart:before { content: "\f112"; }
+.flaticon-compare:before { content: "\f113"; }
+.flaticon-network:before { content: "\f114"; }
+.flaticon-print:before { content: "\f115"; }
+.flaticon-arrow-1:before { content: "\f116"; }
+.flaticon-twitter:before { content: "\f117"; }
+.flaticon-pin-1:before { content: "\f118"; }
+.flaticon-question:before { content: "\f119"; }
+.flaticon-multimedia:before { content: "\f11a"; }
+.flaticon-correct:before { content: "\f11b"; }
+.flaticon-close:before { content: "\f11c"; }
+.flaticon-plus:before { content: "\f11d"; }
+.flaticon-left-arrow:before { content: "\f11e"; }
+.flaticon-right-arrow:before { content: "\f11f"; }
+.flaticon-up-arrow:before { content: "\f120"; }
+.flaticon-letter-x:before { content: "\f121"; }
+.flaticon-download-arrow:before { content: "\f122"; }
+.flaticon-arrow-point-to-right:before { content: "\f123"; }
+.flaticon-arrowhead-thin-outline-to-the-left:before { content: "\f124"; }
+.flaticon-navigate-up-arrow:before { content: "\f125"; }
+.flaticon-eye-1:before { content: "\f126"; }
+.flaticon-atm:before { content: "\f127"; }
+.flaticon-car-parking:before { content: "\f128"; }
+.flaticon-food:before { content: "\f129"; }
+.flaticon-plate:before { content: "\f12a"; }
+.flaticon-shield:before { content: "\f12b"; }
+.flaticon-bike:before { content: "\f12c"; }
+.flaticon-pool:before { content: "\f12d"; }
+.flaticon-gym:before { content: "\f12e"; }
+.flaticon-plant:before { content: "\f12f"; }
+.flaticon-laundry:before { content: "\f130"; }
+.flaticon-toy:before { content: "\f131"; }
+.flaticon-healthcare-and-medical:before { content: "\f132"; }
+.flaticon-theater:before { content: "\f133"; }
+.flaticon-cinema:before { content: "\f134"; }
+.flaticon-supermarket:before { content: "\f135"; }
+.flaticon-car:before { content: "\f136"; }
+.flaticon-policeman:before { content: "\f137"; }
+.flaticon-cocktail:before { content: "\f138"; }
+.flaticon-cctv:before { content: "\f139"; }
+.flaticon-shop:before { content: "\f13a"; }
+.flaticon-shop-1:before { content: "\f13b"; }
+.flaticon-arrows:before { content: "\f13c"; }
+.flaticon-view:before { content: "\f13d"; }
+.flaticon-theater-1:before { content: "\f13e"; }
+.flaticon-tools-and-utensils:before { content: "\f13f"; }
+.flaticon-tv:before { content: "\f140"; }
+.flaticon-sofa:before { content: "\f141"; }
+.flaticon-furniture-and-household:before { content: "\f142"; }
+.flaticon-bed-1:before { content: "\f143"; }
+.flaticon-furniture-and-household-1:before { content: "\f144"; }
+.flaticon-cool:before { content: "\f145"; }
+.flaticon-heater:before { content: "\f146"; }
+.flaticon-mixer:before { content: "\f147"; }
+.flaticon-microwave:before { content: "\f148"; }
+.flaticon-cook:before { content: "\f149"; }
+.flaticon-hood:before { content: "\f14a"; }
+.flaticon-air-conditioning:before { content: "\f14b"; }
+.flaticon-fashion:before { content: "\f14c"; }
+.flaticon-dinner:before { content: "\f14d"; }
+.flaticon-bike-1:before { content: "\f14e"; }
+.flaticon-more:before { content: "\f14f"; }
+.flaticon-social-media-1:before { content: "\f150"; }
+.flaticon-agreement:before { content: "\f151"; }
+.flaticon-help:before { content: "\f152"; }
+.flaticon-trust:before { content: "\f153"; }
+.flaticon-writing:before { content: "\f154"; }
+.flaticon-sensor:before { content: "\f155"; }
+.flaticon-sports-and-competition:before { content: "\f156"; }
+.flaticon-grill:before { content: "\f157"; }
+.flaticon-man:before { content: "\f158"; }
+.flaticon-furniture-and-household-2:before { content: "\f159"; }
+.flaticon-dinner-table:before { content: "\f15a"; }
+.flaticon-stove:before { content: "\f15b"; }
+.flaticon-closet:before { content: "\f15c"; }
+.flaticon-wifi:before { content: "\f15d"; }
+.flaticon-mirror:before { content: "\f15e"; }
+.flaticon-study:before { content: "\f15f"; }
+.flaticon-electric-car:before { content: "\f160"; }
+.flaticon-construction-and-tools:before { content: "\f161"; }
+.flaticon-golf:before { content: "\f162"; }
+.flaticon-golf-cart:before { content: "\f163"; }
+.flaticon-golf-1:before { content: "\f164"; }
+.flaticon-heliport:before { content: "\f165"; }
+.flaticon-audio-system:before { content: "\f166"; }
+.flaticon-jacuzzi:before { content: "\f167"; }
+.flaticon-run:before { content: "\f168"; }
+.flaticon-summer:before { content: "\f169"; }
+.flaticon-fit:before { content: "\f16a"; }
+.flaticon-child:before { content: "\f16b"; }
+.flaticon-book:before { content: "\f16c"; }
+.flaticon-lobby:before { content: "\f16d"; }
+.flaticon-barman:before { content: "\f16e"; }
+.flaticon-closet-1:before { content: "\f16f"; }
+.flaticon-professions-and-jobs:before { content: "\f170"; }
+.flaticon-mail:before { content: "\f171"; }
+.flaticon-interview:before { content: "\f172"; }
+.flaticon-dinner-1:before { content: "\f173"; }
+.flaticon-onsen:before { content: "\f174"; }
+.flaticon-playground:before { content: "\f175"; }
+.flaticon-port:before { content: "\f176"; }
+.flaticon-dinner-2:before { content: "\f177"; }
+.flaticon-shop-2:before { content: "\f178"; }
+.flaticon-boat:before { content: "\f179"; }
+.flaticon-simulator:before { content: "\f17a"; }
+.flaticon-barman-1:before { content: "\f17b"; }
+.flaticon-plant-1:before { content: "\f17c"; }
+.flaticon-swimming-pool:before { content: "\f17d"; }
+.flaticon-door-handle:before { content: "\f17e"; }
+.flaticon-stadium:before { content: "\f17f"; }
+.flaticon-wellness:before { content: "\f180"; }
+.flaticon-racket:before { content: "\f181"; }
+.flaticon-massage:before { content: "\f182"; }
+.flaticon-bus:before { content: "\f183"; }
+.flaticon-wifi-1:before { content: "\f184"; }
+.flaticon-sports-and-competition-1:before { content: "\f185"; }
+.flaticon-retail:before { content: "\f186"; }
+.flaticon-microwave-1:before { content: "\f187"; }
+.flaticon-pet:before { content: "\f188"; }
+.flaticon-farm:before { content: "\f189"; }
+.flaticon-door:before { content: "\f18a"; }
+.flaticon-elder:before { content: "\f18b"; }
+.flaticon-coach:before { content: "\f18c"; }
+
+.ui-widget-overlay {
+  z-index: 99999 !important;
+}
+.shinyu-icons-modal {
+  display: none;
+}
+
+.shinyu-icons-modal label {
+  width: 39px;
+  height: 39px;
+  line-height: 39px;
+  text-align: center;
+  display: inline-block;
+  margin: 0 0 10px;
+}
+
+.shinyu-icons-modal label input {
+  display: none;
+}
+
+.shinyu-icons-modal label:hover{
+  color: #0073aa;
+}
+
+.column-payment_thumbnail,
+.column-mimo_thumbnail{
+  position: relative;
+  width: 52px;
+  white-space: nowrap;
+  text-align: center !important;
+}
+td.column-payment_thumbnail img,
+td.column-mimo_thumbnail img {
+  margin: 0;
+  width: auto;
+  height: auto;
+  max-width: 40px;
+  max-height: 40px;
+  vertical-align: middle;
+  border: 1px solid #e5e5e5;
+  border: 1px solid rgba(0,0,0,.07);
+}
+@media only screen and (max-width: 782px){
+  td.column-payment_thumbnail img,
+  td.column-mimo_thumbnail img {
+    min-width: 32px;
+  }
+  .column-mimo_thumbnail{
+    display: none;
+  }
+  .post-type-recipe .wp-list-table .column-mimo_thumbnail,
+  .post-type-post .wp-list-table .column-mimo_thumbnail{
+    text-align: left !important;
+    padding-bottom: 0;
+  }
+  .post-type-recipe .wp-list-table .toggle-row,
+  .post-type-post .wp-list-table .toggle-row{
+    top: -28px;
+  }
+  .post-type-recipe .wp-list-table .is-expanded td:not(.hidden),
+  .post-type-post .wp-list-table .is-expanded td:not(.hidden){
+    overflow: visible;
+  }
+
+}
+
+.column-payment_thumbnail span,
+.column-mimo_thumbnail span{
+  position: absolute;
+  top: 10px;
+  left: 0;
+  right: 0;
+  font-size: 16px;
+}
+.column-payment_thumbnai span:before,
+.column-mimo_thumbnail span:before{
+  font-family: Dashicons;
+  speak: none;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  text-indent: 0;
+}
+.otgs-ico-wpml,
+.otgs-ico-help,
+.otgs-is-dismissible,
+.wcml-pointer-products_translation,
+.taxonomy-car_brand .term-description-wrap,
+.premium-box,
+#icl_how_to_translate_link,
+#icl_document_language_dropdown,
+#icl_translation_priority_dropdown,
+#icl_translation_of_panel,
+#icl_cfo,
+.icl_als_iclflag,
+.icl_pop_info_but,
+#icl_minor_change_box,
+#duplicate-action,
+#wpml_als_help_link,
+.icl_cyan_box i{
+  display: none !important;
+}
+body:not(.user-390) .update-plugins,
+body:not(.user-390) #icl_div_config{
+  display: none !important;
+}
+table.wpml-margin-bottom-base{
+  margin-bottom: 15px !important;
+}
+#icl_div.postbox strong{
+  display: none;
+}
+#icl_div.postbox label{
+  display: none;
+}
+#icl_div.postbox br{
+  display: none;
+}
+table.form-table select{
+  padding: 0 !important;
+}
+.icl_box_paragraph p{
+  display: none;
+}
+#icl_translations_table.icl_translations_table{
+  display: block !important;
+  margin-top: 15px;
+}
+
+.product-refund-items{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border: solid 1px #e8e8e8;
+  border-collapse: collapse;
+}
+body #the-list table.product-refund-items thead tr th{
+  background: #fff;
+  border-bottom: solid 1px #e8e8e8 !important;
+}
+#refund_product{
+  width: 50%;
+}
+
+.term-description-wrap {
+  /* display: none; */
+}

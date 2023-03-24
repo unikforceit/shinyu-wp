@@ -1,0 +1,83 @@
+.page {
+
+  &-header {
+    position: relative;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    margin-bottom: 3rem;
+    background-size: cover;
+    background-position: center center;
+    z-index: 1;
+    overflow: hidden;
+
+    &.minimal {
+      background: #f5f6f8;
+      padding-top: 3rem;
+      padding-bottom: 1rem;
+    }
+
+    .container {
+      position: relative;
+      z-index: 2;
+    }
+
+    &-background {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #06233e;
+
+      img {
+        position: absolute;
+        top: -30px;
+        left: 50%;
+        width: 120%;
+        height: 120%;
+        max-width: none;
+        object-fit: cover;
+        filter: blur(10px);
+        opacity: 0.5;
+        transform: translateX(-50%);
+      }
+    }
+  }
+
+  &-description {
+    padding-top: 2rem;
+
+    .single-product & {
+      color: #fff;
+    }
+  }
+
+  &-title {
+    font-size: 2.5rem;
+    color: #19499c;
+    line-height: 1;
+    font-weight: 500;
+    margin: 0;
+
+
+    .single-product & {
+      max-width: 39.5rem;
+    }
+
+    .single-product & {
+      color: #fff;
+    }
+
+    .minimal & {
+      font-weight: 600;
+      font-size: 1.75rem;
+      padding-bottom: 2rem;
+      border-bottom: solid 1px #bbb;
+    }
+    
+    span {
+      min-width: 20rem;
+      display: block;
+    }
+  }
+}

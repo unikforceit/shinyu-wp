@@ -1,0 +1,1972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MIMO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-07 10:27+0700\n"
+"PO-Revision-Date: 2019-06-07 10:28+0700\n"
+"Last-Translator: administrator <surakraisam@gmail.com>\n"
+"Language-Team: Thai (Thailand)\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:201 inc/api/api-service.php:88 inc/class/class-service.php:89
+msgid "Sell"
+msgstr "ขาย"
+
+#: functions.php:202 inc/api/api-service.php:92 inc/class/class-service.php:98
+msgid "Rent"
+msgstr "เช่า"
+
+#: functions.php:213
+msgid "Under 1M"
+msgstr "ต่ำกว่า 1 ล้าน"
+
+#: functions.php:214
+msgid "1-2M"
+msgstr "1-2 ล้าน"
+
+#: functions.php:215
+msgid "2-3M"
+msgstr "2-3 ล้าน"
+
+#: functions.php:216
+msgid "3-5M"
+msgstr "3-5 ล้าน"
+
+#: functions.php:217
+msgid "5-7M"
+msgstr "5-7 ล้าน"
+
+#: functions.php:218
+msgid "7-10M"
+msgstr "7-10 ล้าน"
+
+#: functions.php:219
+msgid "10-15M"
+msgstr "10 - 15 ล้าน"
+
+#: functions.php:220
+msgid "15-30M"
+msgstr "15 - 30 ล้าน"
+
+#: functions.php:221
+msgid "Over 30M"
+msgstr "มากกว่า 30 ล้าน"
+
+#: functions.php:234 functions.php:249 functions.php:264 functions.php:280
+#: functions.php:296 inc/api/api-room.php:217 inc/api/api-room.php:218
+#: inc/api/api-room.php:219 inc/api/api-room.php:223 inc/api/api-room.php:445
+msgid "Any"
+msgstr "ทั้งหมด"
+
+#: functions.php:235
+msgid "1 bedroom"
+msgstr "1 ห้องนอน"
+
+#: functions.php:236
+msgid "2 bedroom"
+msgstr "2 ห้องนอน"
+
+#: functions.php:237
+msgid "3 bedroom"
+msgstr "3 ห้องนอน"
+
+#: functions.php:238
+msgid "Studio"
+msgstr ""
+
+#: functions.php:239
+msgid "duplex"
+msgstr ""
+
+#: functions.php:240
+msgid "Penthouse"
+msgstr ""
+
+#: functions.php:250
+msgid "City View"
+msgstr ""
+
+#: functions.php:251
+msgid "River View"
+msgstr ""
+
+#: functions.php:252
+msgid "Garden View"
+msgstr ""
+
+#: functions.php:253
+msgid "Panorama View"
+msgstr ""
+
+#: functions.php:254
+msgid "Sea View"
+msgstr ""
+
+#: functions.php:255
+msgid "Mountain View"
+msgstr ""
+
+#: functions.php:256
+msgid "Cleared View"
+msgstr ""
+
+#: functions.php:265
+msgid "North"
+msgstr ""
+
+#: functions.php:266
+msgid "West"
+msgstr ""
+
+#: functions.php:267
+msgid "East"
+msgstr ""
+
+#: functions.php:268
+msgid "South"
+msgstr ""
+
+#: functions.php:269
+msgid "North West"
+msgstr ""
+
+#: functions.php:270
+msgid "North East"
+msgstr ""
+
+#: functions.php:271
+msgid "South West"
+msgstr ""
+
+#: functions.php:272
+msgid "South East"
+msgstr ""
+
+#: functions.php:281 functions.php:297
+msgid "1"
+msgstr ""
+
+#: functions.php:282 functions.php:298
+msgid "2"
+msgstr ""
+
+#: functions.php:283 functions.php:299
+msgid "3"
+msgstr ""
+
+#: functions.php:284 functions.php:285 functions.php:300
+msgid "4"
+msgstr ""
+
+#: functions.php:301
+msgid "5"
+msgstr ""
+
+#: functions.php:309
+msgid "Most Recent"
+msgstr ""
+
+#: functions.php:310
+msgid "Price : low to high"
+msgstr "ราคาน้อยไปมาก"
+
+#: functions.php:311
+msgid "Price : high to low"
+msgstr "รามคามากไปน้อย"
+
+#: functions.php:319
+msgid "Over 10%"
+msgstr "มากกว่า 10%"
+
+#: functions.php:320
+msgid "9-10%"
+msgstr ""
+
+#: functions.php:321
+msgid "8-9%"
+msgstr ""
+
+#: functions.php:322
+msgid "7-8%"
+msgstr ""
+
+#: functions.php:323
+msgid "6-7%"
+msgstr ""
+
+#: functions.php:324
+msgid "5-6%"
+msgstr ""
+
+#: functions.php:325
+msgid "4-5%"
+msgstr ""
+
+#: functions.php:326
+msgid "3-4%"
+msgstr ""
+
+#: functions.php:327
+msgid "2-3%"
+msgstr ""
+
+#: functions.php:328
+msgid "1-2%"
+msgstr ""
+
+#: functions.php:329
+msgid "0-1%"
+msgstr ""
+
+#: functions.php:340
+msgid "I’d like to buy a condo"
+msgstr ""
+
+#: functions.php:341
+msgid "Can you help me sell/lease my condo?"
+msgstr ""
+
+#: inc/api/api-about-us.php:65 inc/api/api-contact-us.php:164
+#: inc/api/api-job.php:162 inc/api/api-news.php:100 inc/api/api-news.php:191
+#: inc/api/api-project.php:71 inc/api/api-project.php:197
+#: inc/api/api-promotion.php:57 inc/api/api-promotion.php:123
+#: inc/api/api-room.php:252 inc/api/api-service.php:63
+msgid "Home"
+msgstr "หน้าหลัก"
+
+#: inc/api/api-about-us.php:158 inc/api/api-service.php:170
+#: inc/class/class-about-us.php:39 inc/class/class-service.php:39
+msgid "Overview"
+msgstr "ภาพรวม"
+
+#: inc/api/api-about-us.php:162
+msgid "Shinyu Value"
+msgstr ""
+
+#: inc/api/api-about-us.php:166
+msgid "Our Team"
+msgstr "ทีมงานของเรา"
+
+#: inc/api/api-about-us.php:170
+msgid "The Developer"
+msgstr "ผู้พัฒนาโครงการ"
+
+#: inc/api/api-about-us.php:174
+msgid "Our Partners"
+msgstr "พันธมิตรของเรา"
+
+#: inc/api/api-contact-us.php:66 inc/api/api-form.php:104
+#: inc/api/api-form.php:219 inc/api/api-job.php:66
+msgid "Firstname is required."
+msgstr "กรุณากรอกชื่อจริง"
+
+#: inc/api/api-contact-us.php:71 inc/api/api-job.php:71
+msgid "Lastname is required."
+msgstr "กรุณากรอกนามสกุล"
+
+#: inc/api/api-contact-us.php:76 inc/api/api-form.php:114
+#: inc/api/api-form.php:229 inc/api/api-job.php:76
+msgid "Phone number is required."
+msgstr "กรุณากรอกเบอร์โทร"
+
+#: inc/api/api-contact-us.php:81 inc/api/api-form.php:119
+#: inc/api/api-form.php:234 inc/api/api-job.php:81
+msgid "Email is required."
+msgstr "กรุณากรอกอีเมล"
+
+#: inc/api/api-contact-us.php:193
+msgid "Keeping in touch"
+msgstr ""
+
+#: inc/api/api-contact-us.php:194
+msgid ""
+"we went to make sure you’re kept up to date with the latest news from Urban "
+"splash and our partners. For maore information, including how we use your "
+"personal detail, please see our Privacy Policy."
+msgstr ""
+
+#: inc/api/api-contact-us.php:197
+msgid "Firstname"
+msgstr "ชื่อ"
+
+#: inc/api/api-contact-us.php:198
+msgid "Lastname"
+msgstr "นามสกุล"
+
+#: inc/api/api-contact-us.php:199 inc/class/class-contact-us.php:223
+#: inc/class/class-form.php:134
+msgid "Email"
+msgstr "อีเมล"
+
+#: inc/api/api-contact-us.php:200
+msgid "Phone number"
+msgstr ""
+
+#: inc/api/api-contact-us.php:201 inc/class/class-contact-us.php:224
+msgid "Subject"
+msgstr "เรื่อง"
+
+#: inc/api/api-contact-us.php:202 inc/class/class-contact-us.php:225
+msgid "Message"
+msgstr "รายละเอียด"
+
+#: inc/api/api-contact-us.php:203
+msgid "I would like to recive update from Shinyu"
+msgstr ""
+
+#: inc/api/api-contact-us.php:204
+msgid ""
+"By clicking download, you agree with Privacy Policy and Term & Condition"
+msgstr ""
+
+#: inc/api/api-home.php:228 inc/class/class-special-deal.php:45
+#: inc/class/class-special-deal.php:72
+msgid "Special Deal"
+msgstr ""
+
+#: inc/api/api-home.php:229
+msgid "For you"
+msgstr ""
+
+#: inc/api/api-home.php:266
+msgid "Hot deal"
+msgstr ""
+
+#: inc/api/api-home.php:267
+msgid "For"
+msgstr ""
+
+#: inc/api/api-home.php:271
+msgid "Customer voices"
+msgstr ""
+
+#: inc/api/api-home.php:272 inc/class/class-testimonial.php:45
+#: inc/class/class-testimonial.php:72
+msgid "Testimonial"
+msgstr "เสียงตอบรับจากลูกค้า"
+
+#: inc/api/api-home.php:276
+msgid "Insights"
+msgstr ""
+
+#: inc/api/api-home.php:277
+msgid "And News"
+msgstr ""
+
+#: inc/api/api-news.php:58
+msgid "All"
+msgstr "ทั้งหมด"
+
+#: inc/api/api-news.php:90 inc/api/api-news.php:104 inc/api/api-news.php:195
+#: inc/class/class-news.php:46 inc/class/class-news.php:73
+msgid "News"
+msgstr "ข่าวสารกิจกรรม"
+
+#: inc/api/api-project.php:61 inc/api/api-project.php:201
+#: inc/class/class-home.php:113 inc/class/class-project.php:50
+#: inc/class/class-promotion.php:117 inc/class/class-room.php:161
+#: inc/class/class-room.php:512
+msgid "Project"
+msgstr ""
+
+#: inc/api/api-project.php:75 inc/api/api-project.php:160
+msgid "Project Development"
+msgstr ""
+
+#: inc/api/api-project.php:105
+msgid "BY"
+msgstr ""
+
+#: inc/api/api-project.php:149
+msgid "All Development"
+msgstr ""
+
+#: inc/api/api-project.php:364 inc/api/api-room.php:408
+#: inc/class/class-project.php:580 inc/class/class-room.php:422
+msgid "Current asking price per sqm."
+msgstr ""
+
+#: inc/api/api-project.php:368 inc/api/api-room.php:412
+#: inc/class/class-project.php:586 inc/class/class-room.php:428
+msgid "Asking price change from last quarter"
+msgstr ""
+
+#: inc/api/api-project.php:372 inc/api/api-room.php:416
+#: inc/class/class-project.php:592 inc/class/class-room.php:434
+msgid "Asking price chang from last year"
+msgstr ""
+
+#: inc/api/api-project.php:376 inc/api/api-room.php:420
+#: inc/class/class-project.php:598 inc/class/class-room.php:440
+msgid "Achievable gross rental yield"
+msgstr ""
+
+#: inc/api/api-project.php:380 inc/api/api-room.php:424
+#: inc/class/class-project.php:604 inc/class/class-room.php:446
+msgid "Rent price change from last year"
+msgstr ""
+
+#: inc/api/api-promotion.php:47 inc/api/api-promotion.php:61
+#: inc/api/api-promotion.php:127 inc/class/class-promotion.php:45
+#: inc/class/class-promotion.php:72
+#, fuzzy
+#| msgid "Position"
+msgid "Promotion"
+msgstr "ตำแหน่ง"
+
+#: inc/api/api-room.php:81
+msgid "SELL / RENT"
+msgstr ""
+
+#: inc/api/api-room.php:256 inc/class/class-home.php:107
+#: inc/class/class-room.php:49 inc/class/class-room.php:50
+#: inc/class/class-room.php:52
+msgid "Room"
+msgstr ""
+
+#: inc/api/api-service.php:84 inc/class/class-service.php:80
+msgid "Buy"
+msgstr "ซื้อ"
+
+#: inc/api/api-service.php:174 inc/class/class-service.php:72
+msgid "Buy/Sell/Rent"
+msgstr "ซื้อ/ขาย/เช่า"
+
+#: inc/api/api-service.php:178 inc/class/class-service.php:131
+msgid "Investment"
+msgstr "การลงทุน"
+
+#: inc/api/api-service.php:182 inc/class/class-service.php:148
+msgid "Interior Design"
+msgstr "ออกแบบตกแต่งภายใน"
+
+#: inc/api/api-service.php:186 inc/class/class-service.php:189
+msgid "Management"
+msgstr "บริหารจัดการ"
+
+#: inc/class/class-about-us.php:35 inc/class/class-about-us.php:47
+#: inc/class/class-about-us.php:80 inc/class/class-home.php:35
+#: inc/class/class-service.php:35 inc/class/class-service.php:47
+#: inc/class/class-service.php:139 inc/class/class-service.php:156
+#: inc/class/class-service.php:197
+msgid "Content"
+msgstr "เนื้อหา"
+
+#: inc/class/class-about-us.php:59 inc/class/class-home.php:58
+#: inc/class/class-project.php:507 inc/class/class-project.php:561
+#: inc/class/class-room.php:349 inc/class/class-room.php:403
+#: inc/class/class-service.php:59 inc/class/class-service.php:107
+#: inc/class/class-service.php:206 inc/class/class-testimonial.php:126
+msgid "Image"
+msgstr "รูปภาพ"
+
+#: inc/class/class-about-us.php:72
+msgid "Invest in Trust"
+msgstr ""
+
+#: inc/class/class-about-us.php:87
+msgid "Add Item"
+msgstr "เพิ่ม"
+
+#: inc/class/class-about-us.php:91 inc/class/class-home.php:67
+#: inc/class/class-home.php:127 inc/class/class-job.php:236
+#: inc/class/class-news.php:235 inc/class/class-project.php:555
+#: inc/class/class-promotion.php:176 inc/class/class-room.php:397
+#: inc/class/class-special-deal.php:177 inc/class/class-testimonial.php:189
+msgid "Title"
+msgstr "หัวข้อ"
+
+#: inc/class/class-about-us.php:97 inc/class/class-about-us.php:122
+#: inc/class/class-home.php:73 inc/class/class-home.php:139
+#: inc/class/class-testimonial.php:136
+msgid "Description"
+msgstr "คำอธิบาย"
+
+#: inc/class/class-about-us.php:105 inc/class/class-service.php:119
+msgid "Background"
+msgstr ""
+
+#: inc/class/class-about-us.php:114 inc/class/class-about-us.php:131
+msgid "People"
+msgstr "บุคลากร"
+
+#: inc/class/class-about-us.php:138
+msgid "Add People"
+msgstr "เพิ่มบุคลากร"
+
+#: inc/class/class-about-us.php:142 inc/class/class-testimonial.php:103
+msgid "Profile"
+msgstr "รูปโปรไฟล์"
+
+#: inc/class/class-about-us.php:155 inc/class/class-contact-us.php:221
+#: inc/class/class-form.php:131 inc/class/class-project.php:773
+#: inc/class/class-room.php:511
+msgid "Name"
+msgstr "ชื่อ"
+
+#: inc/class/class-about-us.php:164
+msgid "Position"
+msgstr "ตำแหน่ง"
+
+#: inc/class/class-about-us.php:175
+msgid "Building Owners"
+msgstr ""
+
+#: inc/class/class-about-us.php:196
+msgid "Partners"
+msgstr "พันธมิตร"
+
+#: inc/class/class-contact-us.php:41 inc/class/class-contact-us.php:42
+#: inc/class/class-contact-us.php:44
+msgid "Contact"
+msgstr "การติดต่อ"
+
+#: inc/class/class-contact-us.php:43
+msgid "All Contact"
+msgstr "การติดต่อทั้งหมด"
+
+#: inc/class/class-contact-us.php:45 inc/class/class-contact-us.php:46
+#: inc/class/class-contact-us.php:48
+msgid "Add Contact"
+msgstr ""
+
+#: inc/class/class-contact-us.php:47
+msgid "Edit Contact"
+msgstr ""
+
+#: inc/class/class-contact-us.php:49
+msgid "View Contact"
+msgstr ""
+
+#: inc/class/class-contact-us.php:50
+msgid "Search Contact"
+msgstr "ค้นหาการติดต่อ"
+
+#: inc/class/class-contact-us.php:51 inc/class/class-contact-us.php:52
+msgid "No Contact found."
+msgstr "ไม่พบการติดต่อ"
+
+#: inc/class/class-contact-us.php:84 inc/class/class-contact-us.php:135
+#: inc/class/class-form.php:81 inc/class/class-job.php:143
+#: inc/class/class-news.php:142 inc/class/class-project.php:270
+#: inc/class/class-project.php:635 inc/class/class-promotion.php:102
+#: inc/class/class-room.php:149 inc/class/class-special-deal.php:102
+msgid "Setting"
+msgstr "ตั่งค่า"
+
+#: inc/class/class-contact-us.php:88
+msgid "Contact page"
+msgstr "หน้าติดต่อ"
+
+#: inc/class/class-contact-us.php:103 inc/class/class-form.php:85
+msgid "Email recipient"
+msgstr "ผู้รับอีเมล"
+
+#: inc/class/class-contact-us.php:112 inc/class/class-form.php:94
+msgid "Line token"
+msgstr ""
+
+#: inc/class/class-contact-us.php:139
+msgid "Address"
+msgstr "ที่อยู่"
+
+#: inc/class/class-contact-us.php:156
+msgid "Google Map"
+msgstr "Google Map"
+
+#: inc/class/class-contact-us.php:199
+msgid "Contact Settings"
+msgstr "ตั้งค่าการติดต่อ"
+
+#: inc/class/class-contact-us.php:200 inc/class/class-form.php:120
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+#: inc/class/class-contact-us.php:210
+msgid "Contact Us Page"
+msgstr "หน้าติดต่อ"
+
+#: inc/class/class-contact-us.php:222 inc/class/class-form.php:133
+msgid "Phone"
+msgstr "เบอร์โทร"
+
+#: inc/class/class-contact-us.php:226 inc/class/class-form.php:135
+#: inc/class/class-job.php:239 inc/class/class-news.php:238
+#: inc/class/class-promotion.php:178 inc/class/class-special-deal.php:179
+#: inc/class/class-testimonial.php:191
+msgid "Date"
+msgstr "วันที่"
+
+#: inc/class/class-form.php:38 inc/class/class-form.php:39
+msgid "Request View"
+msgstr ""
+
+#: inc/class/class-form.php:40
+#, fuzzy
+#| msgid "All Register"
+msgid "All Request"
+msgstr "ลงทะเบียนเรียนทั้งหมด"
+
+#: inc/class/class-form.php:41
+msgid "Request"
+msgstr ""
+
+#: inc/class/class-form.php:42 inc/class/class-form.php:43
+#: inc/class/class-form.php:45
+msgid "Add Request"
+msgstr ""
+
+#: inc/class/class-form.php:44
+#, fuzzy
+#| msgid "Edit News"
+msgid "Edit Request"
+msgstr "แก้ไขข่าวสารกิจกรรม"
+
+#: inc/class/class-form.php:46
+#, fuzzy
+#| msgid "View Register"
+msgid "View Request"
+msgstr "ดูรายละเอียด"
+
+#: inc/class/class-form.php:47
+#, fuzzy
+#| msgid "Search Register"
+msgid "Search Request"
+msgstr "ค้นหาการลงทะเบียน"
+
+#: inc/class/class-form.php:48 inc/class/class-form.php:49
+#, fuzzy
+#| msgid "No Register found."
+msgid "No Request found."
+msgstr "ไม่พบการลงทะเบียน"
+
+#: inc/class/class-form.php:119
+#, fuzzy
+#| msgid "Settings"
+msgid "Form Settings"
+msgstr "ตั้งค่า"
+
+#: inc/class/class-form.php:132
+msgid "from"
+msgstr ""
+
+#: inc/class/class-home.php:39
+msgid "Menu"
+msgstr "เมนู"
+
+#: inc/class/class-home.php:54
+msgid "Add menu"
+msgstr ""
+
+#: inc/class/class-home.php:79
+msgid "Link"
+msgstr "ลิงค์"
+
+#: inc/class/class-home.php:87
+#, fuzzy
+#| msgid "Status"
+msgid "State"
+msgstr "สถานะ"
+
+#: inc/class/class-home.php:95
+msgid "Customers"
+msgstr ""
+
+#: inc/class/class-home.php:101
+msgid "Total sqm leased"
+msgstr ""
+
+#: inc/class/class-home.php:119
+msgid "Video"
+msgstr "วีดิโอ"
+
+#: inc/class/class-home.php:133
+msgid "Sub Title"
+msgstr ""
+
+#: inc/class/class-home.php:145 inc/class/class-job.php:183
+#: inc/class/class-news.php:182 inc/class/class-project.php:515
+#: inc/class/class-promotion.php:106 inc/class/class-room.php:357
+#: inc/class/class-special-deal.php:125
+msgid "Cover"
+msgstr ""
+
+#: inc/class/class-job.php:46 inc/class/class-job.php:73
+msgid "Job"
+msgstr ""
+
+#: inc/class/class-job.php:47 inc/class/class-news.php:47
+#: inc/class/class-promotion.php:46 inc/class/class-special-deal.php:46
+#: inc/class/class-testimonial.php:46
+msgid "Post Type"
+msgstr ""
+
+#: inc/class/class-job.php:48
+msgid "Job Archives"
+msgstr ""
+
+#: inc/class/class-job.php:49
+msgid "Job Attributes"
+msgstr ""
+
+#: inc/class/class-job.php:50 inc/class/class-job.php:106
+#: inc/class/class-news.php:50 inc/class/class-news.php:105
+#: inc/class/class-project.php:97 inc/class/class-project.php:131
+#: inc/class/class-project.php:165 inc/class/class-project.php:199
+#: inc/class/class-project.php:233 inc/class/class-promotion.php:49
+#: inc/class/class-room.php:101 inc/class/class-special-deal.php:49
+#: inc/class/class-testimonial.php:49
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/class/class-job.php:51
+#, fuzzy
+#| msgid "All shop"
+msgid "All Job"
+msgstr "ร้านทั้งหมด"
+
+#: inc/class/class-job.php:52 inc/class/class-job.php:108
+#: inc/class/class-news.php:52 inc/class/class-news.php:107
+#: inc/class/class-project.php:99 inc/class/class-project.php:133
+#: inc/class/class-project.php:167 inc/class/class-project.php:201
+#: inc/class/class-project.php:235 inc/class/class-promotion.php:51
+#: inc/class/class-room.php:103 inc/class/class-special-deal.php:51
+#: inc/class/class-testimonial.php:51
+msgid "Add New Item"
+msgstr "เพิ่มใหม่"
+
+#: inc/class/class-job.php:53 inc/class/class-news.php:53
+#: inc/class/class-project.php:51 inc/class/class-promotion.php:52
+#: inc/class/class-room.php:53 inc/class/class-room.php:134
+#: inc/class/class-room.php:135 inc/class/class-special-deal.php:52
+#: inc/class/class-testimonial.php:52
+msgid "Add New"
+msgstr "เพิ่มใหม่"
+
+#: inc/class/class-job.php:54 inc/class/class-news.php:54
+#: inc/class/class-promotion.php:53 inc/class/class-special-deal.php:53
+#: inc/class/class-testimonial.php:53
+msgid "New Item"
+msgstr ""
+
+#: inc/class/class-job.php:55 inc/class/class-job.php:109
+#: inc/class/class-news.php:55 inc/class/class-news.php:108
+#: inc/class/class-project.php:100 inc/class/class-project.php:134
+#: inc/class/class-project.php:168 inc/class/class-project.php:202
+#: inc/class/class-project.php:236 inc/class/class-promotion.php:54
+#: inc/class/class-room.php:104 inc/class/class-special-deal.php:54
+#: inc/class/class-testimonial.php:54
+msgid "Edit Item"
+msgstr ""
+
+#: inc/class/class-job.php:56 inc/class/class-job.php:110
+#: inc/class/class-news.php:56 inc/class/class-news.php:109
+#: inc/class/class-project.php:101 inc/class/class-project.php:135
+#: inc/class/class-project.php:169 inc/class/class-project.php:203
+#: inc/class/class-project.php:237 inc/class/class-promotion.php:55
+#: inc/class/class-room.php:105 inc/class/class-special-deal.php:55
+#: inc/class/class-testimonial.php:55
+msgid "Update Item"
+msgstr ""
+
+#: inc/class/class-job.php:57 inc/class/class-job.php:111
+#: inc/class/class-news.php:57 inc/class/class-news.php:110
+#: inc/class/class-project.php:102 inc/class/class-project.php:136
+#: inc/class/class-project.php:170 inc/class/class-project.php:204
+#: inc/class/class-project.php:238 inc/class/class-promotion.php:56
+#: inc/class/class-room.php:106 inc/class/class-special-deal.php:56
+#: inc/class/class-testimonial.php:56
+msgid "View Item"
+msgstr ""
+
+#: inc/class/class-job.php:58 inc/class/class-news.php:58
+#: inc/class/class-promotion.php:57 inc/class/class-special-deal.php:57
+#: inc/class/class-testimonial.php:57
+msgid "View Items"
+msgstr ""
+
+#: inc/class/class-job.php:59 inc/class/class-news.php:59
+#: inc/class/class-promotion.php:58 inc/class/class-special-deal.php:58
+#: inc/class/class-testimonial.php:58
+msgid "Search Item"
+msgstr ""
+
+#: inc/class/class-job.php:60 inc/class/class-news.php:60
+#: inc/class/class-promotion.php:59 inc/class/class-special-deal.php:59
+#: inc/class/class-testimonial.php:59
+msgid "Not found"
+msgstr ""
+
+#: inc/class/class-job.php:61 inc/class/class-news.php:61
+#: inc/class/class-promotion.php:60 inc/class/class-special-deal.php:60
+#: inc/class/class-testimonial.php:60
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/class/class-job.php:62 inc/class/class-news.php:62
+#: inc/class/class-project.php:61 inc/class/class-promotion.php:61
+#: inc/class/class-room.php:63 inc/class/class-special-deal.php:61
+#: inc/class/class-testimonial.php:61
+msgid "Featured Image"
+msgstr ""
+
+#: inc/class/class-job.php:63 inc/class/class-news.php:63
+#: inc/class/class-project.php:62 inc/class/class-promotion.php:62
+#: inc/class/class-room.php:64 inc/class/class-special-deal.php:62
+#: inc/class/class-testimonial.php:62
+msgid "Set featured image"
+msgstr ""
+
+#: inc/class/class-job.php:64 inc/class/class-news.php:64
+#: inc/class/class-project.php:63 inc/class/class-promotion.php:63
+#: inc/class/class-room.php:65 inc/class/class-special-deal.php:63
+#: inc/class/class-testimonial.php:63
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/class/class-job.php:65 inc/class/class-news.php:65
+#: inc/class/class-project.php:64 inc/class/class-promotion.php:64
+#: inc/class/class-room.php:66 inc/class/class-special-deal.php:64
+#: inc/class/class-testimonial.php:64
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/class/class-job.php:66 inc/class/class-news.php:66
+#: inc/class/class-project.php:65 inc/class/class-promotion.php:65
+#: inc/class/class-room.php:67 inc/class/class-special-deal.php:65
+#: inc/class/class-testimonial.php:65
+msgid "Insert into item"
+msgstr ""
+
+#: inc/class/class-job.php:67 inc/class/class-news.php:67
+#: inc/class/class-project.php:66 inc/class/class-promotion.php:66
+#: inc/class/class-room.php:68 inc/class/class-special-deal.php:66
+#: inc/class/class-testimonial.php:66
+msgid "Uploaded to this item"
+msgstr ""
+
+#: inc/class/class-job.php:68 inc/class/class-job.php:119
+#: inc/class/class-news.php:68 inc/class/class-news.php:118
+#: inc/class/class-project.php:110 inc/class/class-project.php:144
+#: inc/class/class-project.php:178 inc/class/class-project.php:212
+#: inc/class/class-project.php:246 inc/class/class-promotion.php:67
+#: inc/class/class-room.php:114 inc/class/class-special-deal.php:67
+#: inc/class/class-testimonial.php:67
+msgid "Items list"
+msgstr ""
+
+#: inc/class/class-job.php:69 inc/class/class-job.php:120
+#: inc/class/class-news.php:69 inc/class/class-news.php:119
+#: inc/class/class-project.php:111 inc/class/class-project.php:145
+#: inc/class/class-project.php:179 inc/class/class-project.php:213
+#: inc/class/class-project.php:247 inc/class/class-promotion.php:68
+#: inc/class/class-room.php:115 inc/class/class-special-deal.php:68
+#: inc/class/class-testimonial.php:68
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/class/class-job.php:70 inc/class/class-news.php:70
+#: inc/class/class-project.php:69 inc/class/class-promotion.php:69
+#: inc/class/class-room.php:71 inc/class/class-special-deal.php:69
+#: inc/class/class-testimonial.php:69
+msgid "Filter items list"
+msgstr ""
+
+#: inc/class/class-job.php:74 inc/class/class-news.php:74
+#: inc/class/class-promotion.php:73 inc/class/class-special-deal.php:73
+#: inc/class/class-testimonial.php:73
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class/class-job.php:103 inc/class/class-job.php:166
+#: inc/class/class-job.php:237 inc/class/class-news.php:102
+#: inc/class/class-news.php:165 inc/class/class-news.php:236
+msgid "Category"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-job.php:104 inc/class/class-news.php:103
+#: inc/class/class-project.php:95 inc/class/class-project.php:129
+#: inc/class/class-project.php:163 inc/class/class-project.php:197
+#: inc/class/class-project.php:231 inc/class/class-promotion.php:50
+#: inc/class/class-room.php:99 inc/class/class-special-deal.php:50
+#: inc/class/class-testimonial.php:50
+msgid "All Items"
+msgstr ""
+
+#: inc/class/class-job.php:105 inc/class/class-news.php:104
+#: inc/class/class-project.php:96 inc/class/class-project.php:130
+#: inc/class/class-project.php:164 inc/class/class-project.php:198
+#: inc/class/class-project.php:232 inc/class/class-room.php:100
+msgid "Parent Item"
+msgstr ""
+
+#: inc/class/class-job.php:107 inc/class/class-news.php:106
+#: inc/class/class-project.php:98 inc/class/class-project.php:132
+#: inc/class/class-project.php:166 inc/class/class-project.php:200
+#: inc/class/class-project.php:234 inc/class/class-room.php:102
+msgid "New Item Name"
+msgstr ""
+
+#: inc/class/class-job.php:112 inc/class/class-news.php:111
+#: inc/class/class-project.php:103 inc/class/class-project.php:137
+#: inc/class/class-project.php:171 inc/class/class-project.php:205
+#: inc/class/class-project.php:239 inc/class/class-room.php:107
+msgid "Separate items with commas"
+msgstr ""
+
+#: inc/class/class-job.php:113 inc/class/class-news.php:112
+#: inc/class/class-project.php:104 inc/class/class-project.php:138
+#: inc/class/class-project.php:172 inc/class/class-project.php:206
+#: inc/class/class-project.php:240 inc/class/class-room.php:108
+msgid "Add or remove items"
+msgstr ""
+
+#: inc/class/class-job.php:114 inc/class/class-news.php:113
+#: inc/class/class-project.php:105 inc/class/class-project.php:139
+#: inc/class/class-project.php:173 inc/class/class-project.php:207
+#: inc/class/class-project.php:241 inc/class/class-room.php:109
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/class/class-job.php:115 inc/class/class-news.php:114
+#: inc/class/class-project.php:106 inc/class/class-project.php:140
+#: inc/class/class-project.php:174 inc/class/class-project.php:208
+#: inc/class/class-project.php:242 inc/class/class-room.php:110
+msgid "Popular Items"
+msgstr ""
+
+#: inc/class/class-job.php:116 inc/class/class-news.php:115
+#: inc/class/class-project.php:107 inc/class/class-project.php:141
+#: inc/class/class-project.php:175 inc/class/class-project.php:209
+#: inc/class/class-project.php:243 inc/class/class-room.php:111
+msgid "Search Items"
+msgstr ""
+
+#: inc/class/class-job.php:117 inc/class/class-news.php:116
+#: inc/class/class-project.php:108 inc/class/class-project.php:142
+#: inc/class/class-project.php:176 inc/class/class-project.php:210
+#: inc/class/class-project.php:244 inc/class/class-room.php:112
+msgid "Not Found"
+msgstr ""
+
+#: inc/class/class-job.php:118 inc/class/class-news.php:117
+#: inc/class/class-project.php:109 inc/class/class-project.php:143
+#: inc/class/class-project.php:177 inc/class/class-project.php:211
+#: inc/class/class-project.php:245 inc/class/class-room.php:113
+msgid "No items"
+msgstr ""
+
+#: inc/class/class-job.php:193 inc/class/class-news.php:192
+#: inc/class/class-project.php:526 inc/class/class-room.php:368
+msgid "Gallery"
+msgstr "แกลอรี่"
+
+#: inc/class/class-job.php:238 inc/class/class-news.php:237
+#: inc/class/class-promotion.php:177 inc/class/class-special-deal.php:178
+#: inc/class/class-testimonial.php:190
+msgid "Author"
+msgstr ""
+
+#: inc/class/class-news.php:48
+msgid "News Archives"
+msgstr ""
+
+#: inc/class/class-news.php:49
+msgid "News Attributes"
+msgstr ""
+
+#: inc/class/class-news.php:51
+msgid "All News"
+msgstr "ข่าวสารกิจกรรมทั้งหมด"
+
+#: inc/class/class-project.php:47 inc/class/class-project.php:48
+msgid "Projects"
+msgstr ""
+
+#: inc/class/class-project.php:49
+msgid "All Projects"
+msgstr "โปรเจคทั้งหมด"
+
+#: inc/class/class-project.php:52 inc/class/class-project.php:54
+msgid "Add Project"
+msgstr "เพิ่มโปรเจค"
+
+#: inc/class/class-project.php:53
+msgid "Edit Project"
+msgstr "แก้ไขโปรเจค"
+
+#: inc/class/class-project.php:55 inc/class/class-project.php:60
+msgid "View Project"
+msgstr "ดูโปรเจค"
+
+#: inc/class/class-project.php:56
+msgid "Search Project"
+msgstr ""
+
+#: inc/class/class-project.php:57 inc/class/class-project.php:58
+msgid "No Project found."
+msgstr ""
+
+#: inc/class/class-project.php:67
+msgid "Projects list"
+msgstr ""
+
+#: inc/class/class-project.php:68
+msgid "Projects list navigation"
+msgstr ""
+
+#: inc/class/class-project.php:94 inc/class/class-project.php:639
+#: inc/class/class-project.php:774 inc/class/class-room.php:513
+msgid "Type"
+msgstr ""
+
+#: inc/class/class-project.php:128 inc/class/class-project.php:328
+#: inc/class/class-project.php:775
+msgid "Country"
+msgstr ""
+
+#: inc/class/class-project.php:162 inc/class/class-project.php:292
+#: inc/class/class-project.php:776
+msgid "Developer"
+msgstr ""
+
+#: inc/class/class-project.php:196 inc/class/class-project.php:346
+msgid "Location"
+msgstr ""
+
+#: inc/class/class-project.php:230 inc/class/class-project.php:488
+#: inc/class/class-room.php:98 inc/class/class-room.php:331
+#: inc/class/class-room.php:514
+msgid "Facility"
+msgstr "สิ่งอำนวยความสะดวก"
+
+#: inc/class/class-project.php:274 inc/class/class-room.php:153
+msgid "General"
+msgstr ""
+
+#: inc/class/class-project.php:282 inc/class/class-project.php:757
+msgid "Recommend project"
+msgstr ""
+
+#: inc/class/class-project.php:310
+msgid "Project Type"
+msgstr ""
+
+#: inc/class/class-project.php:352
+msgid "BTS"
+msgstr ""
+
+#: inc/class/class-project.php:368
+msgid "MRT"
+msgstr ""
+
+#: inc/class/class-project.php:384
+msgid "Latitude"
+msgstr ""
+
+#: inc/class/class-project.php:391
+msgid "Longitude"
+msgstr ""
+
+#: inc/class/class-project.php:398
+msgid "Year Built"
+msgstr ""
+
+#: inc/class/class-project.php:414
+msgid "Area"
+msgstr ""
+
+#: inc/class/class-project.php:423
+msgid "Total Units"
+msgstr ""
+
+#: inc/class/class-project.php:432
+msgid "Towers"
+msgstr ""
+
+#: inc/class/class-project.php:442
+msgid "Floors"
+msgstr ""
+
+#: inc/class/class-project.php:451
+msgid "Room type"
+msgstr ""
+
+#: inc/class/class-project.php:461
+msgid "Pricing per SQM"
+msgstr ""
+
+#: inc/class/class-project.php:470
+msgid "Est. Rental price"
+msgstr ""
+
+#: inc/class/class-project.php:479
+msgid "Parking Space"
+msgstr ""
+
+#: inc/class/class-project.php:536 inc/class/class-room.php:378
+msgid "Floor"
+msgstr ""
+
+#: inc/class/class-project.php:551 inc/class/class-room.php:393
+msgid "Add Floor"
+msgstr ""
+
+#: inc/class/class-project.php:572 inc/class/class-room.php:414
+msgid "Market Stat"
+msgstr ""
+
+#: inc/class/class-project.php:679 inc/class/class-room.php:473
+msgid "Icon"
+msgstr ""
+
+#: inc/class/class-project.php:777
+msgid "Location (BTS/MRT)"
+msgstr ""
+
+#: inc/class/class-promotion.php:47 inc/class/class-special-deal.php:47
+#: inc/class/class-testimonial.php:47
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class/class-promotion.php:48 inc/class/class-special-deal.php:48
+#: inc/class/class-testimonial.php:48
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/class/class-room.php:51
+msgid "All Rooms"
+msgstr ""
+
+#: inc/class/class-room.php:54 inc/class/class-room.php:56
+msgid "Add Room"
+msgstr ""
+
+#: inc/class/class-room.php:55
+msgid "Edit Room"
+msgstr ""
+
+#: inc/class/class-room.php:57 inc/class/class-room.php:62
+msgid "View Room"
+msgstr ""
+
+#: inc/class/class-room.php:58
+msgid "Search Room"
+msgstr ""
+
+#: inc/class/class-room.php:59 inc/class/class-room.php:60
+msgid "No Room found."
+msgstr ""
+
+#: inc/class/class-room.php:69
+msgid "Room list"
+msgstr ""
+
+#: inc/class/class-room.php:70
+msgid "Room list navigation"
+msgstr ""
+
+#: inc/class/class-room.php:179 inc/class/class-room.php:498
+msgid "Recommend room"
+msgstr "ห้องแนะนำ"
+
+#: inc/class/class-room.php:190
+msgid "Condition"
+msgstr ""
+
+#: inc/class/class-room.php:206
+msgid "Price for sell"
+msgstr ""
+
+#: inc/class/class-room.php:214
+msgid "Price for rent"
+msgstr ""
+
+#: inc/class/class-room.php:222
+msgid "Unit No."
+msgstr ""
+
+#: inc/class/class-room.php:230
+msgid "Levels"
+msgstr ""
+
+#: inc/class/class-room.php:238
+msgid "Room Area (SQM)"
+msgstr ""
+
+#: inc/class/class-room.php:246
+msgid "View"
+msgstr "บรรยากาศ"
+
+#: inc/class/class-room.php:263
+msgid "Direction"
+msgstr "ทิศ"
+
+#: inc/class/class-room.php:280
+msgid "Room Type"
+msgstr "ประเภทห้อง"
+
+#: inc/class/class-room.php:297
+msgid "Bedrooms"
+msgstr "ห้องนอน"
+
+#: inc/class/class-room.php:314
+msgid "Bathrooms"
+msgstr "ห้องน้ำ"
+
+#: inc/class/class-service.php:165
+#, fuzzy
+#| msgid "Image"
+msgid "Image 1"
+msgstr "รูปภาพ"
+
+#: inc/class/class-service.php:177
+#, fuzzy
+#| msgid "Image"
+msgid "Image 2"
+msgstr "รูปภาพ"
+
+#~ msgid "Map"
+#~ msgstr "แผนที่"
+
+#~ msgid "Content "
+#~ msgstr "เนื้อหา"
+
+#~ msgid "History"
+#~ msgstr "ประวัติโรงเรียน"
+
+#~ msgid "Policy"
+#~ msgstr "นโยบาย"
+
+#~ msgid "Quality and standard"
+#~ msgstr "คุณภาพและมาตรฐาน"
+
+#~ msgid "Vision"
+#~ msgstr "วิสัยทัศน์"
+
+#~ msgid "Philosophy"
+#~ msgstr "ปรัชญา"
+
+#~ msgid "Identity"
+#~ msgstr "อัตลักษณ์ / เอกลักษณ์"
+
+#~ msgid "Personnel"
+#~ msgstr "บุคลากร"
+
+#, fuzzy
+#~| msgid "No Event found."
+#~ msgid "No Activity found."
+#~ msgstr "ไม่พบอีเว้นท์"
+
+#~ msgid "Map preview"
+#~ msgstr "รูปตัวอย่างแผนที่"
+
+#~ msgid "Slideshow"
+#~ msgstr "สไลด์โชว์"
+
+#~ msgid "Add slide"
+#~ msgstr "เพิ่มสไลด์"
+
+#~ msgid "Course"
+#~ msgstr "หลักสูตร"
+
+#~ msgid "Other"
+#~ msgstr "อื่นๆ"
+
+#~ msgid "Teachers"
+#~ msgstr "ครูผู้สอน"
+
+#~ msgid "Teacher"
+#~ msgstr "ครูผู้สอน"
+
+#~ msgid "All Teachers"
+#~ msgstr "ครูผู้สอนทั้งหมด"
+
+#~ msgid "Add Teacher"
+#~ msgstr "เพิ่มครูผู้สอน"
+
+#~ msgid "Edit Teacher"
+#~ msgstr "แก้ไข"
+
+#~ msgid "View Teacher"
+#~ msgstr "ดูครูผู้สอน"
+
+#~ msgid "Search Teacher"
+#~ msgstr "ค้นหาครูผู้สอน"
+
+#~ msgid "No Teacher found."
+#~ msgstr "ไม่พบครูผู้สอน"
+
+#, fuzzy
+#~| msgid "Category"
+#~ msgid "All Category"
+#~ msgstr "หมวดหมู่"
+
+#, fuzzy
+#~| msgid "Category"
+#~ msgid "New Category"
+#~ msgstr "หมวดหมู่"
+
+#, fuzzy
+#~| msgid "Category"
+#~ msgid "Add Category"
+#~ msgstr "หมวดหมู่"
+
+#, fuzzy
+#~| msgid "Category"
+#~ msgid "Edit Category"
+#~ msgstr "หมวดหมู่"
+
+#, fuzzy
+#~| msgid "Category"
+#~ msgid "View Category"
+#~ msgstr "หมวดหมู่"
+
+#~ msgid "Avatar"
+#~ msgstr "รูปประจำตัว"
+
+#~ msgid "%sOur%s blog"
+#~ msgstr "%sบ%sทความ"
+
+#~ msgid "Blog"
+#~ msgstr "บทความ"
+
+#~ msgid "View photo"
+#~ msgstr "ดูรูป"
+
+#~ msgid "Academic"
+#~ msgstr "หลักสูตร"
+
+#~ msgid "Academics"
+#~ msgstr "หลักสูตร"
+
+#~ msgid "All Academic"
+#~ msgstr "หลักสูตรทั้งหมด"
+
+#~ msgid "Add Academic"
+#~ msgstr "เพิ่มหลักสูตร"
+
+#~ msgid "No Academic found."
+#~ msgstr "ไม่พบหลักสูตร"
+
+#~ msgid "Academic Certificate"
+#~ msgstr "หลักสูตรประกาศนียบัตร"
+
+#, fuzzy
+#~| msgid "Featured"
+#~ msgid "Program Feature"
+#~ msgstr "โดดเด่น"
+
+#~ msgid "Some customer samples"
+#~ msgstr "ตัวอย่างลูกค้าบางส่วน"
+
+#, fuzzy
+#~| msgid "Featured"
+#~ msgid "Feature"
+#~ msgstr "โดดเด่น"
+
+#~ msgid "Program"
+#~ msgstr "สาขาวิชา"
+
+#~ msgid "Event"
+#~ msgstr "อีเว้นท์"
+
+#~ msgid "Edit Event"
+#~ msgstr "แก้ไขอีเว้นท์"
+
+#~ msgid "View Event"
+#~ msgstr "ดูอีเว้นท์"
+
+#~ msgid "Search Event"
+#~ msgstr "ค้นหาอีเว้นท์"
+
+#~ msgid "Entertainment Seminar"
+#~ msgstr "สัมมนาวงการบันเทิง"
+
+#~ msgid "Register"
+#~ msgstr "ลงทะเบียนเรียน"
+
+#~ msgid "Register Settings"
+#~ msgstr "ตั้งค่าการลงทะเบียนเรียน"
+
+#~ msgid "Select program"
+#~ msgstr "เลือกสาขาวิชา"
+
+#~ msgid "Friend"
+#~ msgstr "เพื่อน"
+
+#~ msgid "Website"
+#~ msgstr "เว็บไซต์"
+
+#~ msgid "Leaflet"
+#~ msgstr "ใบปลิว"
+
+#~ msgid "Submit"
+#~ msgstr "ส่งข้อมูล"
+
+#~ msgid "From"
+#~ msgstr "รู้จักเราจาก"
+
+#~ msgid "Share"
+#~ msgstr "แชร์"
+
+#~ msgid "Students"
+#~ msgstr "นักเรียน"
+
+#~ msgid "All Student"
+#~ msgstr "นักเรียนทั้งหมด"
+
+#~ msgid "Edit Student"
+#~ msgstr "แก้ไข"
+
+#~ msgid "View Student"
+#~ msgstr "ดูนักเรียน"
+
+#~ msgid "Search Students"
+#~ msgstr "ค้นหานักเรียน"
+
+#~ msgid "No Student found."
+#~ msgstr "ไม่พบนักเรียน"
+
+#~ msgid "Famous"
+#~ msgstr "มีชื่อเสียง"
+
+#~ msgid "Past Events"
+#~ msgstr "อีเว้นท์ที่ผ่านมา"
+
+#~ msgid "All Teacher"
+#~ msgstr "ครูผู้สอนทั้งหมด"
+
+#~ msgid "Where to buy"
+#~ msgstr "สถานที่จัดจำหน่าย"
+
+#~ msgid "Choose an area"
+#~ msgstr "เลือก"
+
+#~ msgid "View details"
+#~ msgstr "ดูรายละเอียด"
+
+#~ msgid "Certificate program"
+#~ msgstr "หลักสูตรประกาศนียบัตร"
+
+#~ msgid "Other program"
+#~ msgstr "หลักสูตรอื่นๆ"
+
+#, fuzzy
+#~| msgid "Add Province"
+#~ msgid "Add faq"
+#~ msgstr "เพิ่ม"
+
+#~ msgid "Showing all %s shop"
+#~ msgstr "แสดงทั้งหมด %s ร้าน"
+
+#~ msgid "Showing %1$d&ndash;%2$d of %3$d shop"
+#~ msgstr "แสดง %1$d&ndash;%2$d จาก %3$d ร้าน"
+
+#~ msgid "Career"
+#~ msgstr "อาชีพ"
+
+#~ msgid "Find us at"
+#~ msgstr "เจอสินค้าของเราได้"
+
+#~ msgid "Healthy and beauty community"
+#~ msgstr "ชุมชนเพื่อสุขภาพและความงาม"
+
+#~ msgid "Payment"
+#~ msgstr "การแจ้งชำระเงิน"
+
+#~ msgid "All Payment"
+#~ msgstr "การแจ้งชำระเงินทั้งหมด"
+
+#~ msgid "View Payment"
+#~ msgstr "ดู"
+
+#~ msgid "Confirm payment"
+#~ msgstr "แจ้งชำระเงิน"
+
+#, fuzzy
+#~| msgid "Totals"
+#~ msgid "Total"
+#~ msgstr "ยอดรวมสุทธิ"
+
+#~ msgid "Gluten Free"
+#~ msgstr "ข้าวตัง"
+
+#~ msgid "Vegan"
+#~ msgstr "มังสวิรัติ"
+
+#, fuzzy
+#~| msgid "Peanut Free"
+#~ msgid "Trans Fat Free"
+#~ msgstr "ถั่วลิสง"
+
+#, fuzzy
+#~| msgid "Gluten Free"
+#~ msgid "Flour Free"
+#~ msgstr "ข้าวตัง"
+
+#, fuzzy
+#~| msgid "Soy Free"
+#~ msgid "Dairy Free"
+#~ msgstr "ถั่วเหลือง"
+
+#, fuzzy
+#~| msgid "Peanut Free"
+#~ msgid "Nut Free"
+#~ msgstr "ถั่วลิสง"
+
+#, fuzzy
+#~| msgid "Peanut Free"
+#~ msgid "Wheat Free"
+#~ msgstr "ถั่วลิสง"
+
+#, fuzzy
+#~| msgid "Non GMO"
+#~ msgid "Non GMD"
+#~ msgstr "ไม่ใช่จีเอ็มโอ"
+
+#, fuzzy
+#~| msgid "Eggs Free"
+#~ msgid "Egg Free"
+#~ msgstr "ไข่"
+
+#~ msgid "Blend"
+#~ msgstr "ปั่น"
+
+#~ msgid "Mix with juice"
+#~ msgstr "ผสมน้ำผลไม้"
+
+#~ msgid "Sprinkle"
+#~ msgstr "โรย"
+
+#~ msgid "Spread"
+#~ msgstr "โรยบนขนมปัง"
+
+#~ msgid "Mix with water"
+#~ msgstr "ชงดื่ม"
+
+#~ msgid "Cook/boil"
+#~ msgstr "หุง, ต้ม"
+
+#~ msgid "Bake"
+#~ msgstr "ทำขนม"
+
+#~ msgid "Snacks"
+#~ msgstr "ทานเล่นได้เลย"
+
+#~ msgid "Mix with yogurt"
+#~ msgstr "ผสมโยเกิร์ต"
+
+#~ msgid "Mix with hot soy milk"
+#~ msgstr "โรยน้ำเต้าหู้ร้อน"
+
+#~ msgid "Sprinkle on salad, pizza"
+#~ msgstr "โรยสลัด, พิซซ่า"
+
+#~ msgid "Make dipping"
+#~ msgstr "ทำ Dipping"
+
+#~ msgid "Mix with Drinks"
+#~ msgstr "ผสมเครื่องดื่ม"
+
+#~ msgid "Benefits"
+#~ msgstr "ประโยชน์"
+
+#~ msgid "Allergen info"
+#~ msgstr "ข้อมูลสำหรับผู้แพ้อาหาร"
+
+#~ msgid "How to use"
+#~ msgstr "วิธีทาน"
+
+#~ msgid "Login with facebook"
+#~ msgstr "เข้าสู่ระบะด้วยเฟสบุค"
+
+#~ msgid "OR"
+#~ msgstr "หรือ"
+
+#~ msgid "Username or email"
+#~ msgstr "ชื่อผู้ใช้หรืออีเมล"
+
+#~ msgid "Password"
+#~ msgstr "รหัสผ่าน"
+
+#~ msgid "Lost password"
+#~ msgstr "ลืมรหัสผ่าน"
+
+#~ msgid "Register with facebook"
+#~ msgstr "ลงทะเบียนด้วยเฟสบุค"
+
+#~ msgid "Username"
+#~ msgstr "ชื่อผู้ใช้"
+
+#~ msgid "You do not have an account?"
+#~ msgstr "คุณยังไม่มีบัญชีใช่ไหม ?"
+
+#~ msgid "Do you already have an account?"
+#~ msgstr "คุณมีบัญชีแล้วใช่ไหม ?"
+
+#~ msgid "Add Shop"
+#~ msgstr "เพิ่มร้านค้า"
+
+#, fuzzy
+#~| msgid "Edit Province"
+#~ msgid "Edit Area"
+#~ msgstr "แก้ไข"
+
+#~ msgid "Tel"
+#~ msgstr "เบอร์โทรศัพท์"
+
+#~ msgid "Add to wishlist"
+#~ msgstr "เพิ่มในรายการที่ชอบ"
+
+#~ msgid "Wishlist"
+#~ msgstr "รายการที่ชอบ"
+
+#~ msgid "Why organic seeds?"
+#~ msgstr "ทำไมต้อง “ออร์แกนิคซีดส์”?"
+
+#~ msgid "%sOur%s Story"
+#~ msgstr "%sเรื่องราว%s ของเรา"
+
+#~ msgid "%sWrite to%s us!"
+#~ msgstr "%sคุยกับ%s เรา!"
+
+#~ msgid "How can we help you ?"
+#~ msgstr "เราจะช่วยคุณได้อย่างไร ?"
+
+#~ msgid "%sOur%s recipe"
+#~ msgstr "%sสูตร%sอาหาร"
+
+#~ msgid "Recommend Recipe Of %sThe Day%s"
+#~ msgstr "แนะนำสูตร %sของวัน%s"
+
+#~ msgid "Recipe"
+#~ msgstr "สูตรอาหาร"
+
+#~ msgid "Great Recipes for %sEASY%s and %sDELICIOUS%s Meals"
+#~ msgstr "สูตรอาหารยอดเยี่ยมสำหรับ %sมื้ออาหารที่ง่าย%s ,และ %sอาหาร%s อร่อย"
+
+#~ msgid "%sWhere%s to buy"
+#~ msgstr "%sสถานที่%sจัดจำหน่าย"
+
+#~ msgid "I’m looking for..."
+#~ msgstr "ฉันกำลังมองหาสินค้าสำหรับ..."
+
+#~ msgid "Read more"
+#~ msgstr "อ่านเพิ่มเติม"
+
+#~ msgid "Recommend %sProducts%s"
+#~ msgstr "สินค้า%sแนะนำ%s"
+
+#~ msgid "Organic Seeds %sRecipes%s"
+#~ msgstr "สูตรอาหารสไตล์%sออร์แกนิคซีดส์ %s"
+
+#~ msgid "%sBlog%s & News"
+#~ msgstr "%sบทความ%sและข่าวสาร"
+
+#~ msgid "Free shipping in Thailand"
+#~ msgstr "ส่งฟรีทั่วประเทศไทย"
+
+#~ msgid "Ingredients"
+#~ msgstr "ส่วนผสม"
+
+#, fuzzy
+#~| msgid "Address"
+#~ msgid "Add"
+#~ msgstr "ที่อยู่"
+
+#~ msgid "Sort by"
+#~ msgstr "เรียงตาม"
+
+#~ msgid "Load more products"
+#~ msgstr "โหลดเสินค้าเพิ่มเติม"
+
+#~ msgid "%sOur%s Products"
+#~ msgstr "%sสินค้า%s ของเรา"
+
+#~ msgid "Categories"
+#~ msgstr "หมวดหมู่สินค้า"
+
+#~ msgid "Shopping cart"
+#~ msgstr "ตะกร้าสินค้า"
+
+#~ msgid "%s %s OFF %s"
+#~ msgstr "%s ลด %s %s"
+
+#~ msgid "Already have an account?"
+#~ msgstr "มีบัญชีแล้ว ?"
+
+#~ msgid "Apply"
+#~ msgstr "ใช้โค้ด"
+
+#~ msgid "Promo code"
+#~ msgstr "รหัสโปรโมชั่น"
+
+#~ msgid "New product"
+#~ msgstr "สินค้ามาใหม่"
+
+#~ msgid "Average rating"
+#~ msgstr "คะแนนรีวิว"
+
+#~ msgid "Choose"
+#~ msgstr "เลือก"
+
+#~ msgid "Color"
+#~ msgstr "สี"
+
+#~ msgid "Price"
+#~ msgstr "ราคา"
+
+#~ msgid "Milk Free"
+#~ msgstr "นม"
+
+#~ msgid "Enjoy!"
+#~ msgstr "สนุก!"
+
+#, fuzzy
+#~| msgid "All Souvenir"
+#~ msgid "All Shop"
+#~ msgstr "ของฝากทั้งหมด"
+
+#, fuzzy
+#~| msgid "New product"
+#~ msgid "Load more post"
+#~ msgstr "สินค้ามาใหม่"
+
+#, fuzzy
+#~| msgid "Product"
+#~ msgid "Product name"
+#~ msgstr "สินค้า"
+
+#~ msgid "MIMO Select options"
+#~ msgstr "Select options"
+
+#~ msgid "MIMO Home"
+#~ msgstr "Home"
+
+#, fuzzy
+#~| msgid "MIMO Krabi"
+#~ msgid "Krabi"
+#~ msgstr "กระบี่"
+
+#~ msgid "MIMO Add to cart"
+#~ msgstr "Add to cart"
+
+#~ msgid "MIMO Street address"
+#~ msgstr "ที่อยู่"
+
+#~ msgid "MIMO Town / City"
+#~ msgstr "เขต / อำเภอ"
+
+#~ msgid "MIMO Postcode / ZIP"
+#~ msgstr "รหัสไปรษณีย์"
+
+#~ msgid "MIMO Email address"
+#~ msgstr "อีเมล"
+
+#~ msgid "MIMO Phone"
+#~ msgstr "เบอร์โทร"
+
+#~ msgid "MIMO House number and street name"
+#~ msgstr "ที่อยู่"
+
+#~ msgid "District"
+#~ msgstr "ตำบล"
+
+#~ msgid "Province"
+#~ msgstr "จังหวัด"
+
+#~ msgid "MIMO Apply coupon"
+#~ msgstr "ใช้คูปอง"
+
+#~ msgid "MIMO Cart totals"
+#~ msgstr "สรุปการสั่งซื้อ"
+
+#~ msgid "MIMO View cart"
+#~ msgstr "ดูตะกร้าสินค้า"
+
+#~ msgid "MIMO Order notes"
+#~ msgstr "หมายเหตุ"
+
+#~ msgid "%s MIMO is a required field."
+#~ msgstr "กรุณากรอก %s"
+
+#~ msgid "MIMO Billing details"
+#~ msgstr "รายละเอียดที่อยู่ในใบเสร็จ"
+
+#~ msgid "MIMO Notes about your order, e.g. special notes for delivery."
+#~ msgstr "หมายเหตุต่างๆ เช่น รายละเอียดการจัดส่ง"
+
+#~ msgid "MIMO Billing %s"
+#~ msgstr "%s"
+
+#~ msgid "MIMO Password change"
+#~ msgstr "เปลี่ยนรหัสผ่าน"
+
+#~ msgid "MIMO Current password (leave blank to leave unchanged)"
+#~ msgstr "รหัสผ่านปัจจุบัน (ปล่อยว่างไว้ ถ้าไม่ต้องการเปลี่ยน)"
+
+#~ msgid "MIMO New password (leave blank to leave unchanged)"
+#~ msgstr "รหัสผ่านใหม่ (ปล่อยว่างไว้ ถ้าไม่ต้องการเปลี่ยน)"
+
+#~ msgid "MIMO Confirm new password"
+#~ msgstr "ยืนยันรหัสผ่านใหม่"
+
+#~ msgid "MIMO %s for %s item"
+#~ msgstr "%s X %s ชิ้น"
+
+#~ msgid "MIMO %s for %s items"
+#~ msgstr "%s X %s ชิ้น"
+
+#~ msgid "Clients"
+#~ msgstr "ลูกค้าของเรา"
+
+#~ msgid "Region"
+#~ msgstr "ภูมิภาค"
+
+#~ msgid "Central"
+#~ msgstr "ภาคกลาง"
+
+#~ msgid "Company"
+#~ msgstr "บริษัท"
+
+#~ msgid "Dealers"
+#~ msgstr "ตัวแทนจำหน่าย"
+
+#~ msgid "Dealer"
+#~ msgstr "ตัวแทนจำหน่าย & ศูนย์บริการ"
+
+#~ msgid "Service center"
+#~ msgstr "ศูนย์บริการ"
+
+#~ msgid "Battery Type"
+#~ msgstr "ประเภทแบตเตอรี่"
+
+#~ msgid "All Battery Type"
+#~ msgstr "ประเภทแบตเตอรี่ทั้งหมด"
+
+#~ msgid "Parent Battery Type"
+#~ msgstr "ประเภทแบตเตอรี่"
+
+#~ msgid "New Battery Type"
+#~ msgstr "เพิ่มประเภทแบตเตอรี่"
+
+#~ msgid "Add Battery Type"
+#~ msgstr "เพิ่มประเภทแบตเตอรี่"
+
+#~ msgid "Edit Battery Type"
+#~ msgstr "แก้ประเภทแบตเตอรี่"
+
+#~ msgid "Update Battery Type"
+#~ msgstr "บันทึกประเภทแบตเตอรี่"
+
+#~ msgid "View Battery Type"
+#~ msgstr "ดูประเภทแบตเตอรี่"
+
+#~ msgid "Type of car"
+#~ msgstr "ประเภทรถ"
+
+#~ msgid "All Type of car"
+#~ msgstr "ประเภทรถทั้งหมด"
+
+#~ msgid "New Type of car"
+#~ msgstr "เพิ่มประเภทรถ"
+
+#~ msgid "Add Type of car"
+#~ msgstr "เพิ่มประเภทรถ"
+
+#~ msgid "Edit Type of car"
+#~ msgstr "แก้ไขประเภทรถ"
+
+#~ msgid "View Type of car"
+#~ msgstr "ดูประเภทรถ"
+
+#~ msgid "Car brand"
+#~ msgstr "รุ่นรถ"
+
+#~ msgid "All Car brand"
+#~ msgstr "รุ่นรถทั้งหมด"
+
+#~ msgid "New Car brand"
+#~ msgstr "เพิ่มรุ่นรถ"
+
+#~ msgid "Add Car brand"
+#~ msgstr "เพิ่มรุ่นรถ"
+
+#~ msgid "ALL PRODUCTS"
+#~ msgstr "สินค้าทั้งหมด"
+
+#~ msgid "Food"
+#~ msgstr "เมนูอาหาร"
+
+#~ msgid "Success"
+#~ msgstr "สำเร็จ"
+
+#~ msgid "Cancel"
+#~ msgstr "ยกเลิก"
+
+#~ msgid "Visiting date"
+#~ msgstr "วันที่เข้าชม"
+
+#~ msgid "Ticket list"
+#~ msgstr "บัตรเข้าชม"
+
+#~ msgid "Ticket"
+#~ msgstr "บัตรเข้าชม"
+
+#~ msgid "Telephone"
+#~ msgstr "เบอร์โทรศัพท์"
+
+#~ msgid "Souvenir"
+#~ msgstr "ของฝาก"
+
+#~ msgid "Museum's Map"
+#~ msgstr "แผนที่สวนโอ่ง"
+
+#~ msgid "Prev news"
+#~ msgstr "ข่าวก่อนหน้า"
+
+#~ msgid "Next news"
+#~ msgstr "ข่าวถัดไป"
+
+#~ msgid "Prev"
+#~ msgstr "ก่อนหน้า"
+
+#~ msgid "Next"
+#~ msgstr "ถัดไป"
+
+#~ msgid "Date of visit"
+#~ msgstr "วันที่เข้าชม"
+
+#~ msgid "Duckking News"
+#~ msgstr "ข่าวสาร & กิจกรรม"
+
+#~ msgid "Articles"
+#~ msgstr "ครัวดั๊กคิง"
+
+#~ msgid "Core Value"
+#~ msgstr "ค่านิยมองค์กร"
+
+#~ msgid "More Menu"
+#~ msgstr "เมนูอาหารอื่นๆ"
+
+#~ msgid "More News"
+#~ msgstr "ข่าวสาร & กิจกรรมอื่นๆ"
+
+#~ msgid "Our sister companies"
+#~ msgstr "บริษัทในเครือ"
+
+#~ msgid "More food"
+#~ msgstr "เมนูอาหารอื่นๆ"
+
+#~ msgid "Values"
+#~ msgstr "ค่านิยมองค์กร"

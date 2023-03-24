@@ -1,0 +1,22 @@
+.social-share {
+  padding: 2rem 0;
+
+  li {
+    padding-right: 0.625rem;
+
+    span {
+      font-size: 1.25rem;
+      font-weight: 500;
+      color: $primary;
+      display: inline-block;
+      padding-right: 1rem;
+    }
+
+    a {
+      svg {
+        width: 1.625rem;
+        height: 1.625rem;
+      }
+    }
+  }
+}

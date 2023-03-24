@@ -1,0 +1,25 @@
+.checkout {
+  &-menu {
+    padding: 1rem 0;
+    margin-top: 4rem;
+    color: #fff;
+    background: $primary;
+    text-align: center;
+    border-radius: 0;
+  
+    a {
+      color: #fff;
+
+      &:not(.is-active) {
+        opacity: 0.3;
+      }
+    }
+  }
+
+  &-step {
+    &-number {
+      font-size: 22px;
+      display: block;
+    }
+  }
+}

@@ -1,0 +1,122 @@
+.shinyu-channel {
+  padding: 6rem 0;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  @media screen and (max-width: 767px) {
+    padding: 3rem 0;
+  }
+
+  @media screen and (max-width: 575px) {
+    padding: 2rem 0;
+  }
+
+  .section {
+    &-title {
+      color: #fff;
+      font-weight: 500;
+      font-size: 46px;
+
+      @media screen and (max-width: 757px) {
+        font-size: 2.25rem;
+      }
+
+      @media screen and (max-width: 575px) {
+        font-size: 1.75rem;
+      }
+    }
+
+    &-description {
+      font-size: 20px;
+      color: #fff;
+      max-width: 650px;
+      margin-bottom: 5rem;
+
+      @media screen and (max-width: 575px) {
+        font-size: 0.875rem;
+        margin-bottom: 2rem;
+      }
+    }
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  h4 {
+    font-size: 1.125rem;
+    color: #fff;
+  }
+
+  .button {
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 4px;
+    color: $primary;
+  }
+
+  .image {
+    width: 110px;
+    height: 65px;
+
+    &::after {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      border-top: 8px solid transparent;
+      border-bottom: 8px solid transparent;
+      border-left: 11px solid #fff;
+      margin: -8px 0 0 -5px;
+      opacity: 0;
+      transition: 0.2s;
+      content: '';
+    }
+  }
+
+  .media {
+    &:hover {
+      .image {
+        &::after {
+          opacity: 1;
+        }
+      }
+    }
+
+    &+.media {
+      border-top-color: #2e6da3;
+    }
+  }
+
+  .big {
+    h4 {
+      font-size: 30px;
+    }
+  
+    .image {
+      width: auto;
+      height: 418px;
+
+      &::before {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(0, 0, 0, 0.28);
+        content: '';
+      }
+
+      &::after {
+        opacity: 1;
+        border-top: 16px solid transparent;
+        border-bottom: 16px solid transparent;
+        border-left: 22px solid #fff;
+        margin: -16px 0 0 -11px;
+      }
+    }
+  }
+}

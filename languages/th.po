@@ -1,0 +1,2817 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Syndome\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-03 15:28+0700\n"
+"PO-Revision-Date: 2021-01-03 15:33+0700\n"
+"Last-Translator: administrator <surakraisam@gmail.com>\n"
+"Language-Team: Thai (Thailand)\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_nx;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: wp-app\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: scripts\n"
+"X-Poedit-SearchPathExcluded-3: vendor\n"
+
+#: app/menu.php:7
+msgid "Primary Navigation"
+msgstr ""
+
+#: app/sidebar.php:13
+msgid "Primary"
+msgstr ""
+
+#: app/sidebar.php:17
+msgid "Footer"
+msgstr ""
+
+#: archive-promotion.php:27 home.php:66
+msgid "Read More"
+msgstr "อ่านเพิ่มเติม"
+
+#: inc/class/class-about-us.php:35 inc/class/class-about-us.php:47
+#: inc/class/class-about-us.php:80 inc/class/class-page-home.php:35
+#: shinyu_old/inc/class/class-about-us.php:35 shinyu_old/inc/class/class-about-us.php:47
+#: shinyu_old/inc/class/class-about-us.php:80 shinyu_old/inc/class/class-home.php:35
+#: shinyu_old/inc/class/class-service.php:35 shinyu_old/inc/class/class-service.php:47
+#: shinyu_old/inc/class/class-service.php:139 shinyu_old/inc/class/class-service.php:156
+#: shinyu_old/inc/class/class-service.php:197
+msgid "Content"
+msgstr ""
+
+#: inc/class/class-about-us.php:39 shinyu_old/inc/class/class-about-us.php:39
+#: shinyu_old/inc/class/class-service.php:39
+#, fuzzy
+#| msgid "Service center"
+msgid "Overview"
+msgstr "ศูนย์บริการ"
+
+#: inc/class/class-about-us.php:59 inc/class/class-page-home.php:58
+#: inc/class/class-project-landing-page.php:208 inc/class/class-project.php:501
+#: inc/class/class-project.php:585 inc/class/class-service.php:83
+#: inc/class/class-testimonial.php:103 inc/class/class-unit.php:374
+#: inc/class/class-unit.php:447 shinyu_old/inc/class/class-about-us.php:59
+#: shinyu_old/inc/class/class-home.php:58 shinyu_old/inc/class/class-home.php:94
+#: shinyu_old/inc/class/class-project-landing-page.php:208
+#: shinyu_old/inc/class/class-project.php:507 shinyu_old/inc/class/class-project.php:591
+#: shinyu_old/inc/class/class-room.php:350 shinyu_old/inc/class/class-room.php:423
+#: shinyu_old/inc/class/class-service.php:59 shinyu_old/inc/class/class-service.php:107
+#: shinyu_old/inc/class/class-service.php:206
+#: shinyu_old/inc/class/class-testimonial.php:126
+msgid "Image"
+msgstr ""
+
+#: inc/class/class-about-us.php:72 shinyu_old/inc/class/class-about-us.php:72
+msgid "Invest in Trust"
+msgstr ""
+
+#: inc/class/class-about-us.php:87 shinyu_old/inc/class/class-about-us.php:87
+#, fuzzy
+#| msgid "Add News"
+msgid "Add Item"
+msgstr "เพิ่มข่าว"
+
+#: inc/class/class-about-us.php:91 inc/class/class-project.php:715
+#: inc/class/class-project.php:784 inc/class/class-unit.php:517
+#: inc/class/class-unit.php:588 shinyu_old/inc/class/class-about-us.php:91
+#: shinyu_old/inc/class/class-project.php:721 shinyu_old/inc/class/class-project.php:788
+#: shinyu_old/inc/class/class-room.php:493 shinyu_old/inc/class/class-room.php:562
+msgid "Icon"
+msgstr ""
+
+#: inc/class/class-about-us.php:97 inc/class/class-article.php:209
+#: inc/class/class-job.php:186 inc/class/class-page-home.php:67
+#: inc/class/class-page-home.php:116 inc/class/class-page-job.php:45
+#: inc/class/class-page.php:46 inc/class/class-page.php:100
+#: inc/class/class-partner.php:147 inc/class/class-project-landing-page.php:229
+#: inc/class/class-project.php:579 inc/class/class-promotion.php:151
+#: inc/class/class-service.php:136 inc/class/class-special-deal .php:176
+#: inc/class/class-special-deal.php:177 inc/class/class-testimonial.php:166
+#: inc/class/class-unit.php:441 inc/class/class-video.php:119
+#: shinyu_old/inc/class/class-about-us.php:97 shinyu_old/inc/class/class-home.php:103
+#: shinyu_old/inc/class/class-home.php:163 shinyu_old/inc/class/class-job.php:186
+#: shinyu_old/inc/class/class-news.php:235
+#: shinyu_old/inc/class/class-project-landing-page.php:229
+#: shinyu_old/inc/class/class-project.php:585
+#: shinyu_old/inc/class/class-promotion.php:176 shinyu_old/inc/class/class-room.php:417
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:177
+#: shinyu_old/inc/class/class-testimonial.php:189
+msgid "Title"
+msgstr ""
+
+#: inc/class/class-about-us.php:103 inc/class/class-about-us.php:128
+#: inc/class/class-page-home.php:73 inc/class/class-page-home.php:122
+#: inc/class/class-page-job.php:51 inc/class/class-page.php:52
+#: inc/class/class-page.php:125 inc/class/class-service.php:93
+#: inc/class/class-testimonial.php:113 shinyu_old/inc/class/class-about-us.php:103
+#: shinyu_old/inc/class/class-about-us.php:128 shinyu_old/inc/class/class-home.php:109
+#: shinyu_old/inc/class/class-home.php:175
+#: shinyu_old/inc/class/class-testimonial.php:136
+msgid "Description"
+msgstr ""
+
+#: inc/class/class-about-us.php:111 inc/class/class-page-job.php:57
+#: inc/class/class-page.php:107 inc/class/class-project-landing-page.php:171
+#: inc/class/class-project-landing-page.php:294
+#: shinyu_old/inc/class/class-about-us.php:111
+#: shinyu_old/inc/class/class-project-landing-page.php:171
+#: shinyu_old/inc/class/class-project-landing-page.php:294
+#: shinyu_old/inc/class/class-service.php:119
+msgid "Background"
+msgstr ""
+
+#: inc/class/class-about-us.php:120 inc/class/class-about-us.php:137
+#: shinyu_old/inc/class/class-about-us.php:120
+#: shinyu_old/inc/class/class-about-us.php:137
+msgid "People"
+msgstr ""
+
+#: inc/class/class-about-us.php:144 shinyu_old/inc/class/class-about-us.php:144
+#, fuzzy
+#| msgid "Add Dealer"
+msgid "Add People"
+msgstr "เพิ่ม"
+
+#: inc/class/class-about-us.php:148 inc/class/class-testimonial.php:80
+#: shinyu_old/inc/class/class-about-us.php:148
+#: shinyu_old/inc/class/class-testimonial.php:103
+msgid "Profile"
+msgstr ""
+
+#: inc/class/class-about-us.php:161 inc/class/class-contact-us.php:267
+#: inc/class/class-form.php:131 inc/class/class-project-landing-page.php:386
+#: inc/class/class-project.php:757 inc/class/class-project.php:783
+#: inc/class/class-unit.php:557 inc/class/class-unit.php:587
+#: inc/class/form/class-post-property.php:131 inc/class/form/class-your-need.php:131
+#: shinyu_old/inc/class/class-about-us.php:161
+#: shinyu_old/inc/class/class-contact-us.php:267 shinyu_old/inc/class/class-form.php:131
+#: shinyu_old/inc/class/class-project-landing-page.php:386
+#: shinyu_old/inc/class/class-project.php:762 shinyu_old/inc/class/class-project.php:787
+#: shinyu_old/inc/class/class-room.php:532 shinyu_old/inc/class/class-room.php:561
+#: shinyu_old/inc/class/form/class-post-property.php:131
+#: shinyu_old/inc/class/form/class-your-need.php:131
+msgid "Name"
+msgstr "ชื่อ"
+
+#: inc/class/class-about-us.php:170 shinyu_old/inc/class/class-about-us.php:170
+msgid "Position"
+msgstr ""
+
+#: inc/class/class-about-us.php:181 shinyu_old/inc/class/class-about-us.php:181
+msgid "Building Owners"
+msgstr ""
+
+#: inc/class/class-about-us.php:202 shinyu_old/inc/class/class-about-us.php:202
+msgid "Partners"
+msgstr ""
+
+#: inc/class/class-about-us.php:223 shinyu_old/inc/class/class-about-us.php:223
+msgid "Corporate"
+msgstr ""
+
+#: inc/class/class-article.php:44 inc/class/class-article.php:45
+msgid "Articles"
+msgstr "ข่าวและบทความ"
+
+#: inc/class/class-article.php:46
+msgid "All Articles"
+msgstr "ข่าวและบทความทั้งหมด"
+
+#: inc/class/class-article.php:47
+msgid "Article"
+msgstr "ข่าวและบทความ"
+
+#: inc/class/class-article.php:48 inc/class/class-article.php:49
+#: inc/class/class-article.php:51
+msgid "Add Article"
+msgstr "เพิ่ม"
+
+#: inc/class/class-article.php:50
+#, fuzzy
+msgid "Edit Article"
+msgstr "แก้ไข"
+
+#: inc/class/class-article.php:52
+#, fuzzy
+#| msgid "View All"
+msgid "View Article"
+msgstr "ดูทั้งหมด"
+
+#: inc/class/class-article.php:53
+msgid "Search Article"
+msgstr "ค้นหาข่าวและบทความ"
+
+#: inc/class/class-article.php:77 inc/class/class-article.php:79
+#, fuzzy
+#| msgid "Category"
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-article.php:78 inc/class/class-article.php:139
+#: inc/class/class-article.php:210 inc/class/class-job.php:103
+#: shinyu_old/inc/class/class-job.php:103 shinyu_old/inc/class/class-news.php:102
+#: shinyu_old/inc/class/class-news.php:165 shinyu_old/inc/class/class-news.php:236
+msgid "Category"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-article.php:80
+msgid "All Category"
+msgstr "หมวดหมู่ทั้งหมด"
+
+#: inc/class/class-article.php:81
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Category"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-article.php:82
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Category:"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-article.php:83
+msgid "New Category"
+msgstr "เพิ่มหมวดหมู่"
+
+#: inc/class/class-article.php:84
+msgid "Add Category"
+msgstr "เพิ่มหมวดหมู่"
+
+#: inc/class/class-article.php:85
+msgid "Edit Category"
+msgstr "แก้ไขหมวดหมู่"
+
+#: inc/class/class-article.php:86
+#, fuzzy
+#| msgid "Update Province"
+msgid "Update Category"
+msgstr "บันทึก"
+
+#: inc/class/class-article.php:87
+msgid "View Category"
+msgstr "ดูหมวดหมู่"
+
+#: inc/class/class-article.php:116 inc/class/class-contact-us.php:84
+#: inc/class/class-contact-us.php:130 inc/class/class-contact-us.php:181
+#: inc/class/class-form.php:81 inc/class/class-job.php:143
+#: inc/class/class-partner.php:80 inc/class/class-project-landing-page.php:149
+#: inc/class/class-project.php:239 inc/class/class-project.php:659
+#: inc/class/class-promotion.php:77 inc/class/class-service.php:79
+#: inc/class/class-social.php:43 inc/class/class-special-deal .php:101
+#: inc/class/class-special-deal.php:102 inc/class/class-unit.php:156
+#: inc/class/form/class-post-property.php:81 inc/class/form/class-your-need.php:81
+#: shinyu_old/inc/class/class-contact-us.php:84
+#: shinyu_old/inc/class/class-contact-us.php:130
+#: shinyu_old/inc/class/class-contact-us.php:181 shinyu_old/inc/class/class-form.php:81
+#: shinyu_old/inc/class/class-job.php:143 shinyu_old/inc/class/class-news.php:142
+#: shinyu_old/inc/class/class-project-landing-page.php:149
+#: shinyu_old/inc/class/class-project.php:270 shinyu_old/inc/class/class-project.php:665
+#: shinyu_old/inc/class/class-promotion.php:102 shinyu_old/inc/class/class-room.php:150
+#: shinyu_old/inc/class/class-social.php:43 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:102
+#: shinyu_old/inc/class/form/class-post-property.php:81
+#: shinyu_old/inc/class/form/class-your-need.php:81
+#, fuzzy
+#| msgid "Service center"
+msgid "Setting"
+msgstr "ศูนย์บริการ"
+
+#: inc/class/class-article.php:156 inc/class/class-blog.php:89
+#: inc/class/class-project.php:520 inc/class/class-promotion.php:81
+#: inc/class/class-special-deal .php:124 inc/class/class-special-deal.php:125
+#: inc/class/class-unit.php:382 inc/class/class-video.php:77
+#: shinyu_old/inc/class/class-home.php:181 shinyu_old/inc/class/class-news.php:182
+#: shinyu_old/inc/class/class-project.php:526
+#: shinyu_old/inc/class/class-promotion.php:106 shinyu_old/inc/class/class-room.php:358
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:125
+msgid "Cover"
+msgstr "รูปปก"
+
+#: inc/class/class-article.php:166 inc/class/class-blog.php:99
+#: inc/class/class-page-home.php:106 inc/class/class-project-landing-page.php:266
+#: inc/class/class-project.php:531 inc/class/class-unit.php:393
+#: shinyu_old/inc/class/class-news.php:192
+#: shinyu_old/inc/class/class-project-landing-page.php:266
+#: shinyu_old/inc/class/class-project.php:537 shinyu_old/inc/class/class-room.php:369
+msgid "Gallery"
+msgstr "แกลอรี่"
+
+#: inc/class/class-article.php:211 inc/class/class-partner.php:148
+#: inc/class/class-promotion.php:152 inc/class/class-service.php:137
+#: inc/class/class-special-deal .php:177 inc/class/class-special-deal.php:178
+#: inc/class/class-testimonial.php:167 inc/class/class-video.php:120
+#: shinyu_old/inc/class/class-news.php:237 shinyu_old/inc/class/class-promotion.php:177
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:178
+#: shinyu_old/inc/class/class-testimonial.php:190
+msgid "Author"
+msgstr ""
+
+#: inc/class/class-article.php:212 inc/class/class-contact-us.php:272
+#: inc/class/class-form.php:135 inc/class/class-job.php:189
+#: inc/class/class-partner.php:149 inc/class/class-project-landing-page.php:391
+#: inc/class/class-project.php:763 inc/class/class-promotion.php:153
+#: inc/class/class-service.php:138 inc/class/class-special-deal .php:178
+#: inc/class/class-special-deal.php:179 inc/class/class-testimonial.php:168
+#: inc/class/class-video.php:121 inc/class/form/class-post-property.php:142
+#: inc/class/form/class-your-need.php:135 shinyu_old/inc/class/class-contact-us.php:272
+#: shinyu_old/inc/class/class-form.php:135 shinyu_old/inc/class/class-job.php:189
+#: shinyu_old/inc/class/class-news.php:238
+#: shinyu_old/inc/class/class-project-landing-page.php:391
+#: shinyu_old/inc/class/class-project.php:767
+#: shinyu_old/inc/class/class-promotion.php:178 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:179
+#: shinyu_old/inc/class/class-testimonial.php:191
+#: shinyu_old/inc/class/form/class-post-property.php:142
+#: shinyu_old/inc/class/form/class-your-need.php:135
+msgid "Date"
+msgstr ""
+
+#: inc/class/class-blog.php:34 inc/class/class-contact.php:33
+#: inc/class/class-page-job.php:33 inc/class/class-page.php:34
+msgid "Page Options"
+msgstr ""
+
+#: inc/class/class-blog.php:50 inc/class/class-contact.php:45
+#: inc/class/class-page.php:58
+msgid "Slider"
+msgstr ""
+
+#: inc/class/class-blog.php:85
+msgid "Blog Options"
+msgstr ""
+
+#: inc/class/class-contact-us.php:41 inc/class/class-contact-us.php:42
+#: inc/class/class-contact-us.php:44 inc/class/class-project-landing-page.php:332
+#: shinyu_old/inc/class/class-contact-us.php:41
+#: shinyu_old/inc/class/class-contact-us.php:42
+#: shinyu_old/inc/class/class-contact-us.php:44
+#: shinyu_old/inc/class/class-project-landing-page.php:332
+msgid "Contact"
+msgstr ""
+
+#: inc/class/class-contact-us.php:43 shinyu_old/inc/class/class-contact-us.php:43
+#, fuzzy
+#| msgid "All Clients"
+msgid "All Contact"
+msgstr "ลูกค้าทั้งหมด"
+
+#: inc/class/class-contact-us.php:45 inc/class/class-contact-us.php:46
+#: inc/class/class-contact-us.php:48 shinyu_old/inc/class/class-contact-us.php:45
+#: shinyu_old/inc/class/class-contact-us.php:46
+#: shinyu_old/inc/class/class-contact-us.php:48
+#, fuzzy
+#| msgid "Add Clients"
+msgid "Add Contact"
+msgstr "เพิ่มลูกค้า"
+
+#: inc/class/class-contact-us.php:47 shinyu_old/inc/class/class-contact-us.php:47
+#, fuzzy
+#| msgid "Edit Clients"
+msgid "Edit Contact"
+msgstr "แก้ไขลูกค้า"
+
+#: inc/class/class-contact-us.php:49 shinyu_old/inc/class/class-contact-us.php:49
+#, fuzzy
+#| msgid "View Clients"
+msgid "View Contact"
+msgstr "ดู"
+
+#: inc/class/class-contact-us.php:50 shinyu_old/inc/class/class-contact-us.php:50
+#, fuzzy
+#| msgid "Search Project"
+msgid "Search Contact"
+msgstr "ค้นหาโครงการ"
+
+#: inc/class/class-contact-us.php:51 inc/class/class-contact-us.php:52
+#: shinyu_old/inc/class/class-contact-us.php:51
+#: shinyu_old/inc/class/class-contact-us.php:52
+#, fuzzy
+#| msgid "No Project found."
+msgid "No Contact found."
+msgstr "ไม่พบโครงการ"
+
+#: inc/class/class-contact-us.php:88 shinyu_old/inc/class/class-contact-us.php:88
+msgid "Google map "
+msgstr ""
+
+#: inc/class/class-contact-us.php:134 shinyu_old/inc/class/class-contact-us.php:134
+msgid "Contact page"
+msgstr ""
+
+#: inc/class/class-contact-us.php:149 inc/class/class-form.php:85
+#: inc/class/form/class-post-property.php:85 inc/class/form/class-your-need.php:85
+#: shinyu_old/inc/class/class-contact-us.php:149 shinyu_old/inc/class/class-form.php:85
+#: shinyu_old/inc/class/form/class-post-property.php:85
+#: shinyu_old/inc/class/form/class-your-need.php:85
+msgid "Email recipient"
+msgstr ""
+
+#: inc/class/class-contact-us.php:158 inc/class/class-form.php:94
+#: inc/class/form/class-post-property.php:94 inc/class/form/class-your-need.php:94
+#: shinyu_old/inc/class/class-contact-us.php:158 shinyu_old/inc/class/class-form.php:94
+#: shinyu_old/inc/class/form/class-post-property.php:94
+#: shinyu_old/inc/class/form/class-your-need.php:94
+msgid "Line token"
+msgstr ""
+
+#: inc/class/class-contact-us.php:185 inc/class/class-project-landing-page.php:340
+#: shinyu_old/inc/class/class-contact-us.php:185
+#: shinyu_old/inc/class/class-project-landing-page.php:340
+msgid "Address"
+msgstr ""
+
+#: inc/class/class-contact-us.php:202 shinyu_old/inc/class/class-contact-us.php:202
+msgid "Google Map"
+msgstr ""
+
+#: inc/class/class-contact-us.php:245 shinyu_old/inc/class/class-contact-us.php:245
+msgid "Contact Settings"
+msgstr ""
+
+#: inc/class/class-contact-us.php:246 inc/class/class-form.php:120
+#: inc/class/form/class-post-property.php:120 inc/class/form/class-your-need.php:120
+#: shinyu_old/inc/class/class-contact-us.php:246 shinyu_old/inc/class/class-form.php:120
+#: shinyu_old/inc/class/form/class-post-property.php:120
+#: shinyu_old/inc/class/form/class-your-need.php:120
+#, fuzzy
+#| msgid "Service center"
+msgid "Settings"
+msgstr "ศูนย์บริการ"
+
+#: inc/class/class-contact-us.php:256 shinyu_old/inc/class/class-contact-us.php:256
+msgid "Contact Us Page"
+msgstr ""
+
+#: inc/class/class-contact-us.php:268 inc/class/class-form.php:133
+#: inc/class/class-project-landing-page.php:387
+#: inc/class/form/class-post-property.php:132 inc/class/form/class-your-need.php:133
+#: shinyu_old/inc/class/class-contact-us.php:268 shinyu_old/inc/class/class-form.php:133
+#: shinyu_old/inc/class/class-project-landing-page.php:387
+#: shinyu_old/inc/class/form/class-post-property.php:132
+#: shinyu_old/inc/class/form/class-your-need.php:133
+msgid "Phone"
+msgstr ""
+
+#: inc/class/class-contact-us.php:269 inc/class/class-form.php:134
+#: inc/class/class-project-landing-page.php:388
+#: inc/class/form/class-post-property.php:133 inc/class/form/class-your-need.php:134
+#: shinyu_old/inc/api/api-contact-us.php:199
+#: shinyu_old/inc/class/class-contact-us.php:269 shinyu_old/inc/class/class-form.php:134
+#: shinyu_old/inc/class/class-project-landing-page.php:388
+#: shinyu_old/inc/class/form/class-post-property.php:133
+#: shinyu_old/inc/class/form/class-your-need.php:134
+msgid "Email"
+msgstr ""
+
+#: inc/class/class-contact-us.php:270 shinyu_old/inc/api/api-contact-us.php:201
+#: shinyu_old/inc/class/class-contact-us.php:270
+msgid "Subject"
+msgstr ""
+
+#: inc/class/class-contact-us.php:271 shinyu_old/inc/api/api-contact-us.php:202
+#: shinyu_old/inc/class/class-contact-us.php:271
+msgid "Message"
+msgstr ""
+
+#: inc/class/class-contact.php:37
+msgid "Page Title"
+msgstr ""
+
+#: inc/class/class-currencies.php:58 shinyu_old/inc/class/class-currencies.php:58
+msgid "สกุลเงิน"
+msgstr ""
+
+#: inc/class/class-currencies.php:62 shinyu_old/inc/class/class-currencies.php:62
+msgid "Baht"
+msgstr ""
+
+#: inc/class/class-currencies.php:75 inc/class/class-currencies.php:113
+#: inc/class/class-currencies.php:149 inc/class/class-currencies.php:185
+#: inc/class/class-unit.php:50 inc/class/class-unit.php:53
+#: shinyu_old/inc/class/class-currencies.php:75
+#: shinyu_old/inc/class/class-currencies.php:113
+#: shinyu_old/inc/class/class-currencies.php:149
+#: shinyu_old/inc/class/class-currencies.php:185
+msgid "Unit"
+msgstr "ยูนิต"
+
+#: inc/class/class-currencies.php:82 inc/class/class-currencies.php:120
+#: inc/class/class-currencies.php:156 inc/class/class-currencies.php:192
+#: shinyu_old/inc/class/class-currencies.php:82
+#: shinyu_old/inc/class/class-currencies.php:120
+#: shinyu_old/inc/class/class-currencies.php:156
+#: shinyu_old/inc/class/class-currencies.php:192
+msgid "Rate"
+msgstr ""
+
+#: inc/class/class-currencies.php:91 inc/class/class-currencies.php:127
+#: inc/class/class-currencies.php:163 inc/class/class-currencies.php:199
+#: shinyu_old/inc/class/class-currencies.php:91
+#: shinyu_old/inc/class/class-currencies.php:127
+#: shinyu_old/inc/class/class-currencies.php:163
+#: shinyu_old/inc/class/class-currencies.php:199
+msgid "Code"
+msgstr ""
+
+#: inc/class/class-currencies.php:100 shinyu_old/inc/class/class-currencies.php:100
+msgid "US Dollar"
+msgstr ""
+
+#: inc/class/class-currencies.php:136 shinyu_old/inc/class/class-currencies.php:136
+msgid "Yen"
+msgstr ""
+
+#: inc/class/class-currencies.php:172 shinyu_old/inc/class/class-currencies.php:172
+msgid "Yuan"
+msgstr ""
+
+#: inc/class/class-form.php:38 inc/class/class-form.php:39
+#: inc/class/form/class-your-need.php:38 inc/class/form/class-your-need.php:39
+#: shinyu_old/inc/class/class-form.php:38 shinyu_old/inc/class/class-form.php:39
+#: shinyu_old/inc/class/form/class-your-need.php:38
+#: shinyu_old/inc/class/form/class-your-need.php:39
+msgid "Request View"
+msgstr ""
+
+#: inc/class/class-form.php:40 inc/class/form/class-your-need.php:40
+#: shinyu_old/inc/class/class-form.php:40
+#: shinyu_old/inc/class/form/class-your-need.php:40
+#, fuzzy
+#| msgid "All News"
+msgid "All Request"
+msgstr "ข่าวสารทั้งหมด"
+
+#: inc/class/class-form.php:41 inc/class/form/class-your-need.php:41
+#: shinyu_old/inc/class/class-form.php:41
+#: shinyu_old/inc/class/form/class-your-need.php:41
+msgid "Request"
+msgstr ""
+
+#: inc/class/class-form.php:42 inc/class/class-form.php:43 inc/class/class-form.php:45
+#: inc/class/form/class-your-need.php:42 inc/class/form/class-your-need.php:43
+#: inc/class/form/class-your-need.php:45 shinyu_old/inc/class/class-form.php:42
+#: shinyu_old/inc/class/class-form.php:43 shinyu_old/inc/class/class-form.php:45
+#: shinyu_old/inc/class/form/class-your-need.php:42
+#: shinyu_old/inc/class/form/class-your-need.php:43
+#: shinyu_old/inc/class/form/class-your-need.php:45
+#, fuzzy
+#| msgid "Add Dealer"
+msgid "Add Request"
+msgstr "เพิ่ม"
+
+#: inc/class/class-form.php:44 inc/class/form/class-your-need.php:44
+#: shinyu_old/inc/class/class-form.php:44
+#: shinyu_old/inc/class/form/class-your-need.php:44
+#, fuzzy
+#| msgid "Edit Warehouse"
+msgid "Edit Request"
+msgstr "แก้ไขโกดัง"
+
+#: inc/class/class-form.php:46 inc/class/form/class-your-need.php:46
+#: shinyu_old/inc/class/class-form.php:46
+#: shinyu_old/inc/class/form/class-your-need.php:46
+#, fuzzy
+#| msgid "View News"
+msgid "View Request"
+msgstr "ดูข่าว"
+
+#: inc/class/class-form.php:47 inc/class/form/class-your-need.php:47
+#: shinyu_old/inc/class/class-form.php:47
+#: shinyu_old/inc/class/form/class-your-need.php:47
+#, fuzzy
+#| msgid "Search News"
+msgid "Search Request"
+msgstr "ค้นหาข่าว"
+
+#: inc/class/class-form.php:48 inc/class/class-form.php:49
+#: inc/class/form/class-your-need.php:48 inc/class/form/class-your-need.php:49
+#: shinyu_old/inc/class/class-form.php:48 shinyu_old/inc/class/class-form.php:49
+#: shinyu_old/inc/class/form/class-your-need.php:48
+#: shinyu_old/inc/class/form/class-your-need.php:49
+#, fuzzy
+#| msgid "No CSR found."
+msgid "No Request found."
+msgstr "ไม่พบข้อมูล"
+
+#: inc/class/class-form.php:119 inc/class/form/class-post-property.php:119
+#: inc/class/form/class-your-need.php:119 shinyu_old/inc/class/class-form.php:119
+#: shinyu_old/inc/class/form/class-post-property.php:119
+#: shinyu_old/inc/class/form/class-your-need.php:119
+msgid "Form Settings"
+msgstr ""
+
+#: inc/class/class-form.php:132 inc/class/form/class-your-need.php:132
+#: shinyu_old/inc/class/class-form.php:132
+#: shinyu_old/inc/class/form/class-your-need.php:132
+msgid "from"
+msgstr ""
+
+#: inc/class/class-job.php:46 inc/class/class-job.php:73
+#: shinyu_old/inc/class/class-job.php:46 shinyu_old/inc/class/class-job.php:73
+msgid "Job"
+msgstr ""
+
+#: inc/class/class-job.php:47 inc/class/class-special-deal .php:46
+#: inc/class/class-special-deal.php:46 shinyu_old/inc/class/class-job.php:47
+#: shinyu_old/inc/class/class-news.php:47 shinyu_old/inc/class/class-promotion.php:46
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:46
+#: shinyu_old/inc/class/class-testimonial.php:46
+msgid "Post Type"
+msgstr ""
+
+#: inc/class/class-job.php:48 shinyu_old/inc/class/class-job.php:48
+msgid "Job Archives"
+msgstr ""
+
+#: inc/class/class-job.php:49 shinyu_old/inc/class/class-job.php:49
+msgid "Job Attributes"
+msgstr ""
+
+#: inc/class/class-job.php:50 inc/class/class-job.php:106 inc/class/class-special-deal
+#: .php:49 inc/class/class-special-deal.php:49 shinyu_old/inc/class/class-job.php:50
+#: shinyu_old/inc/class/class-job.php:106 shinyu_old/inc/class/class-news.php:50
+#: shinyu_old/inc/class/class-news.php:105 shinyu_old/inc/class/class-project.php:97
+#: shinyu_old/inc/class/class-project.php:131 shinyu_old/inc/class/class-project.php:165
+#: shinyu_old/inc/class/class-project.php:199 shinyu_old/inc/class/class-project.php:233
+#: shinyu_old/inc/class/class-promotion.php:49 shinyu_old/inc/class/class-room.php:102
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:49
+#: shinyu_old/inc/class/class-testimonial.php:49
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Item:"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-job.php:51 shinyu_old/inc/class/class-job.php:51
+#, fuzzy
+#| msgid "All Food"
+msgid "All Job"
+msgstr "เมนูอาหารทั้งหมด"
+
+#: inc/class/class-job.php:52 inc/class/class-job.php:108 inc/class/class-special-deal
+#: .php:51 inc/class/class-special-deal.php:51 shinyu_old/inc/class/class-job.php:52
+#: shinyu_old/inc/class/class-job.php:108 shinyu_old/inc/class/class-news.php:52
+#: shinyu_old/inc/class/class-news.php:107 shinyu_old/inc/class/class-project.php:99
+#: shinyu_old/inc/class/class-project.php:133 shinyu_old/inc/class/class-project.php:167
+#: shinyu_old/inc/class/class-project.php:201 shinyu_old/inc/class/class-project.php:235
+#: shinyu_old/inc/class/class-promotion.php:51 shinyu_old/inc/class/class-room.php:104
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:51
+#: shinyu_old/inc/class/class-testimonial.php:51
+#, fuzzy
+#| msgid "Add News"
+msgid "Add New Item"
+msgstr "เพิ่มข่าว"
+
+#: inc/class/class-job.php:53 inc/class/class-project-landing-page.php:49
+#: inc/class/class-project-landing-page.php:97 inc/class/class-project.php:51
+#: inc/class/class-promotion.php:47 inc/class/class-special-deal .php:52
+#: inc/class/class-special-deal.php:52 inc/class/class-unit.php:54
+#: inc/class/class-unit.php:141 inc/class/class-unit.php:142
+#: shinyu_old/inc/class/class-job.php:53 shinyu_old/inc/class/class-news.php:53
+#: shinyu_old/inc/class/class-project-landing-page.php:49
+#: shinyu_old/inc/class/class-project-landing-page.php:97
+#: shinyu_old/inc/class/class-project.php:51 shinyu_old/inc/class/class-promotion.php:52
+#: shinyu_old/inc/class/class-room.php:54 shinyu_old/inc/class/class-room.php:135
+#: shinyu_old/inc/class/class-room.php:136 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:52
+#: shinyu_old/inc/class/class-testimonial.php:52
+#, fuzzy
+#| msgid "Add News"
+msgid "Add New"
+msgstr "เพิ่มข่าว"
+
+#: inc/class/class-job.php:54 inc/class/class-special-deal .php:53
+#: inc/class/class-special-deal.php:53 shinyu_old/inc/class/class-job.php:54
+#: shinyu_old/inc/class/class-news.php:54 shinyu_old/inc/class/class-promotion.php:53
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:53
+#: shinyu_old/inc/class/class-testimonial.php:53
+#, fuzzy
+#| msgid "Category"
+msgid "New Item"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-job.php:55 inc/class/class-job.php:109 inc/class/class-special-deal
+#: .php:54 inc/class/class-special-deal.php:54 shinyu_old/inc/class/class-job.php:55
+#: shinyu_old/inc/class/class-job.php:109 shinyu_old/inc/class/class-news.php:55
+#: shinyu_old/inc/class/class-news.php:108 shinyu_old/inc/class/class-project.php:100
+#: shinyu_old/inc/class/class-project.php:134 shinyu_old/inc/class/class-project.php:168
+#: shinyu_old/inc/class/class-project.php:202 shinyu_old/inc/class/class-project.php:236
+#: shinyu_old/inc/class/class-promotion.php:54 shinyu_old/inc/class/class-room.php:105
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:54
+#: shinyu_old/inc/class/class-testimonial.php:54
+#, fuzzy
+#| msgid "Edit News"
+msgid "Edit Item"
+msgstr "แก้ไขข่าว"
+
+#: inc/class/class-job.php:56 inc/class/class-job.php:110 inc/class/class-special-deal
+#: .php:55 inc/class/class-special-deal.php:55 shinyu_old/inc/class/class-job.php:56
+#: shinyu_old/inc/class/class-job.php:110 shinyu_old/inc/class/class-news.php:56
+#: shinyu_old/inc/class/class-news.php:109 shinyu_old/inc/class/class-project.php:101
+#: shinyu_old/inc/class/class-project.php:135 shinyu_old/inc/class/class-project.php:169
+#: shinyu_old/inc/class/class-project.php:203 shinyu_old/inc/class/class-project.php:237
+#: shinyu_old/inc/class/class-promotion.php:55 shinyu_old/inc/class/class-room.php:106
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:55
+#: shinyu_old/inc/class/class-testimonial.php:55
+#, fuzzy
+#| msgid "Update Province"
+msgid "Update Item"
+msgstr "บันทึก"
+
+#: inc/class/class-job.php:57 inc/class/class-job.php:111 inc/class/class-special-deal
+#: .php:56 inc/class/class-special-deal.php:56 shinyu_old/inc/class/class-job.php:57
+#: shinyu_old/inc/class/class-job.php:111 shinyu_old/inc/class/class-news.php:57
+#: shinyu_old/inc/class/class-news.php:110 shinyu_old/inc/class/class-project.php:102
+#: shinyu_old/inc/class/class-project.php:136 shinyu_old/inc/class/class-project.php:170
+#: shinyu_old/inc/class/class-project.php:204 shinyu_old/inc/class/class-project.php:238
+#: shinyu_old/inc/class/class-promotion.php:56 shinyu_old/inc/class/class-room.php:107
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:56
+#: shinyu_old/inc/class/class-testimonial.php:56
+#, fuzzy
+#| msgid "Category"
+msgid "View Item"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-job.php:58 inc/class/class-special-deal .php:57
+#: inc/class/class-special-deal.php:57 shinyu_old/inc/class/class-job.php:58
+#: shinyu_old/inc/class/class-news.php:58 shinyu_old/inc/class/class-promotion.php:57
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:57
+#: shinyu_old/inc/class/class-testimonial.php:57
+#, fuzzy
+#| msgid "Category"
+msgid "View Items"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-job.php:59 inc/class/class-special-deal .php:58
+#: inc/class/class-special-deal.php:58 shinyu_old/inc/class/class-job.php:59
+#: shinyu_old/inc/class/class-news.php:59 shinyu_old/inc/class/class-promotion.php:58
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:58
+#: shinyu_old/inc/class/class-testimonial.php:58
+#, fuzzy
+#| msgid "Search News"
+msgid "Search Item"
+msgstr "ค้นหาข่าว"
+
+#: inc/class/class-job.php:60 inc/class/class-special-deal .php:59
+#: inc/class/class-special-deal.php:59 shinyu_old/inc/class/class-job.php:60
+#: shinyu_old/inc/class/class-news.php:60 shinyu_old/inc/class/class-promotion.php:59
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:59
+#: shinyu_old/inc/class/class-testimonial.php:59
+#, fuzzy
+#| msgid "No CSR found."
+msgid "Not found"
+msgstr "ไม่พบข้อมูล"
+
+#: inc/class/class-job.php:61 inc/class/class-special-deal .php:60
+#: inc/class/class-special-deal.php:60 shinyu_old/inc/class/class-job.php:61
+#: shinyu_old/inc/class/class-news.php:61 shinyu_old/inc/class/class-promotion.php:60
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:60
+#: shinyu_old/inc/class/class-testimonial.php:60
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/class/class-job.php:62 inc/class/class-project-landing-page.php:59
+#: inc/class/class-project-landing-page.php:107 inc/class/class-special-deal .php:61
+#: inc/class/class-special-deal.php:61 shinyu_old/inc/class/class-job.php:62
+#: shinyu_old/inc/class/class-news.php:62
+#: shinyu_old/inc/class/class-project-landing-page.php:59
+#: shinyu_old/inc/class/class-project-landing-page.php:107
+#: shinyu_old/inc/class/class-project.php:61 shinyu_old/inc/class/class-promotion.php:61
+#: shinyu_old/inc/class/class-room.php:64 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:61
+#: shinyu_old/inc/class/class-testimonial.php:61
+#, fuzzy
+#| msgid "Add Dealer"
+msgid "Featured Image"
+msgstr "เพิ่ม"
+
+#: inc/class/class-job.php:63 inc/class/class-project-landing-page.php:60
+#: inc/class/class-project-landing-page.php:108 inc/class/class-special-deal .php:62
+#: inc/class/class-special-deal.php:62 shinyu_old/inc/class/class-job.php:63
+#: shinyu_old/inc/class/class-news.php:63
+#: shinyu_old/inc/class/class-project-landing-page.php:60
+#: shinyu_old/inc/class/class-project-landing-page.php:108
+#: shinyu_old/inc/class/class-project.php:62 shinyu_old/inc/class/class-promotion.php:62
+#: shinyu_old/inc/class/class-room.php:65 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:62
+#: shinyu_old/inc/class/class-testimonial.php:62
+msgid "Set featured image"
+msgstr ""
+
+#: inc/class/class-job.php:64 inc/class/class-project-landing-page.php:61
+#: inc/class/class-project-landing-page.php:109 inc/class/class-special-deal .php:63
+#: inc/class/class-special-deal.php:63 shinyu_old/inc/class/class-job.php:64
+#: shinyu_old/inc/class/class-news.php:64
+#: shinyu_old/inc/class/class-project-landing-page.php:61
+#: shinyu_old/inc/class/class-project-landing-page.php:109
+#: shinyu_old/inc/class/class-project.php:63 shinyu_old/inc/class/class-promotion.php:63
+#: shinyu_old/inc/class/class-room.php:66 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:63
+#: shinyu_old/inc/class/class-testimonial.php:63
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/class/class-job.php:65 inc/class/class-project-landing-page.php:62
+#: inc/class/class-project-landing-page.php:110 inc/class/class-special-deal .php:64
+#: inc/class/class-special-deal.php:64 shinyu_old/inc/class/class-job.php:65
+#: shinyu_old/inc/class/class-news.php:65
+#: shinyu_old/inc/class/class-project-landing-page.php:62
+#: shinyu_old/inc/class/class-project-landing-page.php:110
+#: shinyu_old/inc/class/class-project.php:64 shinyu_old/inc/class/class-promotion.php:64
+#: shinyu_old/inc/class/class-room.php:67 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:64
+#: shinyu_old/inc/class/class-testimonial.php:64
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/class/class-job.php:66 inc/class/class-project-landing-page.php:63
+#: inc/class/class-project-landing-page.php:111 inc/class/class-special-deal .php:65
+#: inc/class/class-special-deal.php:65 shinyu_old/inc/class/class-job.php:66
+#: shinyu_old/inc/class/class-news.php:66
+#: shinyu_old/inc/class/class-project-landing-page.php:63
+#: shinyu_old/inc/class/class-project-landing-page.php:111
+#: shinyu_old/inc/class/class-project.php:65 shinyu_old/inc/class/class-promotion.php:65
+#: shinyu_old/inc/class/class-room.php:68 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:65
+#: shinyu_old/inc/class/class-testimonial.php:65
+msgid "Insert into item"
+msgstr ""
+
+#: inc/class/class-job.php:67 inc/class/class-project-landing-page.php:64
+#: inc/class/class-project-landing-page.php:112 inc/class/class-special-deal .php:66
+#: inc/class/class-special-deal.php:66 shinyu_old/inc/class/class-job.php:67
+#: shinyu_old/inc/class/class-news.php:67
+#: shinyu_old/inc/class/class-project-landing-page.php:64
+#: shinyu_old/inc/class/class-project-landing-page.php:112
+#: shinyu_old/inc/class/class-project.php:66 shinyu_old/inc/class/class-promotion.php:66
+#: shinyu_old/inc/class/class-room.php:69 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:66
+#: shinyu_old/inc/class/class-testimonial.php:66
+msgid "Uploaded to this item"
+msgstr ""
+
+#: inc/class/class-job.php:68 inc/class/class-job.php:119 inc/class/class-special-deal
+#: .php:67 inc/class/class-special-deal.php:67 shinyu_old/inc/class/class-job.php:68
+#: shinyu_old/inc/class/class-job.php:119 shinyu_old/inc/class/class-news.php:68
+#: shinyu_old/inc/class/class-news.php:118 shinyu_old/inc/class/class-project.php:110
+#: shinyu_old/inc/class/class-project.php:144 shinyu_old/inc/class/class-project.php:178
+#: shinyu_old/inc/class/class-project.php:212 shinyu_old/inc/class/class-project.php:246
+#: shinyu_old/inc/class/class-promotion.php:67 shinyu_old/inc/class/class-room.php:115
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:67
+#: shinyu_old/inc/class/class-testimonial.php:67
+msgid "Items list"
+msgstr ""
+
+#: inc/class/class-job.php:69 inc/class/class-job.php:120 inc/class/class-special-deal
+#: .php:68 inc/class/class-special-deal.php:68 shinyu_old/inc/class/class-job.php:69
+#: shinyu_old/inc/class/class-job.php:120 shinyu_old/inc/class/class-news.php:69
+#: shinyu_old/inc/class/class-news.php:119 shinyu_old/inc/class/class-project.php:111
+#: shinyu_old/inc/class/class-project.php:145 shinyu_old/inc/class/class-project.php:179
+#: shinyu_old/inc/class/class-project.php:213 shinyu_old/inc/class/class-project.php:247
+#: shinyu_old/inc/class/class-promotion.php:68 shinyu_old/inc/class/class-room.php:116
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:68
+#: shinyu_old/inc/class/class-testimonial.php:68
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/class/class-job.php:70 inc/class/class-project-landing-page.php:67
+#: inc/class/class-project-landing-page.php:115 inc/class/class-special-deal .php:69
+#: inc/class/class-special-deal.php:69 shinyu_old/inc/class/class-job.php:70
+#: shinyu_old/inc/class/class-news.php:70
+#: shinyu_old/inc/class/class-project-landing-page.php:67
+#: shinyu_old/inc/class/class-project-landing-page.php:115
+#: shinyu_old/inc/class/class-project.php:69 shinyu_old/inc/class/class-promotion.php:69
+#: shinyu_old/inc/class/class-room.php:72 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:69
+#: shinyu_old/inc/class/class-testimonial.php:69
+msgid "Filter items list"
+msgstr ""
+
+#: inc/class/class-job.php:74 inc/class/class-partner.php:50
+#: inc/class/class-special-deal .php:73 inc/class/class-special-deal.php:73
+#: inc/class/class-testimonial.php:50 shinyu_old/inc/class/class-job.php:74
+#: shinyu_old/inc/class/class-news.php:74 shinyu_old/inc/class/class-promotion.php:73
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:73
+#: shinyu_old/inc/class/class-testimonial.php:73
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class/class-job.php:104 inc/class/class-special-deal .php:50
+#: inc/class/class-special-deal.php:50 shinyu_old/inc/class/class-job.php:104
+#: shinyu_old/inc/class/class-news.php:103 shinyu_old/inc/class/class-project.php:95
+#: shinyu_old/inc/class/class-project.php:129 shinyu_old/inc/class/class-project.php:163
+#: shinyu_old/inc/class/class-project.php:197 shinyu_old/inc/class/class-project.php:231
+#: shinyu_old/inc/class/class-promotion.php:50 shinyu_old/inc/class/class-room.php:100
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:50
+#: shinyu_old/inc/class/class-testimonial.php:50
+#, fuzzy
+#| msgid "All News"
+msgid "All Items"
+msgstr "ข่าวสารทั้งหมด"
+
+#: inc/class/class-job.php:105 shinyu_old/inc/class/class-job.php:105
+#: shinyu_old/inc/class/class-news.php:104 shinyu_old/inc/class/class-project.php:96
+#: shinyu_old/inc/class/class-project.php:130 shinyu_old/inc/class/class-project.php:164
+#: shinyu_old/inc/class/class-project.php:198 shinyu_old/inc/class/class-project.php:232
+#: shinyu_old/inc/class/class-room.php:101
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Item"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-job.php:107 shinyu_old/inc/class/class-job.php:107
+#: shinyu_old/inc/class/class-news.php:106 shinyu_old/inc/class/class-project.php:98
+#: shinyu_old/inc/class/class-project.php:132 shinyu_old/inc/class/class-project.php:166
+#: shinyu_old/inc/class/class-project.php:200 shinyu_old/inc/class/class-project.php:234
+#: shinyu_old/inc/class/class-room.php:103
+#, fuzzy
+#| msgid "Category"
+msgid "New Item Name"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-job.php:112 shinyu_old/inc/class/class-job.php:112
+#: shinyu_old/inc/class/class-news.php:111 shinyu_old/inc/class/class-project.php:103
+#: shinyu_old/inc/class/class-project.php:137 shinyu_old/inc/class/class-project.php:171
+#: shinyu_old/inc/class/class-project.php:205 shinyu_old/inc/class/class-project.php:239
+#: shinyu_old/inc/class/class-room.php:108
+msgid "Separate items with commas"
+msgstr ""
+
+#: inc/class/class-job.php:113 shinyu_old/inc/class/class-job.php:113
+#: shinyu_old/inc/class/class-news.php:112 shinyu_old/inc/class/class-project.php:104
+#: shinyu_old/inc/class/class-project.php:138 shinyu_old/inc/class/class-project.php:172
+#: shinyu_old/inc/class/class-project.php:206 shinyu_old/inc/class/class-project.php:240
+#: shinyu_old/inc/class/class-room.php:109
+msgid "Add or remove items"
+msgstr ""
+
+#: inc/class/class-job.php:114 shinyu_old/inc/class/class-job.php:114
+#: shinyu_old/inc/class/class-news.php:113 shinyu_old/inc/class/class-project.php:105
+#: shinyu_old/inc/class/class-project.php:139 shinyu_old/inc/class/class-project.php:173
+#: shinyu_old/inc/class/class-project.php:207 shinyu_old/inc/class/class-project.php:241
+#: shinyu_old/inc/class/class-room.php:110
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/class/class-job.php:115 shinyu_old/inc/class/class-job.php:115
+#: shinyu_old/inc/class/class-news.php:114 shinyu_old/inc/class/class-project.php:106
+#: shinyu_old/inc/class/class-project.php:140 shinyu_old/inc/class/class-project.php:174
+#: shinyu_old/inc/class/class-project.php:208 shinyu_old/inc/class/class-project.php:242
+#: shinyu_old/inc/class/class-room.php:111
+#, fuzzy
+#| msgid "Category"
+msgid "Popular Items"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-job.php:116 shinyu_old/inc/class/class-job.php:116
+#: shinyu_old/inc/class/class-news.php:115 shinyu_old/inc/class/class-project.php:107
+#: shinyu_old/inc/class/class-project.php:141 shinyu_old/inc/class/class-project.php:175
+#: shinyu_old/inc/class/class-project.php:209 shinyu_old/inc/class/class-project.php:243
+#: shinyu_old/inc/class/class-room.php:112
+#, fuzzy
+#| msgid "Search News"
+msgid "Search Items"
+msgstr "ค้นหาข่าว"
+
+#: inc/class/class-job.php:117 shinyu_old/inc/class/class-job.php:117
+#: shinyu_old/inc/class/class-news.php:116 shinyu_old/inc/class/class-project.php:108
+#: shinyu_old/inc/class/class-project.php:142 shinyu_old/inc/class/class-project.php:176
+#: shinyu_old/inc/class/class-project.php:210 shinyu_old/inc/class/class-project.php:244
+#: shinyu_old/inc/class/class-room.php:113
+#, fuzzy
+#| msgid "No Food found."
+msgid "Not Found"
+msgstr "ไม่พบเมนู "
+
+#: inc/class/class-job.php:118 shinyu_old/inc/class/class-job.php:118
+#: shinyu_old/inc/class/class-news.php:117 shinyu_old/inc/class/class-project.php:109
+#: shinyu_old/inc/class/class-project.php:143 shinyu_old/inc/class/class-project.php:177
+#: shinyu_old/inc/class/class-project.php:211 shinyu_old/inc/class/class-project.php:245
+#: shinyu_old/inc/class/class-room.php:114
+msgid "No items"
+msgstr ""
+
+#: inc/class/class-job.php:147 inc/class/class-project.php:785
+#: inc/class/class-unit.php:589 shinyu_old/inc/class/class-job.php:147
+#: shinyu_old/inc/class/class-project.php:789 shinyu_old/inc/class/class-room.php:563
+msgid "Count"
+msgstr ""
+
+#: inc/class/class-page-home.php:39
+msgid "Slideshow"
+msgstr ""
+
+#: inc/class/class-page-home.php:54
+#, fuzzy
+#| msgid "Add Province"
+msgid "Add Slideshow"
+msgstr "เพิ่ม"
+
+#: inc/class/class-page-home.php:79 inc/class/class-page-home.php:140
+#: inc/class/class-page.php:117 shinyu_old/inc/class/class-home.php:67
+#: shinyu_old/inc/class/class-home.php:115
+msgid "Link"
+msgstr ""
+
+#: inc/class/class-page-home.php:87
+msgid "Project Pre - Sale"
+msgstr ""
+
+#: inc/class/class-page-home.php:102 inc/class/class-project.php:52
+#: inc/class/class-project.php:54 shinyu_old/inc/class/class-project.php:52
+#: shinyu_old/inc/class/class-project.php:54
+msgid "Add Project"
+msgstr "เพิ่มโครงการ"
+
+#: inc/class/class-page-home.php:128
+msgid "Price"
+msgstr "ราคา"
+
+#: inc/class/class-page-home.php:134 inc/class/class-project.php:129
+#: inc/class/class-project.php:267 inc/class/class-project.php:760
+#: shinyu_old/inc/class/class-project.php:162 shinyu_old/inc/class/class-project.php:292
+#: shinyu_old/inc/class/class-project.php:765
+msgid "Developer"
+msgstr ""
+
+#: inc/class/class-page-home.php:148 shinyu_old/inc/class/class-home.php:123
+#, fuzzy
+#| msgid "Status"
+msgid "State"
+msgstr "สถานะ"
+
+#: inc/class/class-page-home.php:156 shinyu_old/inc/class/class-home.php:131
+#, fuzzy
+#| msgid "Customer"
+msgid "Customers"
+msgstr "ลูกค้า"
+
+#: inc/class/class-page-home.php:162 shinyu_old/inc/class/class-home.php:137
+msgid "Total sqm leased"
+msgstr ""
+
+#: inc/class/class-page-home.php:168 shinyu_old/inc/api/api-room.php:268
+#: shinyu_old/inc/class/class-home.php:143 shinyu_old/inc/class/class-room.php:50
+#: shinyu_old/inc/class/class-room.php:51 shinyu_old/inc/class/class-room.php:53
+msgid "Room"
+msgstr ""
+
+#: inc/class/class-page-home.php:174 inc/class/class-project.php:50
+#: inc/class/class-promotion.php:92 inc/class/class-unit.php:168
+#: inc/class/class-unit.php:558 shinyu_old/inc/api/api-project-landing-page.php:160
+#: shinyu_old/inc/api/api-project.php:61 shinyu_old/inc/api/api-project.php:202
+#: shinyu_old/inc/class/class-home.php:149 shinyu_old/inc/class/class-project.php:50
+#: shinyu_old/inc/class/class-promotion.php:117 shinyu_old/inc/class/class-room.php:162
+#: shinyu_old/inc/class/class-room.php:533
+msgid "Project"
+msgstr "โครงการ"
+
+#: inc/class/class-page-job.php:37 inc/class/class-page.php:38
+msgid "Page Header"
+msgstr ""
+
+#: inc/class/class-page.php:69 shinyu_old/inc/class/class-home.php:39
+msgid "Banner"
+msgstr ""
+
+#: inc/class/class-page.php:77
+msgid "Start"
+msgstr ""
+
+#: inc/class/class-page.php:131
+msgid "Align"
+msgstr ""
+
+#: inc/class/class-page.php:147
+msgid "Color"
+msgstr ""
+
+#: inc/class/class-page.php:162
+msgid "Background Zoom On Hover"
+msgstr ""
+
+#: inc/class/class-partner.php:45 inc/class/class-partner.php:46
+#: inc/class/class-partner.php:49
+msgid "Partner"
+msgstr ""
+
+#: inc/class/class-partner.php:84 inc/class/class-project-landing-page.php:161
+#: inc/class/class-social.php:53 inc/class/class-social.php:76
+#: inc/class/class-social.php:99 inc/class/class-social.php:122
+#: inc/class/class-social.php:145 inc/class/class-social.php:168
+#: inc/class/class-social.php:191
+#: shinyu_old/inc/class/class-project-landing-page.php:161
+#: shinyu_old/inc/class/class-social.php:53 shinyu_old/inc/class/class-social.php:76
+#: shinyu_old/inc/class/class-social.php:99 shinyu_old/inc/class/class-social.php:122
+#: shinyu_old/inc/class/class-social.php:145 shinyu_old/inc/class/class-social.php:168
+#: shinyu_old/inc/class/class-social.php:191
+msgid "Logo"
+msgstr ""
+
+#: inc/class/class-partner.php:94
+msgid "Website"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:45
+#: inc/class/class-project-landing-page.php:46
+#: inc/class/class-project-landing-page.php:47
+#: inc/class/class-project-landing-page.php:48
+#: shinyu_old/inc/class/class-project-landing-page.php:45
+#: shinyu_old/inc/class/class-project-landing-page.php:46
+#: shinyu_old/inc/class/class-project-landing-page.php:47
+#: shinyu_old/inc/class/class-project-landing-page.php:48
+msgid "Landing Page"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:50
+#: inc/class/class-project-landing-page.php:52
+#: shinyu_old/inc/class/class-project-landing-page.php:50
+#: shinyu_old/inc/class/class-project-landing-page.php:52
+msgid "Add Landing Page"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:51
+#: shinyu_old/inc/class/class-project-landing-page.php:51
+msgid "Edit Landing Page"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:53
+#: inc/class/class-project-landing-page.php:58
+#: shinyu_old/inc/class/class-project-landing-page.php:53
+#: shinyu_old/inc/class/class-project-landing-page.php:58
+msgid "View Landing Page"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:54
+#: inc/class/class-project-landing-page.php:102 inc/class/class-project.php:56
+#: shinyu_old/inc/class/class-project-landing-page.php:54
+#: shinyu_old/inc/class/class-project-landing-page.php:102
+#: shinyu_old/inc/class/class-project.php:56
+msgid "Search Project"
+msgstr "ค้นหาโครงการ"
+
+#: inc/class/class-project-landing-page.php:55
+#: inc/class/class-project-landing-page.php:56
+#: shinyu_old/inc/class/class-project-landing-page.php:55
+#: shinyu_old/inc/class/class-project-landing-page.php:56
+#, fuzzy
+#| msgid "No Dealer found."
+msgid "No Landing Page found."
+msgstr "ไม่พบข้อมูล"
+
+#: inc/class/class-project-landing-page.php:65
+#: shinyu_old/inc/class/class-project-landing-page.php:65
+msgid "Landing Page list"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:66
+#: shinyu_old/inc/class/class-project-landing-page.php:66
+msgid "Landing Page list navigation"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:93
+#: inc/class/class-project-landing-page.php:94
+#: inc/class/class-project-landing-page.php:96
+#: shinyu_old/inc/class/class-project-landing-page.php:93
+#: shinyu_old/inc/class/class-project-landing-page.php:94
+#: shinyu_old/inc/class/class-project-landing-page.php:96
+#, fuzzy
+#| msgid "Western"
+msgid "Register"
+msgstr "ภาคตะวันตก"
+
+#: inc/class/class-project-landing-page.php:95
+#: shinyu_old/inc/class/class-project-landing-page.php:95
+#, fuzzy
+#| msgid "All Region"
+msgid "All Register"
+msgstr "ภูมิภาคทั้งหมด"
+
+#: inc/class/class-project-landing-page.php:98
+#: inc/class/class-project-landing-page.php:100
+#: shinyu_old/inc/class/class-project-landing-page.php:98
+#: shinyu_old/inc/class/class-project-landing-page.php:100
+#, fuzzy
+#| msgid "Add Dealer"
+msgid "Add Register"
+msgstr "เพิ่ม"
+
+#: inc/class/class-project-landing-page.php:99
+#: shinyu_old/inc/class/class-project-landing-page.php:99
+#, fuzzy
+#| msgid "Edit Dealer"
+msgid "Edit Register"
+msgstr "แก้ไข"
+
+#: inc/class/class-project-landing-page.php:101
+#: inc/class/class-project-landing-page.php:106
+#: shinyu_old/inc/class/class-project-landing-page.php:101
+#: shinyu_old/inc/class/class-project-landing-page.php:106
+#, fuzzy
+#| msgid "View Dealer"
+msgid "View Register"
+msgstr "ดู"
+
+#: inc/class/class-project-landing-page.php:103
+#: inc/class/class-project-landing-page.php:104
+#: shinyu_old/inc/class/class-project-landing-page.php:103
+#: shinyu_old/inc/class/class-project-landing-page.php:104
+#, fuzzy
+#| msgid "No Dealer found."
+msgid "No Register found."
+msgstr "ไม่พบข้อมูล"
+
+#: inc/class/class-project-landing-page.php:113
+#: shinyu_old/inc/class/class-project-landing-page.php:113
+msgid "Register list"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:114
+#: shinyu_old/inc/class/class-project-landing-page.php:114
+msgid "Register list navigation"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:153
+#: inc/class/class-project-landing-page.php:189
+#: shinyu_old/inc/class/class-project-landing-page.php:153
+#: shinyu_old/inc/class/class-project-landing-page.php:189
+msgid "Intro"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:181
+#: shinyu_old/inc/class/class-project-landing-page.php:181
+#, fuzzy
+#| msgid "Project Information"
+msgid "Information"
+msgstr "ข้อมูลโครงการ"
+
+#: inc/class/class-project-landing-page.php:198 inc/class/class-promotion.php:46
+#: shinyu_old/inc/api/api-promotion.php:168 shinyu_old/inc/api/api-promotion.php:182
+#: shinyu_old/inc/api/api-promotion.php:248
+#: shinyu_old/inc/class/class-project-landing-page.php:198
+#: shinyu_old/inc/class/class-promotion.php:45
+#: shinyu_old/inc/class/class-promotion.php:72
+msgid "Promotion"
+msgstr "โปรโมชั่น"
+
+#: inc/class/class-project-landing-page.php:218
+#: shinyu_old/inc/class/class-project-landing-page.php:218
+#, fuzzy
+#| msgid "Add Dealer"
+msgid "Feature"
+msgstr "เพิ่ม"
+
+#: inc/class/class-project-landing-page.php:225
+#: shinyu_old/inc/class/class-project-landing-page.php:225
+#, fuzzy
+#| msgid "Add Dealer"
+msgid "Add feature"
+msgstr "เพิ่ม"
+
+#: inc/class/class-project-landing-page.php:236
+#: shinyu_old/inc/class/class-project-landing-page.php:236
+msgid "content"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:248
+#: shinyu_old/inc/class/class-project-landing-page.php:248
+msgid "Plan"
+msgstr "แบบแปลน"
+
+#: inc/class/class-project-landing-page.php:274
+#: shinyu_old/inc/class/class-project-landing-page.php:274
+msgid "Interior"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:284
+#: shinyu_old/inc/class/class-project-landing-page.php:284
+msgid "Exterior"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:304 inc/class/class-project.php:154
+#: inc/class/class-project.php:155 inc/class/class-project.php:321
+#: shinyu_old/inc/class/class-project-landing-page.php:304
+#: shinyu_old/inc/class/class-project.php:196 shinyu_old/inc/class/class-project.php:346
+msgid "Location"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:312
+#: shinyu_old/inc/class/class-project-landing-page.php:312
+msgid "name"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:318 inc/class/class-project.php:359
+#: shinyu_old/inc/class/class-project-landing-page.php:318
+#: shinyu_old/inc/class/class-project.php:384
+msgid "Latitude"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:325 inc/class/class-project.php:366
+#: shinyu_old/inc/class/class-project-landing-page.php:325
+#: shinyu_old/inc/class/class-project.php:391
+msgid "Longitude"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:349
+#: shinyu_old/inc/class/class-project-landing-page.php:349
+msgid "Contact Info"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:375 inc/class/class-project.php:251
+#: shinyu_old/inc/class/class-project-landing-page.php:375
+#: shinyu_old/inc/class/class-project.php:282 shinyu_old/inc/class/class-project.php:746
+msgid "Recommend project"
+msgstr "โครงการแนะนำ"
+
+#: inc/class/class-project-landing-page.php:389
+#: shinyu_old/inc/class/class-project-landing-page.php:389
+msgid "budget"
+msgstr ""
+
+#: inc/class/class-project-landing-page.php:390
+#: shinyu_old/inc/class/class-project-landing-page.php:390
+msgid "Appointment date"
+msgstr ""
+
+#: inc/class/class-project.php:47 inc/class/class-project.php:48
+#: shinyu_old/inc/class/class-project.php:47 shinyu_old/inc/class/class-project.php:48
+#, fuzzy
+#| msgid "Project"
+msgid "Projects"
+msgstr "โครงการ"
+
+#: inc/class/class-project.php:49 shinyu_old/inc/class/class-project.php:49
+#, fuzzy
+#| msgid "All Project"
+msgid "All Projects"
+msgstr "โครงการทั้งหมด"
+
+#: inc/class/class-project.php:53 shinyu_old/inc/class/class-project.php:53
+#, fuzzy
+#| msgid "Edit Province"
+msgid "Edit Project"
+msgstr "แก้ไข"
+
+#: inc/class/class-project.php:55 shinyu_old/inc/class/class-project.php:55
+#: shinyu_old/inc/class/class-project.php:60
+msgid "View Project"
+msgstr "ดูโครงการ"
+
+#: inc/class/class-project.php:79 inc/class/class-project.php:81
+msgid "Types"
+msgstr ""
+
+#: inc/class/class-project.php:80 inc/class/class-project.php:663
+#: inc/class/class-project.php:758 inc/class/class-unit.php:559
+#: shinyu_old/inc/class/class-project.php:94 shinyu_old/inc/class/class-project.php:669
+#: shinyu_old/inc/class/class-project.php:763 shinyu_old/inc/class/class-room.php:534
+msgid "Type"
+msgstr ""
+
+#: inc/class/class-project.php:82
+#, fuzzy
+#| msgid "All News"
+msgid "All Type"
+msgstr "ข่าวสารทั้งหมด"
+
+#: inc/class/class-project.php:83
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Type"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:84
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Type:"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:85
+#, fuzzy
+#| msgid "Category"
+msgid "New Type"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:86
+#, fuzzy
+#| msgid "Add News"
+msgid "Add Type"
+msgstr "เพิ่มข่าว"
+
+#: inc/class/class-project.php:87
+#, fuzzy
+#| msgid "Edit News"
+msgid "Edit Type"
+msgstr "แก้ไขข่าว"
+
+#: inc/class/class-project.php:88
+#, fuzzy
+#| msgid "Update Province"
+msgid "Update Type"
+msgstr "บันทึก"
+
+#: inc/class/class-project.php:89
+#, fuzzy
+#| msgid "View News"
+msgid "View Type"
+msgstr "ดูข่าว"
+
+#: inc/class/class-project.php:104 inc/class/class-project.php:105
+#: inc/class/class-project.php:130 inc/class/class-project.php:303
+#: inc/class/class-project.php:759 shinyu_old/inc/class/class-project.php:128
+#: shinyu_old/inc/class/class-project.php:328 shinyu_old/inc/class/class-project.php:764
+msgid "Country"
+msgstr ""
+
+#: inc/class/class-project.php:106
+msgid "Countries"
+msgstr ""
+
+#: inc/class/class-project.php:107
+#, fuzzy
+#| msgid "All Category"
+msgid "All Country"
+msgstr "หมวดหมู่ทั้งหมด"
+
+#: inc/class/class-project.php:108
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Country"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:109
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Country:"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:110
+#, fuzzy
+#| msgid "New Category"
+msgid "New Country"
+msgstr "เพิ่มหมวดหมู่"
+
+#: inc/class/class-project.php:111
+#, fuzzy
+#| msgid "Add Category"
+msgid "Add Country"
+msgstr "เพิ่มหมวดหมู่"
+
+#: inc/class/class-project.php:112
+#, fuzzy
+#| msgid "Edit Category"
+msgid "Edit Country"
+msgstr "แก้ไขหมวดหมู่"
+
+#: inc/class/class-project.php:113
+#, fuzzy
+#| msgid "Update Province"
+msgid "Update Country"
+msgstr "บันทึก"
+
+#: inc/class/class-project.php:114
+#, fuzzy
+#| msgid "View Category"
+msgid "View Country"
+msgstr "ดูหมวดหมู่"
+
+#: inc/class/class-project.php:131
+msgid "Developers"
+msgstr ""
+
+#: inc/class/class-project.php:132
+#, fuzzy
+#| msgid "All Dealer"
+msgid "All Developer"
+msgstr "ทั้งหมด"
+
+#: inc/class/class-project.php:133
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Developer"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:134
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Developer:"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:135
+#, fuzzy
+#| msgid "View Dealer"
+msgid "New Developer"
+msgstr "ดู"
+
+#: inc/class/class-project.php:136
+#, fuzzy
+#| msgid "Add Dealer"
+msgid "Add Developer"
+msgstr "เพิ่ม"
+
+#: inc/class/class-project.php:137
+#, fuzzy
+#| msgid "Edit Dealer"
+msgid "Edit Developer"
+msgstr "แก้ไข"
+
+#: inc/class/class-project.php:138
+#, fuzzy
+#| msgid "Update Province"
+msgid "Update Developer"
+msgstr "บันทึก"
+
+#: inc/class/class-project.php:139
+#, fuzzy
+#| msgid "View Dealer"
+msgid "View Developer"
+msgstr "ดู"
+
+#: inc/class/class-project.php:156
+msgid "Locations"
+msgstr ""
+
+#: inc/class/class-project.php:157
+#, fuzzy
+#| msgid "All Region"
+msgid "All Location"
+msgstr "ภูมิภาคทั้งหมด"
+
+#: inc/class/class-project.php:158
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Location"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:159
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Location:"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:160
+#, fuzzy
+#| msgid "News and Promotion"
+msgid "New Location"
+msgstr "ข่าวสารและโปรโมชั่น"
+
+#: inc/class/class-project.php:161
+#, fuzzy
+#| msgid "Add Project"
+msgid "Add Location"
+msgstr "เพิ่มโครงการ"
+
+#: inc/class/class-project.php:162
+#, fuzzy
+#| msgid "Edit Province"
+msgid "Edit Location"
+msgstr "แก้ไข"
+
+#: inc/class/class-project.php:163
+#, fuzzy
+#| msgid "Update Province"
+msgid "Update Location"
+msgstr "บันทึก"
+
+#: inc/class/class-project.php:164
+#, fuzzy
+#| msgid "View project information"
+msgid "View Location"
+msgstr "ดูข้อมูลโครงการ"
+
+#: inc/class/class-project.php:180 inc/class/class-project.php:181
+#: inc/class/class-project.php:389 inc/class/class-project.php:482
+#: inc/class/class-project.php:762 shinyu_old/inc/class/class-project.php:414
+msgid "Area"
+msgstr ""
+
+#: inc/class/class-project.php:182
+msgid "Areas"
+msgstr ""
+
+#: inc/class/class-project.php:183
+#, fuzzy
+#| msgid "All Dealer"
+msgid "All Area"
+msgstr "ทั้งหมด"
+
+#: inc/class/class-project.php:184
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Area"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:185
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Area:"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:186
+#, fuzzy
+#| msgid "Category"
+msgid "New Area"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:187
+#, fuzzy
+#| msgid "Add News"
+msgid "Add Area"
+msgstr "เพิ่มข่าว"
+
+#: inc/class/class-project.php:188
+#, fuzzy
+#| msgid "Edit Dealer"
+msgid "Edit Area"
+msgstr "แก้ไข"
+
+#: inc/class/class-project.php:189
+#, fuzzy
+#| msgid "Update Province"
+msgid "Update Area"
+msgstr "บันทึก"
+
+#: inc/class/class-project.php:190
+#, fuzzy
+#| msgid "View All"
+msgid "View Area"
+msgstr "ดูทั้งหมด"
+
+#: inc/class/class-project.php:206 inc/class/class-project.php:207
+#: inc/class/class-project.php:463 inc/class/class-unit.php:85
+#: inc/class/class-unit.php:86 inc/class/class-unit.php:338 inc/class/class-unit.php:560
+#: shinyu_old/inc/class/class-project.php:230 shinyu_old/inc/class/class-project.php:488
+#: shinyu_old/inc/class/class-room.php:99 shinyu_old/inc/class/class-room.php:332
+#: shinyu_old/inc/class/class-room.php:535
+msgid "Facility"
+msgstr ""
+
+#: inc/class/class-project.php:208 inc/class/class-unit.php:87
+msgid "Facilities"
+msgstr ""
+
+#: inc/class/class-project.php:209 inc/class/class-unit.php:88
+#, fuzzy
+#| msgid "All Clients"
+msgid "All Facility"
+msgstr "ลูกค้าทั้งหมด"
+
+#: inc/class/class-project.php:210 inc/class/class-unit.php:89
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Facility"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:211 inc/class/class-unit.php:90
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Facility:"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-project.php:212 inc/class/class-unit.php:91
+msgid "New Facility"
+msgstr ""
+
+#: inc/class/class-project.php:213 inc/class/class-unit.php:92
+#, fuzzy
+#| msgid "Add Clients"
+msgid "Add Facility"
+msgstr "เพิ่มลูกค้า"
+
+#: inc/class/class-project.php:214 inc/class/class-unit.php:93
+#, fuzzy
+#| msgid "Edit Clients"
+msgid "Edit Facility"
+msgstr "แก้ไขลูกค้า"
+
+#: inc/class/class-project.php:215 inc/class/class-unit.php:94
+#, fuzzy
+#| msgid "Update Province"
+msgid "Update Facility"
+msgstr "บันทึก"
+
+#: inc/class/class-project.php:216 inc/class/class-unit.php:95
+#, fuzzy
+#| msgid "View Clients"
+msgid "View Facility"
+msgstr "ดู"
+
+#: inc/class/class-project.php:243 inc/class/class-unit.php:160
+#: shinyu_old/inc/class/class-project.php:274 shinyu_old/inc/class/class-room.php:154
+msgid "General"
+msgstr ""
+
+#: inc/class/class-project.php:261
+msgid "Project Name (Thai)"
+msgstr ""
+
+#: inc/class/class-project.php:285 shinyu_old/inc/class/class-project.php:310
+#, fuzzy
+#| msgid "Project"
+msgid "Project Type"
+msgstr "โครงการ"
+
+#: inc/class/class-project.php:327 shinyu_old/inc/class/class-project.php:352
+msgid "BTS"
+msgstr ""
+
+#: inc/class/class-project.php:343 shinyu_old/inc/class/class-project.php:368
+msgid "MRT"
+msgstr ""
+
+#: inc/class/class-project.php:373 shinyu_old/inc/class/class-project.php:398
+msgid "Year Built"
+msgstr ""
+
+#: inc/class/class-project.php:398 shinyu_old/inc/class/class-project.php:423
+msgid "Total Units"
+msgstr ""
+
+#: inc/class/class-project.php:407 shinyu_old/inc/class/class-project.php:432
+msgid "Towers"
+msgstr ""
+
+#: inc/class/class-project.php:417 shinyu_old/inc/class/class-project.php:442
+msgid "Floors"
+msgstr ""
+
+#: inc/class/class-project.php:426 shinyu_old/inc/class/class-project.php:451
+msgid "Room type"
+msgstr ""
+
+#: inc/class/class-project.php:436 shinyu_old/inc/class/class-project.php:461
+msgid "Pricing per SQM"
+msgstr ""
+
+#: inc/class/class-project.php:445 shinyu_old/inc/class/class-project.php:470
+msgid "Est. Rental price"
+msgstr ""
+
+#: inc/class/class-project.php:454 shinyu_old/inc/class/class-project.php:479
+msgid "Parking Space"
+msgstr ""
+
+#: inc/class/class-project.php:509 shinyu_old/inc/class/class-project.php:515
+#, fuzzy
+#| msgid "Project"
+msgid "Project logo"
+msgstr "โครงการ"
+
+#: inc/class/class-project.php:541 inc/class/class-unit.php:403
+#: inc/class/class-video.php:32 inc/class/class-video.php:33
+#: inc/class/class-video.php:35 shinyu_old/inc/class/class-home.php:155
+#: shinyu_old/inc/class/class-project.php:547 shinyu_old/inc/class/class-room.php:379
+msgid "Video"
+msgstr ""
+
+#: inc/class/class-project.php:560 inc/class/class-unit.php:422
+#: shinyu_old/inc/class/class-project.php:566 shinyu_old/inc/class/class-room.php:398
+msgid "Floor"
+msgstr ""
+
+#: inc/class/class-project.php:575 inc/class/class-unit.php:437
+#: shinyu_old/inc/class/class-project.php:581 shinyu_old/inc/class/class-room.php:413
+#, fuzzy
+#| msgid "Add Food"
+msgid "Add Floor"
+msgstr "เพิ่มเมนูอาหาร"
+
+#: inc/class/class-project.php:596 inc/class/class-unit.php:458
+#: shinyu_old/inc/class/class-project.php:602 shinyu_old/inc/class/class-room.php:434
+msgid "Market Stat"
+msgstr ""
+
+#: inc/class/class-project.php:604 inc/class/class-unit.php:466
+#: shinyu_old/inc/api/api-project.php:387 shinyu_old/inc/api/api-room.php:434
+#: shinyu_old/inc/class/class-project.php:610 shinyu_old/inc/class/class-room.php:442
+msgid "Current asking price per sqm."
+msgstr ""
+
+#: inc/class/class-project.php:610 inc/class/class-unit.php:472
+#: shinyu_old/inc/class/class-project.php:616 shinyu_old/inc/class/class-room.php:448
+msgid "Asking price change from last quarter"
+msgstr ""
+
+#: inc/class/class-project.php:616 inc/class/class-unit.php:478
+#: shinyu_old/inc/class/class-project.php:622 shinyu_old/inc/class/class-room.php:454
+msgid "Asking price chang from last year"
+msgstr ""
+
+#: inc/class/class-project.php:622 inc/class/class-unit.php:484
+#: shinyu_old/inc/api/api-project.php:403 shinyu_old/inc/api/api-room.php:450
+#: shinyu_old/inc/class/class-project.php:628 shinyu_old/inc/class/class-room.php:460
+msgid "Achievable gross rental yield"
+msgstr ""
+
+#: inc/class/class-project.php:628 inc/class/class-unit.php:490
+#: shinyu_old/inc/api/api-project.php:399 shinyu_old/inc/api/api-room.php:446
+#: shinyu_old/inc/class/class-project.php:634 shinyu_old/inc/class/class-room.php:466
+msgid "Rent price change from last year"
+msgstr ""
+
+#: inc/class/class-project.php:682 shinyu_old/inc/class/class-project.php:688
+msgid "Price for Sale"
+msgstr ""
+
+#: inc/class/class-project.php:688 shinyu_old/inc/class/class-project.php:694
+msgid "Price for Rent"
+msgstr ""
+
+#: inc/class/class-project.php:740
+#, fuzzy
+#| msgid "Recommend project"
+msgid "Recommend"
+msgstr "โครงการแนะนำ"
+
+#: inc/class/class-project.php:761 shinyu_old/inc/class/class-project.php:766
+msgid "Location (BTS/MRT)"
+msgstr ""
+
+#: inc/class/class-promotion.php:43 inc/class/class-promotion.php:44
+msgid "Promotions"
+msgstr "โปรโมชั่น"
+
+#: inc/class/class-promotion.php:45
+msgid "All Promotions"
+msgstr "โปรโมชั่นทั้งหมด"
+
+#: inc/class/class-promotion.php:48 inc/class/class-promotion.php:50
+msgid "Add Promotion"
+msgstr "เพิ่มโปรโมชั่น"
+
+#: inc/class/class-promotion.php:49
+msgid "Edit Promotion"
+msgstr "แก้ไขโปรโมชั่น"
+
+#: inc/class/class-promotion.php:51
+msgid "View Promotion"
+msgstr "ดูโปรโมชั่น"
+
+#: inc/class/class-promotion.php:52
+msgid "Search Promotion"
+msgstr "ค้นหาโปรโมชั่น"
+
+#: inc/class/class-service.php:43 inc/class/class-service.php:44
+msgid "Services"
+msgstr "บริการ"
+
+#: inc/class/class-service.php:45
+msgid "All Services"
+msgstr "บริการทั้งหมด"
+
+#: inc/class/class-service.php:46
+msgid "Service"
+msgstr "บริการ"
+
+#: inc/class/class-service.php:47 inc/class/class-service.php:48
+#: inc/class/class-service.php:50
+msgid "Add Service"
+msgstr "เพิ่มบริการ"
+
+#: inc/class/class-service.php:49
+msgid "Edit Service"
+msgstr "แก้ไขบริการ"
+
+#: inc/class/class-service.php:51
+msgid "View Service"
+msgstr "ดูบริการ"
+
+#: inc/class/class-service.php:52
+msgid "Search Service"
+msgstr "ค้นหาบริการ"
+
+#: inc/class/class-social.php:47 shinyu_old/inc/class/class-social.php:47
+msgid "Facebook"
+msgstr ""
+
+#: inc/class/class-social.php:63 inc/class/class-social.php:86
+#: inc/class/class-social.php:109 inc/class/class-social.php:132
+#: inc/class/class-social.php:155 inc/class/class-social.php:178
+#: inc/class/class-social.php:201 shinyu_old/inc/class/class-home.php:190
+#: shinyu_old/inc/class/class-social.php:63 shinyu_old/inc/class/class-social.php:86
+#: shinyu_old/inc/class/class-social.php:109 shinyu_old/inc/class/class-social.php:132
+#: shinyu_old/inc/class/class-social.php:155 shinyu_old/inc/class/class-social.php:178
+#: shinyu_old/inc/class/class-social.php:201
+msgid "Url"
+msgstr ""
+
+#: inc/class/class-social.php:70 shinyu_old/inc/class/class-social.php:70
+msgid "Instagram"
+msgstr ""
+
+#: inc/class/class-social.php:93 shinyu_old/inc/class/class-social.php:93
+msgid "WeChat"
+msgstr ""
+
+#: inc/class/class-social.php:116 shinyu_old/inc/class/class-social.php:116
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/class/class-social.php:139 shinyu_old/inc/class/class-social.php:139
+msgid "Messenger"
+msgstr ""
+
+#: inc/class/class-social.php:162 shinyu_old/inc/class/class-social.php:162
+msgid "Line"
+msgstr ""
+
+#: inc/class/class-social.php:185 shinyu_old/inc/class/class-social.php:185
+msgid "Youtube"
+msgstr ""
+
+#: inc/class/class-special-deal .php:45 .php:72 inc/class/class-special-deal.php:45
+#: inc/class/class-special-deal.php:72 shinyu_old/inc/api/api-home.php:279
+#: shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:45
+#: shinyu_old/inc/class/class-special-deal.php:72
+#, fuzzy
+#| msgid "Search Dealer"
+msgid "Special Deal"
+msgstr "ค้นหา"
+
+#: inc/class/class-special-deal .php:47 inc/class/class-special-deal.php:47
+#: shinyu_old/inc/class/class-promotion.php:47 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:47
+#: shinyu_old/inc/class/class-testimonial.php:47
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class/class-special-deal .php:48 inc/class/class-special-deal.php:48
+#: shinyu_old/inc/class/class-promotion.php:48 shinyu_old/inc/class/class-special-deal
+#: shinyu_old/inc/class/class-special-deal.php:48
+#: shinyu_old/inc/class/class-testimonial.php:48
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/class/class-taxonomy-package.php:51 inc/class/class-taxonomy-package.php:64
+#: inc/class/class-taxonomy-package.php:96
+msgid "Package ID"
+msgstr ""
+
+#: inc/class/class-testimonial.php:45 inc/class/class-testimonial.php:46
+#: inc/class/class-testimonial.php:49 shinyu_old/inc/api/api-home.php:324
+#: shinyu_old/inc/class/class-testimonial.php:45
+#: shinyu_old/inc/class/class-testimonial.php:72
+msgid "Testimonial"
+msgstr ""
+
+#: inc/class/class-unit.php:51
+msgid "Units"
+msgstr "ยูนิต"
+
+#: inc/class/class-unit.php:52
+msgid "All Unit"
+msgstr "ยูนิตทั้งหมด"
+
+#: inc/class/class-unit.php:55 inc/class/class-unit.php:57
+msgid "Add Unit"
+msgstr "เพิ่มยูนิต"
+
+#: inc/class/class-unit.php:56
+msgid "Edit Unit"
+msgstr "แก้ไขยูนิต"
+
+#: inc/class/class-unit.php:58
+msgid "View Unit"
+msgstr "ดูยูนิต"
+
+#: inc/class/class-unit.php:59
+msgid "Search Unit"
+msgstr "ค้นหายูนิต"
+
+#: inc/class/class-unit.php:111 inc/class/class-unit.php:112
+#: inc/class/class-unit.php:561
+msgid "Tag"
+msgstr ""
+
+#: inc/class/class-unit.php:113 inc/class/class-unit.php:356
+msgid "Tags"
+msgstr ""
+
+#: inc/class/class-unit.php:114
+#, fuzzy
+#| msgid "All Category"
+msgid "All Tag"
+msgstr "หมวดหมู่ทั้งหมด"
+
+#: inc/class/class-unit.php:115
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Tag"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-unit.php:116
+#, fuzzy
+#| msgid "Category"
+msgid "Parent Tag:"
+msgstr "หมวดหมู่"
+
+#: inc/class/class-unit.php:117
+#, fuzzy
+#| msgid "New Category"
+msgid "New Tag"
+msgstr "เพิ่มหมวดหมู่"
+
+#: inc/class/class-unit.php:118
+#, fuzzy
+#| msgid "Add Clients"
+msgid "Add Tag"
+msgstr "เพิ่มลูกค้า"
+
+#: inc/class/class-unit.php:119
+#, fuzzy
+#| msgid "Edit Category"
+msgid "Edit Tag"
+msgstr "แก้ไขหมวดหมู่"
+
+#: inc/class/class-unit.php:120
+#, fuzzy
+#| msgid "Update Province"
+msgid "Update Tag"
+msgstr "บันทึก"
+
+#: inc/class/class-unit.php:121
+#, fuzzy
+#| msgid "View Category"
+msgid "View Tag"
+msgstr "ดูหมวดหมู่"
+
+#: inc/class/class-unit.php:186 inc/class/class-unit.php:543
+#: shinyu_old/inc/class/class-room.php:180 shinyu_old/inc/class/class-room.php:519
+#, fuzzy
+#| msgid "Recommend project"
+msgid "Recommend room"
+msgstr "โครงการแนะนำ"
+
+#: inc/class/class-unit.php:197 shinyu_old/inc/class/class-room.php:191
+msgid "Condition"
+msgstr ""
+
+#: inc/class/class-unit.php:213 shinyu_old/inc/class/class-room.php:207
+msgid "Price for sell"
+msgstr ""
+
+#: inc/class/class-unit.php:221 shinyu_old/inc/class/class-room.php:215
+msgid "Price for rent"
+msgstr ""
+
+#: inc/class/class-unit.php:229 shinyu_old/inc/class/class-room.php:223
+msgid "Unit No."
+msgstr ""
+
+#: inc/class/class-unit.php:237 shinyu_old/inc/class/class-room.php:231
+msgid "Levels"
+msgstr ""
+
+#: inc/class/class-unit.php:245 shinyu_old/inc/class/class-room.php:239
+msgid "Room Area (SQM)"
+msgstr ""
+
+#: inc/class/class-unit.php:253 shinyu_old/inc/class/class-room.php:247
+#, fuzzy
+#| msgid "View CSR"
+msgid "View"
+msgstr "ดู"
+
+#: inc/class/class-unit.php:270 shinyu_old/inc/class/class-room.php:264
+msgid "Direction"
+msgstr ""
+
+#: inc/class/class-unit.php:287 shinyu_old/inc/class/class-room.php:281
+msgid "Room Type"
+msgstr ""
+
+#: inc/class/class-unit.php:304 shinyu_old/inc/class/class-room.php:298
+msgid "Bedrooms"
+msgstr ""
+
+#: inc/class/class-unit.php:321 shinyu_old/inc/class/class-room.php:315
+msgid "Bathrooms"
+msgstr ""
+
+#: inc/class/class-video.php:34
+#, fuzzy
+#| msgid "Add Province"
+msgid "All Video"
+msgstr "เพิ่ม"
+
+#: inc/class/class-video.php:36 inc/class/class-video.php:37
+#: inc/class/class-video.php:39
+#, fuzzy
+#| msgid "Add Province"
+msgid "Add Video"
+msgstr "เพิ่ม"
+
+#: inc/class/class-video.php:38
+#, fuzzy
+#| msgid "Edit Clients"
+msgid "Edit Video"
+msgstr "แก้ไขลูกค้า"
+
+#: inc/class/class-video.php:40
+#, fuzzy
+#| msgid "View Clients"
+msgid "View Video"
+msgstr "ดู"
+
+#: inc/class/class-video.php:41
+#, fuzzy
+#| msgid "Search News"
+msgid "Search Video"
+msgstr "ค้นหาข่าว"
+
+#: inc/class/class-video.php:42 inc/class/class-video.php:43
+#, fuzzy
+#| msgid "No Food found."
+msgid "No Video found."
+msgstr "ไม่พบเมนู "
+
+#: inc/class/class-video.php:73
+msgid "Video Options"
+msgstr ""
+
+#: inc/class/class-video.php:87
+msgid "Video URL"
+msgstr ""
+
+#: inc/class/form/class-post-property.php:38 inc/class/form/class-post-property.php:39
+#: shinyu_old/inc/class/form/class-post-property.php:38
+#: shinyu_old/inc/class/form/class-post-property.php:39
+msgid "Post Property"
+msgstr ""
+
+#: inc/class/form/class-post-property.php:40
+#: shinyu_old/inc/class/form/class-post-property.php:40
+#, fuzzy
+#| msgid "All Project"
+msgid "All Post"
+msgstr "โครงการทั้งหมด"
+
+#: inc/class/form/class-post-property.php:41
+#: shinyu_old/inc/class/form/class-post-property.php:41
+msgid "Post"
+msgstr ""
+
+#: inc/class/form/class-post-property.php:42 inc/class/form/class-post-property.php:43
+#: inc/class/form/class-post-property.php:45
+#: shinyu_old/inc/class/form/class-post-property.php:42
+#: shinyu_old/inc/class/form/class-post-property.php:43
+#: shinyu_old/inc/class/form/class-post-property.php:45
+#, fuzzy
+#| msgid "Add Project"
+msgid "Add Post"
+msgstr "เพิ่มโครงการ"
+
+#: inc/class/form/class-post-property.php:44
+#: shinyu_old/inc/class/form/class-post-property.php:44
+#, fuzzy
+#| msgid "Edit Province"
+msgid "Edit Post"
+msgstr "แก้ไข"
+
+#: inc/class/form/class-post-property.php:46
+#: shinyu_old/inc/class/form/class-post-property.php:46
+#, fuzzy
+#| msgid "View Project"
+msgid "View Post"
+msgstr "ดูโครงการ"
+
+#: inc/class/form/class-post-property.php:47
+#: shinyu_old/inc/class/form/class-post-property.php:47
+#, fuzzy
+#| msgid "Search Project"
+msgid "Search Post"
+msgstr "ค้นหาโครงการ"
+
+#: inc/class/form/class-post-property.php:48 inc/class/form/class-post-property.php:49
+#: shinyu_old/inc/class/form/class-post-property.php:48
+#: shinyu_old/inc/class/form/class-post-property.php:49
+#, fuzzy
+#| msgid "No Project found."
+msgid "No Post found."
+msgstr "ไม่พบโครงการ"
+
+#: inc/class/form/class-post-property.php:134
+#: shinyu_old/inc/class/form/class-post-property.php:134
+msgid "Property For"
+msgstr ""
+
+#: inc/class/form/class-post-property.php:135
+#: shinyu_old/inc/class/form/class-post-property.php:135
+msgid "Property Type"
+msgstr ""
+
+#: inc/class/form/class-post-property.php:136
+#: shinyu_old/inc/class/form/class-post-property.php:136
+msgid "Property Size"
+msgstr ""
+
+#: inc/class/form/class-post-property.php:137
+#: shinyu_old/inc/class/form/class-post-property.php:137
+msgid "Sell price"
+msgstr ""
+
+#: inc/class/form/class-post-property.php:138
+#: shinyu_old/inc/class/form/class-post-property.php:138
+msgid "Rental price"
+msgstr ""
+
+#: inc/class/form/class-post-property.php:139
+#: shinyu_old/inc/class/form/class-post-property.php:139
+msgid "Additional Details"
+msgstr ""
+
+#: inc/class/form/class-post-property.php:140
+#: shinyu_old/inc/class/form/class-post-property.php:140
+msgid "Images"
+msgstr ""
+
+#: inc/lib/class-ds-wp-breadcrumb.php:80
+msgid "Home"
+msgstr "หน้าแรก"
+
+#: inc/lib/polylang-slug.php:42
+msgid "Polylang Slug requires at the minimum Polylang v1.7 and WordPress 4.0"
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:66 shinyu_old/inc/api/api-form.php:176
+#: shinyu_old/inc/api/api-form.php:281 shinyu_old/inc/api/api-form.php:387
+#: shinyu_old/inc/api/api-form.php:528 shinyu_old/inc/api/api-job.php:72
+#: shinyu_old/inc/api/api-project-landing-page.php:67
+#: shinyu_old/inc/api/api-promotion.php:85 shinyu_old/inc/api/form/api-form.php:136
+#: shinyu_old/inc/api/form/api-form.php:241
+#: shinyu_old/inc/api/form/api-post-property.php:95
+#: shinyu_old/inc/api/form/api-request-view.php:58
+#: shinyu_old/inc/api/form/api-your-need.php:93
+msgid "Firstname is required."
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:71 shinyu_old/inc/api/api-job.php:77
+#: shinyu_old/inc/api/api-project-landing-page.php:72
+#: shinyu_old/inc/api/api-promotion.php:90
+msgid "Lastname is required."
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:76 shinyu_old/inc/api/api-form.php:181
+#: shinyu_old/inc/api/api-form.php:291 shinyu_old/inc/api/api-form.php:397
+#: shinyu_old/inc/api/api-form.php:538 shinyu_old/inc/api/api-job.php:82
+#: shinyu_old/inc/api/api-project-landing-page.php:77
+#: shinyu_old/inc/api/api-promotion.php:95 shinyu_old/inc/api/form/api-form.php:141
+#: shinyu_old/inc/api/form/api-form.php:251
+#: shinyu_old/inc/api/form/api-post-property.php:100
+#: shinyu_old/inc/api/form/api-request-view.php:68
+#: shinyu_old/inc/api/form/api-your-need.php:103
+msgid "Phone number is required."
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:81 shinyu_old/inc/api/api-form.php:186
+#: shinyu_old/inc/api/api-form.php:296 shinyu_old/inc/api/api-form.php:402
+#: shinyu_old/inc/api/api-form.php:543 shinyu_old/inc/api/api-job.php:87
+#: shinyu_old/inc/api/api-project-landing-page.php:82
+#: shinyu_old/inc/api/api-promotion.php:100 shinyu_old/inc/api/api-subscribe.php:50
+#: shinyu_old/inc/api/form/api-form.php:146 shinyu_old/inc/api/form/api-form.php:256
+#: shinyu_old/inc/api/form/api-post-property.php:105
+#: shinyu_old/inc/api/form/api-request-view.php:73
+#: shinyu_old/inc/api/form/api-your-need.php:108
+msgid "Email is required."
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:193
+msgid "Keeping in touch"
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:194
+msgid ""
+"we went to make sure you’re kept up to date with the latest news from Urban splash "
+"and our partners. For maore information, including how we use your personal detail, "
+"please see our Privacy Policy."
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:197
+msgid "Firstname"
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:198
+msgid "Lastname"
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:200
+msgid "Phone number"
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:203
+msgid "I would like to recive update from Shinyu"
+msgstr ""
+
+#: shinyu_old/inc/api/api-contact-us.php:204
+msgid "By clicking download, you agree with Privacy Policy and Term & Condition"
+msgstr ""
+
+#: shinyu_old/inc/api/api-form.php:191 shinyu_old/inc/api/form/api-form.php:151
+msgid "Company is required."
+msgstr ""
+
+#: shinyu_old/inc/api/api-home.php:318
+msgid "Hot deal"
+msgstr ""
+
+#: shinyu_old/inc/api/api-home.php:319
+msgid "For"
+msgstr ""
+
+#: shinyu_old/inc/api/api-home.php:323
+#, fuzzy
+#| msgid "Customer"
+msgid "Customer voices"
+msgstr "ลูกค้า"
+
+#: shinyu_old/inc/api/api-home.php:328
+msgid "Insights"
+msgstr ""
+
+#: shinyu_old/inc/api/api-home.php:329
+#, fuzzy
+#| msgid "Add News"
+msgid "And News"
+msgstr "เพิ่มข่าว"
+
+#: shinyu_old/inc/api/api-home.php:333
+msgid "Market"
+msgstr ""
+
+#: shinyu_old/inc/api/api-home.php:334
+msgid "statistics"
+msgstr ""
+
+#: shinyu_old/inc/api/api-job.php:200 shinyu_old/inc/api/api-job.php:214
+msgid "Join US"
+msgstr ""
+
+#: shinyu_old/inc/api/api-news.php:92 shinyu_old/inc/api/api-news.php:106
+#: shinyu_old/inc/api/api-news.php:197 shinyu_old/inc/class/class-news.php:46
+#: shinyu_old/inc/class/class-news.php:73
+msgid "News"
+msgstr "ข่าวสาร&โปรโมชั่น"
+
+#: shinyu_old/inc/api/api-project.php:75 shinyu_old/inc/api/api-project.php:162
+#, fuzzy
+#| msgid "Project concept"
+msgid "Project Development"
+msgstr "แนวคิดโครงการ"
+
+#: shinyu_old/inc/api/api-project.php:150
+#, fuzzy
+#| msgid "All Dealer"
+msgid "All Development"
+msgstr "ทั้งหมด"
+
+#: shinyu_old/inc/api/api-project.php:391 shinyu_old/inc/api/api-room.php:438
+msgid "Asking price change from last year"
+msgstr ""
+
+#: shinyu_old/inc/api/api-project.php:395 shinyu_old/inc/api/api-room.php:442
+msgid "Average rental price per sq.m."
+msgstr ""
+
+#: shinyu_old/inc/api/api-room.php:83
+msgid "SELL / RENT"
+msgstr ""
+
+#: shinyu_old/inc/api/api-subscribe.php:57
+msgid "อีเมลนี้รับสมัครข่าวสารแล้ว"
+msgstr ""
+
+#: shinyu_old/inc/class/class-home.php:54
+#, fuzzy
+#| msgid "Add Dealer"
+msgid "Add banner"
+msgstr "เพิ่ม"
+
+#: shinyu_old/inc/class/class-home.php:75
+msgid "Menu"
+msgstr "ครัวดั๊กคิง"
+
+#: shinyu_old/inc/class/class-home.php:90
+#, fuzzy
+#| msgid "Add News"
+msgid "Add menu"
+msgstr "เพิ่มข่าว"
+
+#: shinyu_old/inc/class/class-home.php:169
+msgid "Sub Title"
+msgstr ""
+
+#: shinyu_old/inc/class/class-news.php:48
+msgid "News Archives"
+msgstr ""
+
+#: shinyu_old/inc/class/class-news.php:49
+msgid "News Attributes"
+msgstr ""
+
+#: shinyu_old/inc/class/class-news.php:51
+msgid "All News"
+msgstr "ข่าวสารทั้งหมด"
+
+#: shinyu_old/inc/class/class-project.php:57 shinyu_old/inc/class/class-project.php:58
+msgid "No Project found."
+msgstr "ไม่พบโครงการ"
+
+#: shinyu_old/inc/class/class-project.php:67
+#, fuzzy
+#| msgid "Project Highlights"
+msgid "Projects list"
+msgstr "จุดเด่นโครงการ"
+
+#: shinyu_old/inc/class/class-project.php:68
+#, fuzzy
+#| msgid "No Project found."
+msgid "Projects list navigation"
+msgstr "ไม่พบโครงการ"
+
+#: shinyu_old/inc/class/class-room.php:52
+#, fuzzy
+#| msgid "All Food"
+msgid "All Rooms"
+msgstr "เมนูอาหารทั้งหมด"
+
+#: shinyu_old/inc/class/class-room.php:55 shinyu_old/inc/class/class-room.php:57
+#, fuzzy
+#| msgid "Add Food"
+msgid "Add Room"
+msgstr "เพิ่มเมนูอาหาร"
+
+#: shinyu_old/inc/class/class-room.php:56
+#, fuzzy
+#| msgid "Edit Food"
+msgid "Edit Room"
+msgstr "แก้ไข"
+
+#: shinyu_old/inc/class/class-room.php:58 shinyu_old/inc/class/class-room.php:63
+#, fuzzy
+#| msgid "View Food"
+msgid "View Room"
+msgstr "ดู"
+
+#: shinyu_old/inc/class/class-room.php:59
+#, fuzzy
+#| msgid "Search Food"
+msgid "Search Room"
+msgstr "ค้นหาเมนู"
+
+#: shinyu_old/inc/class/class-room.php:60 shinyu_old/inc/class/class-room.php:61
+#, fuzzy
+#| msgid "No Food found."
+msgid "No Room found."
+msgstr "ไม่พบเมนู "
+
+#: shinyu_old/inc/class/class-room.php:70
+msgid "Room list"
+msgstr ""
+
+#: shinyu_old/inc/class/class-room.php:71
+msgid "Room list navigation"
+msgstr ""
+
+#: shinyu_old/inc/class/class-service.php:72
+msgid "Buy/Sell/Rent"
+msgstr ""
+
+#: shinyu_old/inc/class/class-service.php:80
+msgid "Buy"
+msgstr ""
+
+#: shinyu_old/inc/class/class-service.php:89
+msgid "Sell"
+msgstr ""
+
+#: shinyu_old/inc/class/class-service.php:98
+msgid "Rent"
+msgstr ""
+
+#: shinyu_old/inc/class/class-service.php:131
+msgid "Investment"
+msgstr ""
+
+#: shinyu_old/inc/class/class-service.php:148
+msgid "Interior Design"
+msgstr ""
+
+#: shinyu_old/inc/class/class-service.php:165
+msgid "Image 1"
+msgstr ""
+
+#: shinyu_old/inc/class/class-service.php:177
+msgid "Image 2"
+msgstr ""
+
+#: shinyu_old/inc/class/class-service.php:189
+msgid "Management"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Add News"
+#~ msgid "Add News"
+#~ msgstr "เพิ่มข่าว"
+
+#, fuzzy
+#~| msgid "Edit News"
+#~ msgid "Edit News"
+#~ msgstr "แก้ไขข่าว"
+
+#~ msgid "View News"
+#~ msgstr "ดูข่าว"
+
+#~ msgid "Search News"
+#~ msgstr "ค้นหาข่าว"
+
+#~ msgid "CSR"
+#~ msgstr "ความรับผิดชอบต่อสังคม"
+
+#~ msgid "All CSR"
+#~ msgstr "ทั้งหมด"
+
+#~ msgid "Add CSR"
+#~ msgstr "เพิ่ม"
+
+#~ msgid "Edit CSR"
+#~ msgstr "แก้ไข"
+
+#~ msgid "Search CSR"
+#~ msgstr "ค้นหา"
+
+#, fuzzy
+#~| msgid "Category"
+#~ msgid "Faq Category"
+#~ msgstr "หมวดหมู่"
+
+#~ msgid "โครงการแนะนำ"
+#~ msgstr "Recommend project"
+
+#, fuzzy, php-format
+#~| msgid "Answer to your %s  every need %s"
+#~ msgid "Answer to your %s every need %s"
+#~ msgstr "คำตอบของทุกความต้องการ %s ของคุณ%s"
+
+#~ msgid "Learn More"
+#~ msgstr "ดูรายละเอียดเพิ่มเติม"
+
+#, php-format
+#~ msgid "Gold mine %s of investment %s"
+#~ msgstr "ทำเลทอง %s ของการลงทุน %s"
+
+#~ msgid "Trusting customers"
+#~ msgstr "ลูกค้าที่ไว้วางใจ"
+
+#~ msgid "Reasons to choose us"
+#~ msgstr "เหตุผลที่ควรเลือกเรา"
+
+#~ msgid "Map"
+#~ msgstr "แผนที่"
+
+#~ msgid "Visit the project"
+#~ msgstr "เยี่ยมชมโครงการ"
+
+#~ msgid "Clients"
+#~ msgstr "ลูกค้าของเรา"
+
+#~ msgid "No Clients found."
+#~ msgstr "ไม่พบลูกค้า"
+
+#~ msgid "Company"
+#~ msgstr "บริษัท"
+
+#~ msgid "Dealers"
+#~ msgstr "ตัวแทนจำหน่าย"
+
+#~ msgid "Dealer"
+#~ msgstr "ตัวแทนจำหน่าย & ศูนย์บริการ"
+
+#~ msgid "Province"
+#~ msgstr "จังหวัด"
+
+#~ msgid "All Province"
+#~ msgstr "จังหวัดทั้งหมด"
+
+#~ msgid "Add Province"
+#~ msgstr "เพิ่ม"
+
+#~ msgid "Region"
+#~ msgstr "ภูมิภาค"
+
+#~ msgid "Central"
+#~ msgstr "ภาคกลาง"
+
+#~ msgid "Northern"
+#~ msgstr "ภาคเหนือ"
+
+#~ msgid "Northeastern"
+#~ msgstr "ภาคตะวันออกเฉียงเหนือ"
+
+#~ msgid "Eastern"
+#~ msgstr "ภาคตะวันออก"
+
+#~ msgid "Southern"
+#~ msgstr "ภาคใต้"
+
+#, fuzzy
+#~| msgid "No Souvenir found."
+#~ msgid "No province found"
+#~ msgstr "ไม่พบของฝาก"
+
+#, fuzzy
+#~| msgid "Address"
+#~ msgid "Add"
+#~ msgstr "ที่อยู่"
+
+#~ msgid "Warehouse"
+#~ msgstr "เช่าโรงงาน"
+
+#~ msgid "All Warehouse"
+#~ msgstr "โกดังทั้งหมด"
+
+#~ msgid "Add Warehouse"
+#~ msgstr "เพิ่มโกดัง"
+
+#~ msgid "View Warehouse"
+#~ msgstr "ดูโกดัง"
+
+#~ msgid "Search Warehouse"
+#~ msgstr "ค้นหาโกดัง"
+
+#~ msgid "No Warehouse found."
+#~ msgstr "ไม่พบโกดัง"
+
+#, fuzzy
+#~| msgid "Category"
+#~ msgid "Add materials"
+#~ msgstr "หมวดหมู่"
+
+#, php-format
+#~ msgid "Showing all %d results"
+#~ msgstr "แสดงทั้งหมด %d ชิ้น"
+
+#, php-format
+#~ msgid "Showing %1$d&ndash;%2$d of %3$d results"
+#~ msgstr "แสดง %1$d&ndash;%2$d จาก %3$d ชิ้น"
+
+#~ msgid "ALL PRODUCTS"
+#~ msgstr "สินค้าทั้งหมด"
+
+#~ msgid "MIMO Apply coupon"
+#~ msgstr "ใช้คูปอง"
+
+#~ msgid "MIMO Update cart"
+#~ msgstr "อัพเดทตะกร้าสินค้า"
+
+#~ msgid "MIMO Cart totals"
+#~ msgstr "สรุปการสั่งซื้อ"
+
+#~ msgid "MIMO Checkout"
+#~ msgstr "ชำระเงิน"
+
+#~ msgid "MIMO Cart updated."
+#~ msgstr "อัพเดทรายการในตะกร้าแล้ว"
+
+#~ msgid "MIMO View cart"
+#~ msgstr "ดูตะกร้าสินค้า"
+
+#, php-format
+#~ msgid ""
+#~ "Plan %s There are plenty of factory, warehouse design to choose from that are all "
+#~ "modern and suitable for use.%s"
+#~ msgstr "แบบแปลน %s  มีแบบโรงงาน โกดังให้คุณเลือกมากมาย รูปแบบทันสมัยเหมาะสมกับการใช้งาน  %s"
+
+#, php-format
+#~ msgid "Good Feng Shui, Well designed, Durable %s Answer to your every need %s"
+#~ msgstr "ฮวงจุ้ยดี มีดีไซน์ ใช้งานทนทาน %s ตอบทุกความต้องการของคุณ%s"
+
+#~ msgid "Ready made Factory, Warehouse construction contract"
+#~ msgstr "รับสร้าง โรงงาน โกดังสำเร็จรูป"
+
+#~ msgid "Factory plan"
+#~ msgstr "แบบโรงงาน"
+
+#~ msgid ""
+#~ "There are plenty of factory, warehouse design to choose from that are all modern "
+#~ "and suitable for use."
+#~ msgstr "มีแบบโรงงาน โกดังให้คุณเลือกมากมาย รูปแบบทันสมัย เหมาะสมกับการใช้งาน"
+
+#~ msgid "Product"
+#~ msgstr "ผลิตภัณฑ์"
+
+#~ msgid "Food"
+#~ msgstr "เมนูอาหาร"
+
+#~ msgid "Success"
+#~ msgstr "สำเร็จ"
+
+#~ msgid "Cancel"
+#~ msgstr "ยกเลิก"
+
+#~ msgid "Tel"
+#~ msgstr "เบอร์โทรศัพท์"
+
+#~ msgid "Visiting date"
+#~ msgstr "วันที่เข้าชม"
+
+#~ msgid "Ticket list"
+#~ msgstr "บัตรเข้าชม"
+
+#~ msgid "Ticket"
+#~ msgstr "บัตรเข้าชม"
+
+#~ msgid "Quantity"
+#~ msgstr "จำนวน"
+
+#~ msgid "Telephone"
+#~ msgstr "เบอร์โทรศัพท์"
+
+#~ msgid "Souvenir"
+#~ msgstr "ของฝาก"
+
+#~ msgid "All Souvenir"
+#~ msgstr "ของฝากทั้งหมด"
+
+#~ msgid "Add Souvenir"
+#~ msgstr "เพิ่มของฝาก"
+
+#~ msgid "Edit Souvenir"
+#~ msgstr "แก้ไขของฝาก"
+
+#~ msgid "View Souvenir"
+#~ msgstr "ดูของฝาก"
+
+#~ msgid "Museum's Map"
+#~ msgstr "แผนที่สวนโอ่ง"
+
+#~ msgid "Prev news"
+#~ msgstr "ข่าวก่อนหน้า"
+
+#~ msgid "Next news"
+#~ msgstr "ข่าวถัดไป"
+
+#~ msgid "Prev"
+#~ msgstr "ก่อนหน้า"
+
+#~ msgid "Next"
+#~ msgstr "ถัดไป"
+
+#~ msgid "Date of visit"
+#~ msgstr "วันที่เข้าชม"
+
+#~ msgid "Products"
+#~ msgstr "ผลิตภัณฑ์"
+
+#~ msgid "Duckking News"
+#~ msgstr "ข่าวสาร & กิจกรรม"
+
+#~ msgid "Vision"
+#~ msgstr "วิสัยทัศน์"
+
+#~ msgid "Mission"
+#~ msgstr "พันธกิจ"
+
+#~ msgid "Core Value"
+#~ msgstr "ค่านิยมองค์กร"
+
+#~ msgid "More Menu"
+#~ msgstr "เมนูอาหารอื่นๆ"
+
+#~ msgid "More News"
+#~ msgstr "ข่าวสาร & กิจกรรมอื่นๆ"
+
+#~ msgid "Our sister companies"
+#~ msgstr "บริษัทในเครือ"
+
+#~ msgid "More food"
+#~ msgstr "เมนูอาหารอื่นๆ"
+
+#~ msgid "Values"
+#~ msgstr "ค่านิยมองค์กร"

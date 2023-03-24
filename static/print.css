@@ -1,0 +1,44 @@
+.compare hr {
+  background: #b8b8b9;
+}
+.compare .add-unit {
+  display: block;
+  float: right;
+}
+.compare .add-unit svg {
+  width: 40px;
+  height: 40px;
+  display: block;
+  margin: 0 auto 16px;
+  fill: #000;
+}
+.compare-facility {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.compare-facility li {
+  position: relative;
+  padding: 0 0 0 2rem;
+}
+.compare-facility li svg {
+  position: absolute;
+  top: 0.25rem;
+  left: 0;
+  width: 0.875rem;
+  height: 0.875rem;
+  fill: #6fc042;
+}
+
+.button  {
+  display: none;
+}
+
+.column {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+hr {
+  margin: 0;
+}

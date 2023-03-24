@@ -1,0 +1,90 @@
+.tax-news_cat,
+.post-type-archive-news  {
+  background: #f5f6f8;
+
+  .main-content {
+    padding-bottom: 6rem;
+  }
+
+  .navigation {
+    margin-bottom: 3rem;
+  }
+
+  .pagination {
+    padding-top: 2rem;
+  }
+}
+
+.news {
+  &-cat {
+    padding: 3rem 0 0;
+    margin: 0;
+    list-style: none;
+
+    &-item {
+      display: inline-block;
+
+      a {
+        position: relative;
+        color: $primary;
+        font-size: 0.875rem;
+        display: block;
+        padding: 5px 12px;
+        background: #fff;
+        margin: 0 10px 0 0;
+        transition: 0.2s;
+
+        &:hover {
+          box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.1);
+        }
+      }
+
+      &.is-active {
+        a {
+          color: #fff;
+          background: $primary;
+        }
+      }
+    }
+  }
+}
+
+.single-news {
+  background: #f5f6f8;
+  
+  .main-content {
+    .container:not(.related-news) {
+      max-width: 940px;
+      padding: 4px;
+      background: #fff;
+    }
+  }
+
+  &-content {
+    padding: 2rem 3rem;
+  }
+
+  &-image {
+    img {
+      width: 100% !important;
+    }
+  }
+
+  .social-share {
+    border-top: solid 1px #f7f7f7;
+    padding-bottom: 0;
+    margin-top: 2rem;
+  }
+}
+
+.related-news {
+  padding-top: 6rem;
+
+  &-title {
+    font-size: 1.875rem;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 3rem;
+    color: $primary;
+  }
+}

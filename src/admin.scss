@@ -1,0 +1,98 @@
+#icl_document_language_dropdown,
+#icl_translate_options p,
+.otgs-ico-help,
+#icl_div label,
+#icl_div strong,
+#icl_div br,
+#icl_set_duplicate,
+#icl_translation_of,
+#translation_of_wrap {
+  display: none !important;
+}
+
+body .otgs-ico-wpml:before {
+  font-family: dashicons !important;
+  content: "\f326";
+  margin-right: 2px;
+}
+
+#icl_translations_table,
+#icl_untranslated_table {
+  border: none;
+  margin-bottom: 0 !important;
+}
+
+.hide-if-value {
+  p {
+    text-indent: -9999px;
+
+    a[data-name="add"] {
+      display: block;
+      float: left;
+      text-indent: 0;
+    }
+  }
+}
+
+
+
+.column-payment_thumbnail,
+.column-mimo_thumbnail{
+  position: relative;
+  width: 52px;
+  white-space: nowrap;
+  text-align: center !important;
+}
+td.column-payment_thumbnail img,
+td.column-mimo_thumbnail img {
+  margin: 0;
+  width: auto;
+  height: auto;
+  max-width: 40px;
+  max-height: 40px;
+  vertical-align: middle;
+  border: 1px solid #e5e5e5;
+  border: 1px solid rgba(0,0,0,.07);
+}
+@media only screen and (max-width: 782px){
+  td.column-payment_thumbnail img,
+  td.column-mimo_thumbnail img {
+    min-width: 32px;
+  }
+  .column-mimo_thumbnail{
+    display: none;
+  }
+  .post-type-recipe .wp-list-table .column-mimo_thumbnail,
+  .post-type-post .wp-list-table .column-mimo_thumbnail{
+    text-align: left !important;
+    padding-bottom: 0;
+  }
+  .post-type-recipe .wp-list-table .toggle-row,
+  .post-type-post .wp-list-table .toggle-row{
+    top: -28px;
+  }
+  .post-type-recipe .wp-list-table .is-expanded td:not(.hidden),
+  .post-type-post .wp-list-table .is-expanded td:not(.hidden){
+    overflow: visible;
+  }
+}
+
+.column-payment_thumbnail span,
+.column-mimo_thumbnail span{
+  position: absolute;
+  top: 10px;
+  left: 0;
+  right: 0;
+  font-size: 16px;
+}
+.column-payment_thumbnai span:before,
+.column-mimo_thumbnail span:before{
+  font-family: Dashicons;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  text-indent: 0;
+}

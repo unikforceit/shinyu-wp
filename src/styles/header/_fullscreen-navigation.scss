@@ -1,0 +1,170 @@
+.fullscreen-navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding-top: 10rem;
+  color: #fff;
+  z-index: 998;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.2s;
+  background-size: cover;
+  background-position: top center;
+
+  @media screen and (max-width: 991px) {
+    padding-top: 5rem;
+    overflow-y: auto;
+
+    .is-desktop {
+      display: none;
+    }
+  }
+
+
+  @media screen and (min-width: 1601px) {
+    .columns-2 {
+      padding-top: 3rem;
+    }
+  }
+  .open-menu & {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  a {
+    position: relative;
+    font-weight: 300;
+    color: #fff;
+    display: inline-block;
+  }
+
+  h3 {
+    font-size: 1.625rem;
+    font-weight: 600;
+    margin: 0 0 1.75rem;
+
+    a {
+      font-weight: 600;
+    }
+  }
+
+  ul {
+    li {
+      margin-bottom: 0.5rem;
+
+      @media screen and (max-width: 991px) {
+        border-bottom: solid 1px #366c9b;
+        margin: 0;
+      }    
+
+      a {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: block;
+
+        @media screen and (max-width: 991px) {
+          padding: 0.875rem 0 !important;
+        }
+      }
+    }
+
+    &.our-services {
+      li {
+        &:nth-child(1),
+        &:nth-child(2) {
+          a::after {
+            display: inline-block;
+            padding-left: 0.75rem;
+            content: '/';
+          }
+        }
+
+        &:nth-child(1),
+        &:nth-child(2),
+        &:nth-child(3) {
+          display: inline-block;
+
+          a {
+            padding-right: 0.25rem;
+
+            &:hover {
+              &::before {
+                width: 30px;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    &:not(.no-effect) {
+      a {
+        padding-bottom: 0.25rem;
+
+        &::before {
+          position: absolute;
+          width: 0;
+          height: 0.125rem;
+          bottom: 0;
+          left: 0;
+          background: $danger;
+          content: '';
+          transition: width 0.2s;
+        }
+    
+        &:hover {
+          &::before {
+            width: 40px;
+          }
+        }
+      }
+    }
+  }
+
+  .social {
+    padding-top: 4.5rem;
+
+    li a svg {
+      fill: #fff;
+    }
+  }
+  
+
+  &-footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    font-weight: 400;
+    font-size: 0.875rem;
+    white-space: nowrap;
+    padding: 0 0 1.25rem;
+
+    ul {
+      padding: 0 0 0 2rem;
+      margin: 0;
+
+      li {
+        display: inline-block;
+        margin: 0;
+
+        a {
+          font-size: 0.875rem;
+          padding: 0 10px;
+        }
+      }
+    }
+
+    a {
+      color: #fff;
+      display: block;
+
+      &:hover {
+        color: $danger;
+      }
+    }
+  }
+}

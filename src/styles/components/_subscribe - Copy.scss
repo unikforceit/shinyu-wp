@@ -1,0 +1,120 @@
+.subscribe {
+  position: relative;
+  padding: 0;
+  background: #e30c4e;
+  z-index: 1;
+
+  .column {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .field {
+    position: relative;
+    z-index: 5;
+  }
+
+  input {
+    width: 90%;
+    height: 3rem;
+    color: #fff;
+    border: none;
+    background: transparent;
+    box-shadow: none !important;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 0 1rem !important;
+
+    @media screen and (max-width: 575px) {
+      font-size: 14px !important;
+      padding: 0 !important;
+    }
+  }
+
+  .help {
+    display: none;
+  }
+
+  .button {
+    height: auto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1;
+    border-radius: 2px;
+    margin-left: 3.5rem;
+    padding: 10px 20px;
+
+    @media screen and (max-width: 575px) {
+      font-size: 14px;
+    }
+
+    &.is-loading::after {
+      border-color: transparent transparent $danger $danger !important;
+    }
+  }
+
+  a {
+    color: #fff;
+    line-height: 1;
+    font-size: 36px;
+    margin-right: -2rem;
+
+    svg {
+      width: 35px;
+      height: 35px;
+      display: inline-block;
+      margin-right: 2.5rem;
+
+      #phone-003---Call {
+        fill: #fff;
+      }
+    }
+  }
+
+  .column-input {
+    position: relative;
+    overflow: hidden;
+
+    &:before {
+      position: absolute;
+      width: 50px;
+      height: 50px;
+      top: 0;
+      right: 0;
+      box-shadow: 0 0 40px 40px #e30c4e;
+      content: '';
+      margin: -50px 0 0 -50px;
+      z-index: 2;
+
+      @media screen and (max-width: 575px) {
+        display: none;
+      }
+    }
+    
+    &:after {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 100%;
+      width: 100px;
+      box-shadow: 0 0 100px 50px rgba(0, 0, 0, 0.35);
+      content: '';
+
+      @media screen and (max-width: 575px) {
+        display: none;
+      }
+    }
+  }
+
+  ::placeholder {
+    color: #fff;
+    opacity: 1;
+  }
+  
+  :-ms-input-placeholder {
+    color: #fff;
+  }
+  
+  ::-ms-input-placeholder {
+    color: #fff;
+  }
+}

@@ -1,0 +1,41 @@
+.partner {
+  padding: 6rem 0;
+  // background: #f9f9f9;
+
+  .section {
+    &-title {
+      color: $primary;
+      font-weight: 500;
+      font-size: 46px;
+    }
+
+    &-description {
+      font-size: 20px;
+      color: $dark;
+      margin-bottom: 5rem;
+    }
+  }
+
+  &-item {
+    text-align: center;
+  }
+
+  img {
+    width: 150px;
+    display: inline-block;
+  }
+
+  .swiper-pagination {
+    position: relative;
+    bottom: auto;
+    padding-top: 5rem;
+
+    &-bullet {
+      background: $primary;
+
+      &-active {
+        background: #e10c4d;
+      }
+    }
+  }
+}

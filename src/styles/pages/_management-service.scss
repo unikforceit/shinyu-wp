@@ -1,0 +1,232 @@
+.management-service {
+
+}
+
+.management-plan {
+  color: #242424;
+
+  p {
+    font-size: 16px;
+    margin-bottom: 16px;
+
+    strong {
+      color: $primary;
+    }
+  }
+
+  ol {
+    font-size: 16px;
+    margin-bottom: 16px;
+
+    strong {
+      color: $primary;
+    }
+  }
+
+  &-table {
+    text-align: center;
+    width: 100%;
+    line-height: 1;
+    margin-bottom: 4rem;
+    color: #242424;
+
+    svg {
+      width: 18px;
+      height: 14px;
+      fill: #5bc774;
+    }
+
+    .button {
+      font-weight: 500;
+    }
+
+    th {
+      font-weight: 600;
+
+      &.feature {
+        width: 30%;
+        font-size: 1.375rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        vertical-align: middle;
+        border: solid 1px #ededed;
+      }
+  
+      &.subscribtion,
+      &.unsubscribtion {
+        width: 35%;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+        font-size: 18px;
+        text-transform: uppercase;
+        color: #fff;
+      }
+  
+      &.unsubscribtion {
+        background: #04335e;
+      }
+  
+      &.subscribtion {
+        background: #28659b;
+      }
+    }
+
+    td {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      vertical-align: middle;
+
+      &.has-text-left {
+        padding-left: 16px;
+      }
+
+      &:not(.has-text-left) {
+        font-size: 14px;
+      }
+
+      &.popular {
+        position: relative;
+        width: 130px;
+        color: #fff;
+        box-shadow: -10px 15px 17px rgba(0, 0, 0, 0.16);
+
+        // &::after {
+        //   position: absolute;
+        //   top: 0;
+        //   bottom: 0;
+        //   left: 0;
+        //   right: 0;
+        //   width: 1px;
+        //   content: '';
+        //   opacity: 0.3;
+        //   box-shadow: -10px 5px 12px rgba(0, 0, 0, 0.5);
+        // }
+
+        svg {
+          fill: #fff;
+        }
+      }
+
+      .price {
+        font-size: 24px;
+
+        small {
+          font-weight: 400;
+          font-size: 12px;
+        }
+
+        .woocommerce-Price-currencySymbol {
+          display: none;
+        }
+      }
+
+      strong:not(.price) {
+        padding-top: 4px;
+        font-size: 12px;
+        font-weight: 600;
+      }
+    }
+
+    tr {
+      &.head {
+        line-height: 1.2;
+
+        td {
+          vertical-align: top;
+        }
+
+        td.popular {
+          background: #db2441;
+        }
+
+        &:not(.month) {
+          td.popular {
+            background: #db415a;
+            // border-top: solid 1px #fff;
+            // border-bottom: solid 1px #fff;
+          }
+        }
+      }
+
+      &.month {
+        td {
+          color: #fff;
+          background: #0c467a;
+
+          &:nth-child(2) {
+            background: #175389;
+          }
+
+          &:nth-child(3) {
+            background: #28659b;
+          }
+
+          &:nth-child(4) {
+            background: #04335e;
+          }
+
+          &:nth-child(5) {
+            background: #093862;
+          }
+        }
+      }
+  
+      &:not(.head) {
+        background: #fff;
+  
+        .has-text-left {
+          background: #eeeef0;
+        }
+  
+        .popular {
+          background: #db415a;
+        }
+      }
+  
+      &:not(.head):nth-child(even) {
+        background: #f9f9f9;
+  
+        .has-text-left {
+          background: #f5f6f8;
+        }
+  
+        .popular {
+          background: #db2441;
+        }
+      }
+
+      &:not(.head):last-child {
+        background: #f5f6f8;
+
+        .has-text-left {
+          background: #f5f6f8;
+        }
+      }
+    }
+  }
+}
+
+.management-deposit {
+  background: #fff;
+
+  table {
+    width: 100%;
+    text-align: center;
+    line-height: 1;
+    margin-bottom: 4rem;
+
+    th {
+      text-transform: uppercase;
+      font-weight: 700;
+      color: $primary;
+      font-size: 20px;
+    }
+
+    th,
+    td {
+      border: solid 1px #e8e8e8;
+      padding: 1rem;
+      vertical-align: middle;
+    }
+  }
+}

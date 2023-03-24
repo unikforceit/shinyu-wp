@@ -1,0 +1,83 @@
+.search-box {
+  position: relative;
+  padding: 2rem 0 0;
+  background-size: cover;
+  background-position: center center;
+  z-index: 3;
+
+  @media screen and (max-width: 991px) {
+    display: none;
+  }
+
+  &-item {
+    margin-top: 1rem;
+    padding: 2rem 0;
+    background: rgba(0, 0, 0, 0.05);
+  }
+
+  .container {
+    position: relative;
+    z-index: 2;
+  }
+
+  .control-label {
+    color: #fff;
+    font-size: 1.5rem;
+  }
+
+  .select {
+    max-width: 10rem;
+
+    select {
+      width: 160px;
+      font-weight: 500;
+      color: #0f4b81;
+      border: none;
+    }
+
+    option {
+      color: #414141;
+    }
+  }
+
+  input {
+    width: 100%;
+    font-weight: 500;
+    color: $primary;
+    border: none;
+  }
+
+  .button {
+    width: 100%;
+  }
+
+  .b-radio.radio {
+    &:hover {
+      color: #fff;
+    }
+
+    input[type=radio] {
+      + .check {
+        border-color: #fff !important;
+        background: #fff;
+
+        &:before {
+          background: $danger;
+        }
+      }
+    }
+  }
+
+  ::placeholder {
+    color: $primary;
+    opacity: 1;
+  }
+  
+  :-ms-input-placeholder {
+    color: $primary;
+  }
+  
+  ::-ms-input-placeholder {
+    color: $primary;
+  }
+}

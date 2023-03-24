@@ -1,0 +1,66 @@
+
+.post-property {
+  .main-content {
+    padding-bottom: 6rem;
+  }
+
+  @media screen and (max-width: 767px) {
+    .field-body .has-addons {
+      display: block !important;
+    }
+  }
+
+  form {
+    h3 {
+      font-size: 1.25rem;
+      font-weight: 600;
+    }
+
+    .label {
+      color: $dark;
+      white-space: nowrap;
+      font-weight: 600;
+    }
+
+    .field-facility  {
+      padding-bottom: 1rem;
+
+      label.checkbox {
+        font-size: 14px;
+      }
+    }
+  }
+
+  .field-group {
+    display: block;
+    margin-bottom: 1rem;
+  }
+
+  .has-addons .control.is-clearfix{
+    width: 100%;
+  }
+  
+  .upload  {
+    svg {
+      width: 50px;
+      height: 50px;
+      fill: #ddd;
+
+      &.is-loading {
+        opacity: 0;
+      }
+    }
+  }
+
+  .image-preview {
+    .column {
+      position: relative;
+    }
+
+    .delete {
+      position: absolute;
+      top: 1.5rem;
+      right: 0.5rem;
+    }
+  }
+}

@@ -1,0 +1,373 @@
+.project {
+  &-gallery {
+    position: relative;
+
+    .swiper-container {
+      overflow: visible !important;
+    }
+
+    .navigation {
+      position: absolute;
+      top: -60px;
+      left: 0;
+      right: 0;
+      z-index: 4 !important;
+      opacity: 0;
+      visibility: hidden;
+
+      &.is-sticky {
+        opacity: 1;
+        visibility: visible;
+      }
+
+
+      &-inner {
+        background: rgba(0, 0, 0, 0.45);
+      }
+
+      // &::after {
+      //   position: absolute;
+      //   height: 50px;
+      //   left: 0;
+      //   right: 0;
+      //   box-shadow: 0 0 25px 50px rgba(0, 0, 0, 0.5);
+      //   bottom: 100%;
+      //   content: '';
+      // }
+
+      // ul {
+      //   transform: none;
+
+      //   li {
+      //     a {
+      //       color: #eee;
+      //       padding-left: 0;
+      //       padding-right: 0;
+
+      //       &.active {
+      //         color: #fff;
+      //       }
+      //     }
+      //   }
+      // }
+
+      // &.is-sticky {
+      //   li {
+      //     a {
+      //       color: #414141;
+
+      //       &.active {
+      //         color: $danger;
+      //       }
+      //     }
+      //   }
+      // }
+    }
+
+    .swiper-slide {
+      width: auto;
+    }
+
+    &-control {
+      position: absolute;
+      bottom: 1rem;
+      right: 0.5rem;
+      z-index: 20;
+      color: #fff;
+      font-size: 18px;
+      font-weight: 700;
+
+      button {
+        position: relative;
+        width: 2.5rem;
+        height: 2.5rem;
+        border: none;
+        box-shadow: none !important;
+        outline: none !important;
+        margin: 0 0.25rem;
+        padding: 0;
+        border-radius: 100%;
+
+        &::after {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          border-bottom: solid 5px transparent;
+          border-top: solid 5px transparent;
+          margin-top: -5px;
+          content: "";
+        }
+
+        &.prev {
+          &::after {
+            border-right: solid 8px #0f4b81;
+            margin-left: -6px;
+          }
+        }
+
+        &.next {
+          &::after {
+            border-left: solid 8px #0f4b81;
+            margin-left: -4px;
+          }
+        }
+      }
+    }
+
+    &-pagination {
+      width: auto !important;
+      bottom: auto !important;
+      padding-right: 1rem;
+    }
+
+    &-item {
+      position: relative;
+      height: 32rem;
+      display: block;
+      // background: #000;
+      overflow: hidden;
+      cursor: zoom-in;
+
+      &::before,
+      &::after {
+        position: absolute;
+        content: '';
+        transition: opacity 0.2s, visibility 0.2s;
+      }
+
+      &::after {
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(0, 0, 0, 0.7);
+        z-index: 1;
+
+        .swiper-slide-active & {
+          opacity: 0;
+          visibility: hidden;
+        }
+      }
+
+      // &::before {
+      //   left: 100%;
+      //   top: 100%;
+      //   width: 100px;
+      //   height: 100px;
+      //   box-shadow: 0 0 150px 100px #000;
+      //   z-index: 10;
+      //   opacity: 0;
+      //   visibility: hidden;
+      //   transform: skewX(20deg);
+
+      //   .swiper-slide-active & {
+      //     opacity: 1;
+      //     visibility: visible;
+      //   }
+      // }
+  
+      img {
+        position: relative;
+        z-index: 1;
+        width: auto;
+        height: 100%;
+
+        // &.vertical {
+        //   height: 100%;
+        //   width: auto;
+        //   display: block;
+        //   margin: 0 auto;
+        // }
+
+        // &:not(.vertical) {
+        //   width: 100%;
+        //   height: 100%;
+        //   object-fit: cover;
+        // }
+      }
+
+      .container {
+        width: 1135px;
+      }
+
+      .background {
+        position: absolute;
+        top: -2rem;
+        bottom: -2rem;
+        left: -2rem;
+        right: -2rem;
+        filter: blur(10px);
+        z-index: 0;
+      }
+    }
+  }
+
+  &-herder {
+    height: 7.5rem;
+    color: #fff;
+    line-height: 1;
+    background: $primary;
+
+    h1 {
+      font-weight: 500;
+      font-size: 2.25rem;
+      margin: 0;
+    }
+  }
+
+  &-title-wrap {
+    max-width: 48rem;
+  }
+
+  &-single-price {
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+  
+    bdi {
+      padding: 0 2rem;
+      height: 100%;
+    }
+
+    small {
+      font-size: 1rem;
+    }
+
+    .rent {
+      background: #3476b2;
+    }
+
+    .sell {
+      background: $danger;
+    }
+
+    &.is-multiprice {
+      bdi {
+        height: 50%;
+      }
+    }
+  }
+  
+  &-no {
+    font-weight: 400;
+    font-size: 1.625rem;
+    display: block;
+    padding-top: 0.75rem;
+  }
+
+  &-body {
+    position: relative;
+  }
+
+  &-content {
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+    color: #262626;
+    padding-top: 3.75rem;
+
+    h3 {
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+    
+    p {
+      margin-bottom: 1rem;
+    }
+  }
+
+  &-detail {
+    font-size: 1.125rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+    &-item {
+      border-top: solid 2px #f2f2f2;
+      padding: 0.75rem 0;
+    }
+  }
+
+  &-facility {
+    padding: 4rem 0;
+    background: #f5f6f8;
+
+    h3 {
+      font-size: 1.875rem;
+      font-weight: 500;
+      margin-bottom: 2rem;
+    }
+
+    &-list {
+      overflow: hidden;
+    }
+
+    &-item {
+      position: relative;
+      color: #262626;
+      font-size: 1.125rem;
+      font-weight: 500;
+      display: block;
+      float: left;
+      width: 20%;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      padding: 0 1rem 1rem 2rem;
+
+      svg {
+        position: absolute;
+        top: 6px;
+        left: 0;
+        width: 14px;
+        height: 14px;
+        fill: #6fc042;
+      }
+    }
+  }
+
+  &-map {
+    padding: 3rem 0 5rem;
+
+    h3 {
+      font-size: 1.875rem;
+      font-weight: 500;
+      margin-bottom: 3rem;
+    }
+  }
+
+  &-google-map {
+    height: 540px;
+  }
+
+  &-google-pano {
+    height: 540px;
+  }
+  
+  &-recommended {
+    padding: 4rem 0;
+    background: #f5f6f8;
+
+    h3 {
+      font-size: 1.875rem;
+      font-weight: 500;
+      margin-bottom: 3rem;
+    }
+  }
+
+  &-registration {
+    padding: 4rem 0;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+    h3 {
+      font-size: 1.875rem;
+      font-weight: 500;
+      margin-bottom: 3rem;
+    }
+
+    .container {
+      max-width: 45rem !important;
+    }
+  }
+}

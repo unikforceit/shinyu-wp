@@ -1,0 +1,62 @@
+@import "~swiper/swiper-bundle.css";
+@import "styles/global-vars";
+@import "~glightbox/dist/css/glightbox.css";
+@import "styles/custom";
+
+@import "styles/base";
+@import "styles/element";
+
+@import "styles/components/subscribe";
+@import "styles/components/news-item";
+@import "styles/components/unit-item";
+@import "styles/components/product-item";
+@import "styles/components/search-box";
+@import "styles/components/search-bar";
+@import "styles/components/social";
+@import "styles/components/social-share";
+@import "styles/components/compare-selected";
+@import "styles/components/account-form";
+@import "styles/components/checkout-menu";
+
+@import "styles/header/header";
+@import "styles/header/navigation";
+@import "styles/header/fullscreen-navigation";
+@import "styles/header/hamburger";
+@import "styles/header/page-header";
+@import "styles/header/breadcrumb";
+@import "styles/header/languages-switcher";
+@import "styles/header/currency-switcher";
+@import "styles/header/account";
+@import "styles/header/branding";
+
+
+@import "styles/footer";
+
+@import "styles/pages/home/slideshow";
+@import "styles/pages/home/unit-special";
+@import "styles/pages/home/channel";
+@import "styles/pages/home/project";
+@import "styles/pages/home/service";
+@import "styles/pages/home/news";
+@import "styles/pages/home/partner";
+
+@import "styles/pages/about";
+@import "styles/pages/service";
+@import "styles/pages/contact";
+@import "styles/pages/search";
+@import "styles/pages/news";
+@import "styles/pages/post-property";
+@import "styles/pages/unit";
+@import "styles/pages/project";
+@import "styles/pages/promotion";
+@import "styles/pages/compare";
+@import "styles/pages/contact-form";
+@import "styles/pages/academy";
+@import "styles/pages/cart";
+@import "styles/pages/checkout";
+@import "styles/pages/product";
+@import "styles/pages/management-service";
+
+.coupon {
+  display: none !important;
+}

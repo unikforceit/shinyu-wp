@@ -1,0 +1,156 @@
+<?php
+
+function shinyu_icons() {
+
+	$output = '<div class="shinyu-icons-modal" id="shinyu-icons-modal">
+	
+	<label><input type="radio" name="shinyu_icon" value="flaticon-arrow"><i class="flaticon-arrow"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-money"><i class="flaticon-money"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-train"><i class="flaticon-train"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-eye"><i class="flaticon-eye"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-bed"><i class="flaticon-bed"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-calendar"><i class="flaticon-calendar"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-search"><i class="flaticon-search"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-mouse"><i class="flaticon-mouse"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-emoji"><i class="flaticon-emoji"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-focus"><i class="flaticon-focus"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-tower"><i class="flaticon-tower"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-pin"><i class="flaticon-pin"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-edit"><i class="flaticon-edit"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-bathroom"><i class="flaticon-bathroom"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-chat"><i class="flaticon-chat"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-chat-1"><i class="flaticon-chat-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-social-media"><i class="flaticon-social-media"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-facebook"><i class="flaticon-facebook"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-heart"><i class="flaticon-heart"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-compare"><i class="flaticon-compare"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-network"><i class="flaticon-network"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-print"><i class="flaticon-print"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-arrow-1"><i class="flaticon-arrow-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-twitter"><i class="flaticon-twitter"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-pin-1"><i class="flaticon-pin-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-question"><i class="flaticon-question"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-multimedia"><i class="flaticon-multimedia"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-correct"><i class="flaticon-correct"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-close"><i class="flaticon-close"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-plus"><i class="flaticon-plus"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-left-arrow"><i class="flaticon-left-arrow"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-right-arrow"><i class="flaticon-right-arrow"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-up-arrow"><i class="flaticon-up-arrow"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-letter-x"><i class="flaticon-letter-x"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-download-arrow"><i class="flaticon-download-arrow"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-arrow-point-to-right"><i class="flaticon-arrow-point-to-right"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-arrowhead-thin-outline-to-the-left"><i class="flaticon-arrowhead-thin-outline-to-the-left"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-navigate-up-arrow"><i class="flaticon-navigate-up-arrow"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-eye-1"><i class="flaticon-eye-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-atm"><i class="flaticon-atm"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-car-parking"><i class="flaticon-car-parking"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-food"><i class="flaticon-food"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-plate"><i class="flaticon-plate"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-shield"><i class="flaticon-shield"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-bike"><i class="flaticon-bike"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-pool"><i class="flaticon-pool"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-gym"><i class="flaticon-gym"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-plant"><i class="flaticon-plant"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-laundry"><i class="flaticon-laundry"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-toy"><i class="flaticon-toy"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-healthcare-and-medical"><i class="flaticon-healthcare-and-medical"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-theater"><i class="flaticon-theater"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-cinema"><i class="flaticon-cinema"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-supermarket"><i class="flaticon-supermarket"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-car"><i class="flaticon-car"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-policeman"><i class="flaticon-policeman"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-cocktail"><i class="flaticon-cocktail"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-cctv"><i class="flaticon-cctv"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-shop"><i class="flaticon-shop"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-shop-1"><i class="flaticon-shop-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-arrows"><i class="flaticon-arrows"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-view"><i class="flaticon-view"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-theater-1"><i class="flaticon-theater-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-tools-and-utensils"><i class="flaticon-tools-and-utensils"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-tv"><i class="flaticon-tv"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-sofa"><i class="flaticon-sofa"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-furniture-and-household"><i class="flaticon-furniture-and-household"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-bed-1"><i class="flaticon-bed-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-furniture-and-household-1"><i class="flaticon-furniture-and-household-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-cool"><i class="flaticon-cool"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-heater"><i class="flaticon-heater"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-mixer"><i class="flaticon-mixer"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-microwave"><i class="flaticon-microwave"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-cook"><i class="flaticon-cook"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-hood"><i class="flaticon-hood"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-air-conditioning"><i class="flaticon-air-conditioning"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-fashion"><i class="flaticon-fashion"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-dinner"><i class="flaticon-dinner"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-bike-1"><i class="flaticon-bike-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-more"><i class="flaticon-more"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-social-media-1"><i class="flaticon-social-media-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-agreement"><i class="flaticon-agreement"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-help"><i class="flaticon-help"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-trust"><i class="flaticon-trust"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-writing"><i class="flaticon-writing"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-sensor"><i class="flaticon-sensor"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-sports-and-competition"><i class="flaticon-sports-and-competition"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-grill"><i class="flaticon-grill"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-man"><i class="flaticon-man"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-furniture-and-household-2"><i class="flaticon-furniture-and-household-2"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-dinner-table"><i class="flaticon-dinner-table"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-stove"><i class="flaticon-stove"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-closet"><i class="flaticon-closet"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-wifi"><i class="flaticon-wifi"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-mirror"><i class="flaticon-mirror"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-study"><i class="flaticon-study"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-electric-car"><i class="flaticon-electric-car"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-construction-and-tools"><i class="flaticon-construction-and-tools"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-golf"><i class="flaticon-golf"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-golf-cart"><i class="flaticon-golf-cart"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-golf-1"><i class="flaticon-golf-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-heliport"><i class="flaticon-heliport"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-audio-system"><i class="flaticon-audio-system"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-jacuzzi"><i class="flaticon-jacuzzi"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-run"><i class="flaticon-run"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-summer"><i class="flaticon-summer"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-fit"><i class="flaticon-fit"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-child"><i class="flaticon-child"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-book"><i class="flaticon-book"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-lobby"><i class="flaticon-lobby"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-barman"><i class="flaticon-barman"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-closet-1"><i class="flaticon-closet-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-professions-and-jobs"><i class="flaticon-professions-and-jobs"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-mail"><i class="flaticon-mail"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-interview"><i class="flaticon-interview"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-dinner-1"><i class="flaticon-dinner-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-onsen"><i class="flaticon-onsen"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-playground"><i class="flaticon-playground"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-port"><i class="flaticon-port"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-dinner-2"><i class="flaticon-dinner-2"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-shop-2"><i class="flaticon-shop-2"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-boat"><i class="flaticon-boat"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-simulator"><i class="flaticon-simulator"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-barman-1"><i class="flaticon-barman-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-plant-1"><i class="flaticon-plant-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-swimming-pool"><i class="flaticon-swimming-pool"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-door-handle"><i class="flaticon-door-handle"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-stadium"><i class="flaticon-stadium"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-wellness"><i class="flaticon-wellness"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-racket"><i class="flaticon-racket"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-massage"><i class="flaticon-massage"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-bus"><i class="flaticon-bus"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-wifi-1"><i class="flaticon-wifi-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-sports-and-competition-1"><i class="flaticon-sports-and-competition-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-retail"><i class="flaticon-retail"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-microwave-1"><i class="flaticon-microwave-1"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-pet"><i class="flaticon-pet"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-farm"><i class="flaticon-farm"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-door"><i class="flaticon-door"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-elder"><i class="flaticon-elder"></i></label>
+	<label><input type="radio" name="shinyu_icon" value="flaticon-coach"><i class="flaticon-coach"></i></label>	
+	</div>';
+	return $output;
+}
+
+add_action('admin_footer', 'shinyu_admin_footer_function');
+
+function shinyu_admin_footer_function() {
+	echo shinyu_icons();
+}

@@ -1,0 +1,109 @@
+.hamburger-menu {
+  position: relative;
+  z-index: 2;
+  overflow: hidden;
+  cursor: pointer;
+  user-select: none;
+  margin: 1.25rem 0;
+  border-radius: 4px;
+  margin-left: 16px;
+
+  @media screen and (max-width: 991px) {
+    margin: 9px -12px 8px 0;
+  }
+}
+
+.hamburger {
+  display: inline-block;
+  margin: 0;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  transition: transform 0.15s, background-color 0.15s;
+  text-transform: none;
+  border: 0;
+  background-color: transparent;
+
+  &-box {
+    position: relative;
+    display: inline-block;
+    width: 24px;
+    height: 16px;
+  }
+
+  &-inner {
+    position: absolute;
+    top: 5px;
+    width: 24px;
+    height: 2px;
+    background: $primary;
+    position: absolute;
+    transition: 0.15s;
+
+    .open-menu & {
+      background: #fff;
+    }
+  
+    &::before,
+    &::after {
+      width: 24px;
+      height: 2px;
+      content: '';
+      display: block;
+      background: $primary;
+      position: absolute;
+      transition: transform 0.15s, opacity 0.15s, background-color 0.15s;
+
+      .open-menu & {
+        background: #fff;
+      }
+    }
+  
+    &::before {
+      top: 5px;
+    }
+  
+    &::after {
+      top: 10px;
+    }
+  
+    .open-menu & {
+      transform: translate3d(0, 4px, 0) rotate(45deg);
+  
+      &::before {
+        transform: rotate(-45deg) translate3d(-5.7136px, -6px, 0);
+        opacity: 0;
+      }
+  
+      &::after {
+        transform: translate3d(0, -10px, 0) rotate(-90deg);
+      }
+    }
+  }
+
+  &-background {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: none;
+    overflow: 0;
+    visibility: hidden;
+    background: rgba(255, 255, 255, 0.95);
+
+    @media (max-width: 1003px){
+      display: block;
+
+      @supports (backdrop-filter: none) {
+        background: rgba(255, 255, 255, 0.2);
+        backdrop-filter: saturate(200%) blur(10px);
+      }
+
+      .open-menu & {
+        opacity: 1;
+        visibility: visible;
+        transition: 0.3s;
+      }
+    }
+  }
+}

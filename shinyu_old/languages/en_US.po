@@ -1,0 +1,479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: duckking\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-09 15:18+0700\n"
+"PO-Revision-Date: 2019-03-09 15:18+0700\n"
+"Last-Translator: administrator <surakraisam@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class/class-about-us.php:35 inc/class/class-about-us.php:50
+#: inc/class/class-about-us.php:91
+msgid "Content"
+msgstr ""
+
+#: inc/class/class-about-us.php:39
+msgid "History"
+msgstr ""
+
+#: inc/class/class-about-us.php:67 inc/class/class-about-us.php:108
+#: inc/class/class-frontpage.php:58 inc/class/class-frontpage.php:122
+msgid "Image"
+msgstr ""
+
+#: inc/class/class-about-us.php:80
+msgid "Policy"
+msgstr ""
+
+#: inc/class/class-about-us.php:121
+msgid "Quality and standard"
+msgstr ""
+
+#: inc/class/class-about-us.php:146
+msgid "Vision"
+msgstr ""
+
+#: inc/class/class-about-us.php:171
+msgid "Philosophy"
+msgstr ""
+
+#: inc/class/class-about-us.php:196
+msgid "Identity"
+msgstr ""
+
+#: inc/class/class-about-us.php:247
+msgid "Personnel"
+msgstr ""
+
+#: inc/class/class-about-us.php:269 inc/class/class-about-us.php:328
+msgid "Add row"
+msgstr ""
+
+#: inc/class/class-about-us.php:280 inc/class/class-about-us.php:339
+#: inc/class/class-about-us.php:399 inc/class/class-about-us.php:446
+#: inc/class/class-about-us.php:493 inc/class/class-about-us.php:540
+#: inc/class/class-about-us.php:587 inc/class/class-about-us.php:634
+#: inc/class/class-about-us.php:681 inc/class/class-about-us.php:728
+#: inc/class/class-about-us.php:775 inc/class/class-about-us.php:822
+#: inc/class/class-about-us.php:869
+msgid "Add Personnel"
+msgstr ""
+
+#: inc/class/class-about-us.php:284 inc/class/class-about-us.php:343
+#: inc/class/class-about-us.php:403 inc/class/class-about-us.php:450
+#: inc/class/class-about-us.php:497 inc/class/class-about-us.php:544
+#: inc/class/class-about-us.php:591 inc/class/class-about-us.php:638
+#: inc/class/class-about-us.php:685 inc/class/class-about-us.php:732
+#: inc/class/class-about-us.php:779 inc/class/class-about-us.php:826
+#: inc/class/class-about-us.php:873
+msgid "Profile"
+msgstr ""
+
+#: inc/class/class-about-us.php:294 inc/class/class-about-us.php:353
+#: inc/class/class-about-us.php:413 inc/class/class-about-us.php:460
+#: inc/class/class-about-us.php:507 inc/class/class-about-us.php:554
+#: inc/class/class-about-us.php:601 inc/class/class-about-us.php:648
+#: inc/class/class-about-us.php:695 inc/class/class-about-us.php:742
+#: inc/class/class-about-us.php:789 inc/class/class-about-us.php:836
+#: inc/class/class-about-us.php:883 inc/class/class-contact.php:319
+#: inc/class/class-teacher.php:198
+msgid "Name"
+msgstr ""
+
+#: inc/class/class-about-us.php:300 inc/class/class-about-us.php:359
+#: inc/class/class-about-us.php:419 inc/class/class-about-us.php:466
+#: inc/class/class-about-us.php:513 inc/class/class-about-us.php:560
+#: inc/class/class-about-us.php:607 inc/class/class-about-us.php:654
+#: inc/class/class-about-us.php:701 inc/class/class-about-us.php:748
+#: inc/class/class-about-us.php:795 inc/class/class-about-us.php:842
+#: inc/class/class-about-us.php:889
+msgid "Position"
+msgstr ""
+
+#: inc/class/class-activity.php:49 inc/class/class-activity.php:50
+#: inc/class/class-activity.php:52
+msgid "Activity"
+msgstr ""
+
+#: inc/class/class-activity.php:51
+msgid "All Activity"
+msgstr ""
+
+#: inc/class/class-activity.php:53 inc/class/class-activity.php:54
+#: inc/class/class-activity.php:56
+msgid "Add Activity"
+msgstr ""
+
+#: inc/class/class-activity.php:55
+msgid "Edit Activity"
+msgstr ""
+
+#: inc/class/class-activity.php:57
+msgid "View Activity"
+msgstr ""
+
+#: inc/class/class-activity.php:58
+msgid "Search Activity"
+msgstr ""
+
+#: inc/class/class-activity.php:59 inc/class/class-activity.php:60
+msgid "No Activity found."
+msgstr ""
+
+#: inc/class/class-activity.php:90
+msgid "Activity Detail"
+msgstr ""
+
+#: inc/class/class-activity.php:94 inc/class/class-activity.php:143
+msgid "Special Activity"
+msgstr ""
+
+#: inc/class/class-activity.php:104 inc/class/class-project.php:98
+msgid "Cover"
+msgstr ""
+
+#: inc/class/class-activity.php:114 inc/class/class-news.php:139
+#: inc/class/class-project.php:108
+msgid "Gallery"
+msgstr ""
+
+#: inc/class/class-activity.php:155 inc/class/class-frontpage.php:102
+#: inc/class/class-news.php:184 inc/class/class-project.php:139
+msgid "Title"
+msgstr ""
+
+#: inc/class/class-activity.php:156 inc/class/class-news.php:185
+#: inc/class/class-project.php:140
+msgid "Author"
+msgstr ""
+
+#: inc/class/class-activity.php:157 inc/class/class-contact.php:324
+#: inc/class/class-news.php:186 inc/class/class-project.php:141
+msgid "Date"
+msgstr ""
+
+#: inc/class/class-contact.php:139 inc/class/class-contact.php:140
+#: inc/class/class-contact.php:142
+msgid "Contact"
+msgstr ""
+
+#: inc/class/class-contact.php:141
+msgid "All Contact"
+msgstr ""
+
+#: inc/class/class-contact.php:143 inc/class/class-contact.php:144
+#: inc/class/class-contact.php:146
+msgid "Add Contact"
+msgstr ""
+
+#: inc/class/class-contact.php:145
+msgid "Edit Contact"
+msgstr ""
+
+#: inc/class/class-contact.php:147
+msgid "View Contact"
+msgstr ""
+
+#: inc/class/class-contact.php:148
+msgid "Search Contact"
+msgstr ""
+
+#: inc/class/class-contact.php:149 inc/class/class-contact.php:150
+msgid "No Contact found."
+msgstr ""
+
+#: inc/class/class-contact.php:182 inc/class/class-contact.php:233
+msgid "Setting"
+msgstr ""
+
+#: inc/class/class-contact.php:186
+msgid "Contact page"
+msgstr ""
+
+#: inc/class/class-contact.php:201
+msgid "Email recipient"
+msgstr ""
+
+#: inc/class/class-contact.php:210
+msgid "Line token"
+msgstr ""
+
+#: inc/class/class-contact.php:237
+msgid "Map preview"
+msgstr ""
+
+#: inc/class/class-contact.php:247
+msgid "Map"
+msgstr ""
+
+#: inc/class/class-contact.php:257
+msgid "Google Map"
+msgstr ""
+
+#: inc/class/class-contact.php:297
+msgid "Contact Settings"
+msgstr ""
+
+#: inc/class/class-contact.php:298
+msgid "Settings"
+msgstr ""
+
+#: inc/class/class-contact.php:308
+msgid "Contact Us Page"
+msgstr ""
+
+#: inc/class/class-contact.php:320
+#, fuzzy
+#| msgid "MIMO Phone"
+msgid "Phone"
+msgstr "Phone"
+
+#: inc/class/class-contact.php:321
+msgid "Email"
+msgstr ""
+
+#: inc/class/class-contact.php:322
+msgid "Subject"
+msgstr ""
+
+#: inc/class/class-contact.php:323
+msgid "Message"
+msgstr ""
+
+#: inc/class/class-frontpage.php:43
+msgid "Slideshow"
+msgstr ""
+
+#: inc/class/class-frontpage.php:54
+msgid "Add slide"
+msgstr ""
+
+#: inc/class/class-frontpage.php:69 inc/class/class-frontpage.php:132
+msgid "Link"
+msgstr ""
+
+#: inc/class/class-frontpage.php:98
+msgid "Course"
+msgstr ""
+
+#: inc/class/class-news.php:49 inc/class/class-news.php:50
+#: inc/class/class-news.php:52
+msgid "News"
+msgstr ""
+
+#: inc/class/class-news.php:51
+msgid "All News"
+msgstr ""
+
+#: inc/class/class-news.php:53 inc/class/class-news.php:54
+#: inc/class/class-news.php:56
+msgid "Add News"
+msgstr ""
+
+#: inc/class/class-news.php:55
+msgid "Edit News"
+msgstr ""
+
+#: inc/class/class-news.php:57
+msgid "View News"
+msgstr ""
+
+#: inc/class/class-news.php:58
+msgid "Search News"
+msgstr ""
+
+#: inc/class/class-news.php:59 inc/class/class-news.php:60
+msgid "No News found."
+msgstr ""
+
+#: inc/class/class-news.php:89
+msgid "Other"
+msgstr ""
+
+#: inc/class/class-news.php:93 inc/class/class-news.php:172
+msgid "Special News"
+msgstr ""
+
+#: inc/class/class-project.php:47 inc/class/class-project.php:48
+#: inc/class/class-project.php:50
+msgid "Project"
+msgstr ""
+
+#: inc/class/class-project.php:49
+msgid "All Project"
+msgstr ""
+
+#: inc/class/class-project.php:51 inc/class/class-project.php:52
+#: inc/class/class-project.php:54
+msgid "Add Project"
+msgstr ""
+
+#: inc/class/class-project.php:53
+msgid "Edit Project"
+msgstr ""
+
+#: inc/class/class-project.php:55
+msgid "View Project"
+msgstr ""
+
+#: inc/class/class-project.php:56
+msgid "Search Project"
+msgstr ""
+
+#: inc/class/class-project.php:57 inc/class/class-project.php:58
+msgid "No Project found."
+msgstr ""
+
+#: inc/class/class-project.php:88
+msgid "Project Detail"
+msgstr ""
+
+#: inc/class/class-project.php:92
+msgid "Sub Title"
+msgstr ""
+
+#: inc/class/class-teacher.php:44
+msgid "Teachers"
+msgstr ""
+
+#: inc/class/class-teacher.php:45 inc/class/class-teacher.php:47
+msgid "Teacher"
+msgstr ""
+
+#: inc/class/class-teacher.php:46
+msgid "All Teachers"
+msgstr ""
+
+#: inc/class/class-teacher.php:48 inc/class/class-teacher.php:49
+#: inc/class/class-teacher.php:51
+msgid "Add Teacher"
+msgstr ""
+
+#: inc/class/class-teacher.php:50
+msgid "Edit Teacher"
+msgstr ""
+
+#: inc/class/class-teacher.php:52
+msgid "View Teacher"
+msgstr ""
+
+#: inc/class/class-teacher.php:53
+msgid "Search Teacher"
+msgstr ""
+
+#: inc/class/class-teacher.php:54 inc/class/class-teacher.php:55
+msgid "No Teacher found."
+msgstr ""
+
+#: inc/class/class-teacher.php:81 inc/class/class-teacher.php:82
+#: inc/class/class-teacher.php:83 inc/class/class-teacher.php:139
+#: inc/class/class-teacher.php:199
+msgid "Category"
+msgstr ""
+
+#: inc/class/class-teacher.php:84
+msgid "All Category"
+msgstr ""
+
+#: inc/class/class-teacher.php:85
+msgid "Parent Category"
+msgstr ""
+
+#: inc/class/class-teacher.php:86
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/class/class-teacher.php:87
+msgid "New Category"
+msgstr ""
+
+#: inc/class/class-teacher.php:88
+msgid "Add Category"
+msgstr ""
+
+#: inc/class/class-teacher.php:89
+msgid "Edit Category"
+msgstr ""
+
+#: inc/class/class-teacher.php:90
+msgid "Update Category"
+msgstr ""
+
+#: inc/class/class-teacher.php:91
+msgid "View Category"
+msgstr ""
+
+#: inc/class/class-teacher.php:118
+msgid "Teacher Detail"
+msgstr ""
+
+#: inc/class/class-teacher.php:122
+msgid "Avatar"
+msgstr ""
+
+#: inc/class/class-teacher.php:133
+msgid "Description"
+msgstr ""
+
+#: inc/class/class-teacher.php:156 inc/class/class-teacher.php:184
+msgid "Featured"
+msgstr ""
+
+#, fuzzy
+#~| msgid "MIMO First name"
+#~ msgid "Firstname"
+#~ msgstr "First name"
+
+#, fuzzy
+#~| msgid "MIMO Last name"
+#~ msgid "Lastname"
+#~ msgstr "Last name"
+
+#~ msgid "MIMO Street address"
+#~ msgstr "Street address"
+
+#~ msgid "MIMO Town / City"
+#~ msgstr "Town / City"
+
+#~ msgid "MIMO Postcode / ZIP"
+#~ msgstr "Postcode / ZIP"
+
+#~ msgid "MIMO Email address"
+#~ msgstr "Email address"
+
+#~ msgid "MIMO Phone"
+#~ msgstr "Phone"
+
+#~ msgid "MIMO House number and street name"
+#~ msgstr "House number and street name"
+
+#~ msgid "MIMO Krabi"
+#~ msgstr "Krabi (กระบี่)"
+
+#~ msgid "MIMO Add to cart"
+#~ msgstr "Add to cart"
+
+#~ msgid "MIMO Select options"
+#~ msgstr "Select options"
+
+#~ msgid "MIMO Home"
+#~ msgstr "Home"
+
+#~ msgid "District"
+#~ msgstr "District"
+
+#~ msgid "Province"
+#~ msgstr "Province"
+
+#~ msgid "MIMO Cart totals"
+#~ msgstr "Cart totals"

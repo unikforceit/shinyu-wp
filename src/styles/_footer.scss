@@ -1,0 +1,135 @@
+.site-footer {
+  position: relative;
+  font-size: 16px;
+  padding: 6.25rem 0 0;
+  background: #fff;
+
+  @media screen and (max-width: 767px) {
+    padding: 3rem 0 0;
+  }
+
+  @media screen and (max-width: 575px) {
+    padding: 2rem 0 0;
+  }
+
+  h3 {
+    font-size: 24px;
+    font-weight: 500;
+    color: $primary;
+    margin-bottom: 1.5rem;
+  }
+
+  ul {
+    margin-bottom: 2rem;
+
+    li {
+      margin-bottom: 0.25rem;
+
+      a {
+        white-space: nowrap;
+        line-height: 1;
+        color: #303030;
+        display: inline-block;
+
+        &.viewall {
+          font-weight: 500;
+          color: $primary;
+        }
+
+        &:hover {
+          color: $danger;
+        }
+      }
+    }
+
+    &.is-primary {
+      li {
+        margin-bottom: 1.625rem;
+
+        a {
+          font-size: 24px;
+          font-weight: 500;
+          color: $primary;
+
+          &:hover {
+            color: $danger;
+          }
+        }
+      }
+    }
+  }
+
+  .train-station {
+    &-column {
+      padding-left: 4rem;
+    }
+
+    button {
+      position: relative;
+      width: 60px;
+      height: auto;
+      font-size: 1.25rem;
+      font-weight: 500;
+      text-align: left;
+      display: inline-block;
+      background: transparent !important;
+      padding: 0.25rem 0;
+      box-shadow: none !important;
+
+      &:after {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        border-left: solid 3px transparent;
+        border-right: solid 3px transparent;
+        border-top: solid 4px $primary;
+        content: "";
+        margin: -2px 0 0;
+        transition: transform 0.2s;
+      }
+
+      &.is-active {
+        &:after {
+          transform: scaleY(-1);
+        }
+      }
+    }
+
+    ul {
+      padding-left: 32px;
+    }
+  }
+
+  &-copyright {
+    color: #1f2325;
+    font-weight: 400;
+    font-size: 12px;
+    padding: 4rem 0 2.5rem;
+
+    @media screen and (max-width: 575px) {
+      padding: 0 0 1rem;
+    }  
+
+    ul {
+      padding: 0 0 0 2rem;
+      margin: 0;
+
+      li {
+        display: inline-block;
+
+        a {
+          padding: 0 10px;
+        }
+      }
+    }
+
+    a {
+      color: #1f2325;
+      display: block;
+
+      &:hover {
+        color: $danger;
+      }
+    }
+  }
+}

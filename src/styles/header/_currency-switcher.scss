@@ -1,0 +1,48 @@
+.currency-switcher {
+  margin-right: 2rem;
+
+  @media screen and (max-width: 991px) {
+    justify-content: flex-end;
+    margin-left: auto;
+    margin-right: 1rem;
+  }
+
+  .dropdown {
+    &-trigger {
+      font-size: 14px;
+      padding: 30px 0;
+      min-width: 48px;
+
+      @media screen and (max-width: 991px) {
+        padding: 20px 0 18px;
+      }
+
+      .open-menu & {
+        color: #fff;
+
+        &::after {
+          border-top-color: #fff;
+        }
+      }
+    }
+
+    &-item {
+      color: #545454;
+      font-size: 14px;
+
+      &:hover {
+        color: $primary;
+      }
+
+      img {
+        margin-right: 0.5rem;
+      }
+    }
+
+    &-menu {
+      padding-top: 0;
+      margin-top: -10px;
+      margin-left: -14px;
+    }
+  }
+}

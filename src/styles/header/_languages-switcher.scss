@@ -1,0 +1,47 @@
+.languages-switcher {
+
+  @media screen and (max-width: 991px) {
+    margin-right: 1rem;
+  }
+
+  img {
+    width: 20px;
+  }
+
+  .dropdown {
+    &-trigger {
+      padding: 1.75rem 0;
+
+      @media screen and (max-width: 991px) {
+        padding: 1rem 0;
+      }
+
+      .open-menu & {
+        color: #fff;
+
+        &::after {
+          border-top-color: #fff;
+        }
+      }
+    }
+
+    &-item {
+      color: #545454;
+      font-size: 14px;
+
+      &:hover {
+        color: $primary;
+      }
+
+      img {
+        margin-right: 0.5rem;
+      }
+    }
+
+    &-menu {
+      padding-top: 0;
+      margin-top: -10px;
+      margin-left: -1rem;
+    }
+  }
+}

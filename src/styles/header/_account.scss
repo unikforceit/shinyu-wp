@@ -1,0 +1,48 @@
+.header {
+  &-account {
+    padding: 20px 0 19px 20px;
+
+    @media screen and (max-width: 991px) {
+      display: none;
+    }
+  }
+}
+
+.account-icon {
+  position: relative;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  border: solid 1px $primary;
+
+  .open-menu & {
+    border-color: #fff;
+  }
+
+  &:after {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    border-left: solid 3px transparent;
+    border-right: solid 3px transparent;
+    border-top: solid 4px #545454;
+    content: "";
+    margin: -2px -14px 0 0;
+    transition: transform 0.2s;
+
+    .open-menu & {
+      border-top-color: #fff;
+    }
+  }
+
+  svg {
+    width: 16px;
+    height: 16px;
+    fill: $primary;
+    margin: 6px 0 0 8px;
+
+    .open-menu & {
+      fill: #fff;
+    }  
+  }
+}

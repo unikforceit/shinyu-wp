@@ -1,0 +1,124 @@
+.search {
+  &.page-template {
+    background: #f5f6f8;
+  }
+
+  .main-content {
+    padding-bottom: 4rem;
+  }
+
+  &-wrapper {
+    position: relative;
+    padding-top: 4.5rem;
+
+    @media screen and (max-width: 991px) {
+      padding-top: 0;
+    }
+  }
+
+  &-header {
+    position: relative;
+    padding: 2.5rem 0;
+    margin-bottom: 4rem;
+    background-position: center 20%;
+    background-size: cover;
+    z-index: 1;
+
+    @media screen and (max-width: 991px) {
+      padding: 2rem 0;
+      margin-bottom: 3rem;
+    }
+
+    @media screen and (max-width: 767px) {
+      padding: 1.5rem 0;
+      margin-bottom: 2rem;
+    }
+
+    @media screen and (max-width: 575px) {
+      padding: 1rem 0;
+    }
+  }
+
+  &-result-info {
+    font-size: 1.375rem;
+
+    @media screen and (max-width: 767px) {
+      font-size: 1rem;
+    }
+
+    small {
+      font-weight: 600;
+    }
+  }
+
+  &-sort {
+    .icon {
+      width: auto !important;
+
+      svg {
+        width: 1rem;
+        height: 1rem;
+        fill: #fff;
+        margin-left: 1rem;
+      }
+    }
+
+    .select {
+      &::after {
+        display: none !important;
+      }
+  
+      select {
+        color: #fff;
+        border-color: $primary;
+        background: $primary;
+        padding-right: 1rem !important;
+        padding-left: 2.5rem !important;
+        box-shadow: none !important;
+        outline: none !important;
+        border: none !important;
+
+        option {
+          padding: 0;
+          background: #fff;
+        }
+      }
+    }
+  }
+
+  &-body {
+    position: relative;
+    z-index: 1;
+
+    .loading-overlay .loading-background {
+      background:rgba(245, 246, 248, 0.5);
+    }
+  }
+
+  .pagination {
+    padding: 2rem 0;
+
+    svg {
+      display: none;
+    }
+
+    a {
+      font-weight: 500;
+      outline: none;
+      box-shadow: none;
+    }
+
+    &-list {
+      flex-grow: unset;
+      // order: 2;
+    }
+
+    // &-previous {
+    //   order: 1;
+    // }
+
+    // &-next {
+    //   order: 3;
+    // }
+  }
+}

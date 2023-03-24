@@ -1,0 +1,67 @@
+.promotion {
+  &-col {
+    margin-bottom: 1.5rem;
+  }
+
+  &-item {
+    height: 100%;
+    padding: 0.25rem;
+    background: #fff;
+    transition: box-shadow 0.2s;
+
+    &:hover {
+      box-shadow: 16px 16px 32px rgba(0, 0, 0, 0.1);
+    }
+
+    &:hover {
+      .promotion-title a {
+        color: $danger;
+      }
+    }
+  }
+
+  &-caption {
+    padding: 1rem 1rem;
+  }
+
+  &-title {
+    a {
+      color: $primary;
+      font-weight: 500;
+      font-size: 1.25rem;
+    }
+  }
+
+  &-recommended {
+    background: #f5f6f8;
+
+    &-title {
+      color: $primary;
+      font-size: 1.875rem;
+      margin-bottom: 2rem;
+    }
+  }
+}
+
+.single-promotion {
+  &-content {
+    padding: 3rem 0;
+    font-size: 1.125rem;
+
+    p {
+      margin-bottom: 2rem;
+    }
+  }
+
+  &-title {
+    color: $primary;
+    font-weight: 500;
+    font-size: 1.875rem;
+    margin-bottom: 2rem;
+  }
+
+  .social-share {
+    border-top: solid 1px #f7f7f7;
+    padding-bottom: 3rem;
+  }
+}

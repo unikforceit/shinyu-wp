@@ -1,0 +1,47 @@
+
+.site-branding {
+  position: relative;
+  width: 8.5rem;
+  display: block;
+  padding: 1.5rem 0;
+  margin-right: 3rem;
+  transition: padding 0.2s;
+  overflow: hidden;
+
+  @media screen and (max-width: 991px) {
+    width: 7.5rem;
+    padding: 1rem 0;
+    margin-right: 0;
+  }
+
+  .is-sticky & {
+    padding-bottom: 0;
+
+    &:after {
+      opacity: 1;
+    }
+  }
+
+  img {
+    transition: filter 0.3s;
+
+    .open-menu & {
+      filter: brightness(0) invert(1);
+    }
+  }
+
+  span {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.header-compare {
+  padding: 16px 16px 16px 0;
+
+  svg {
+    width: 22px;
+    height: 22px;
+  }
+}

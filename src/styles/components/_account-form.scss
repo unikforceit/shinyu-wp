@@ -1,0 +1,27 @@
+body.account .main-content form {
+  font-size: 14px;
+
+  .label {
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  a {
+    text-decoration: underline !important;
+  }
+
+  // p:not(.help) {
+  //   font-size: 16px;
+  // }
+
+  .message {
+    font-size: 14px;
+  }
+
+  .button {
+    height: auto;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 14px;
+  }
+}
