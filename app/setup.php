@@ -3,7 +3,7 @@ add_action('after_setup_theme', function () {
 
   load_theme_textdomain( THEME_SLUG, THEME_DIR . '/languages' );
 
-  add_filter('show_admin_bar','__return_false');
+  //add_filter('show_admin_bar','__return_false');
 
   add_theme_support( 'woocommerce' );
 

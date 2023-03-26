@@ -106,7 +106,7 @@ function mimo_admin_enqueue_scripts(){
   wp_enqueue_style( THEME_SLUG . '-admin-style', CSS_URI . '/admin.css', false, THEME_VERSION, 'all' );
 
 }
-add_action( 'admin_enqueue_scripts', 'mimo_admin_enqueue_scripts' );
+//add_action( 'admin_enqueue_scripts', 'mimo_admin_enqueue_scripts' );
 
 
 function remove_menus_admin(){
@@ -129,7 +129,7 @@ function remove_menus_admin(){
   }
 
 }
-add_action( 'admin_menu', 'remove_menus_admin', 999 );
+//add_action( 'admin_menu', 'remove_menus_admin', 999 );
 
 function remove_admin_bar_links() {
   global $wp_admin_bar;
@@ -148,7 +148,7 @@ function remove_admin_bar_links() {
   }
 
 }
-add_action( 'wp_before_admin_bar_render', 'remove_admin_bar_links', 9999 );
+//add_action( 'wp_before_admin_bar_render', 'remove_admin_bar_links', 9999 );
 
 function mimo_login_logo() { ?>
   <style type="text/css">

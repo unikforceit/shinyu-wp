@@ -2,7 +2,6 @@
 /*-----------------------------------------------------------------------------------*/
 /*  Define Theme Vars
 /*-----------------------------------------------------------------------------------*/
-
 define('THEME_DIR', trailingslashit(get_template_directory()));
 define('THEME_URI', trailingslashit(get_template_directory_uri()));
 define('THEME_NAME', 'Shinyu');
@@ -26,7 +25,7 @@ define('PAGE_ID_CONTACT_FORM', pll_get_post(get_page_by_path('contact-form')->ID
 define('PAGE_ID_ACADEMY', pll_get_post(get_page_by_path('academy')->ID));
 define('PAGE_ID_PACKAGES', pll_get_post(get_page_by_path('packages')->ID));
 define('PAGE_ID_ACCOUNT', pll_get_post(get_page_by_path('account')->ID));
-define('PAGE_ID_ROOM_DEPOSIT', pll_get_post(get_page_by_path('room-deposit', OBJECT, 'product')->ID));
+//define('PAGE_ID_ROOM_DEPOSIT', pll_get_post(get_page_by_path('room-deposit', OBJECT, 'product')->ID));
 define('PAGE_ID_PRIVACY_POLICY', pll_get_post(get_page_by_path('privacy-policy')->ID));
 define('PAGE_ID_TERMS_AND_CONDITIONS', pll_get_post(get_page_by_path('terms-and-conditions')->ID));
 
@@ -46,10 +45,10 @@ array_map(function($file) {
 	'functions',
 	'enqueue-scripts',
 	'setup',
-	'cleanup',
+	//'cleanup',
 	'sidebar',
 	'menu',
-	'branding',
+	//'branding',
 	'theme-customizer',
 ]);
 
@@ -305,14 +304,3 @@ function update_stat($project_id) {
 	update_field('project_stat', $stats, $project_id);
 }
 
-add_filter( 'option_active_plugins', function( $plugins ){
-
-    $myplugin = "polylang-pro/polylang.php";
-
-    if( !in_array( $myplugin, $plugins ) ){
-        $plugins[] = $myplugin;
-    }
-
-    return $plugins;
-
-} );
