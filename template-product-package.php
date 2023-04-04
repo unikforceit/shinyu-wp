@@ -9,6 +9,7 @@ get_header(); ?>
         <div class="container">
             <form role="search" method="get" class="search-form" action="<?php echo esc_url( home_url( '/' ) ); ?>">
                 <div class="autocomplete control">
+                    <?php shinyu_cs_filter();?>
                     <div class="control is-medium is-clearfix">
                         <div class="columns">
                             <div class="column is-10">

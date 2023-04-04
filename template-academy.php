@@ -9,6 +9,7 @@ get_header(); ?>
         <div class="container">
             <form role="search" method="get" class="search-form" action="<?php echo esc_url( home_url( '/' ) ); ?>">
                 <div class="autocomplete control">
+                    <?php shinyu_cs_filter();?>
                     <div class="control is-medium is-clearfix">
                         <div class="columns">
                             <div class="column is-10">
@@ -358,7 +359,7 @@ get_header(); ?>
     <section class="section academy-social">
       <div class="container">
         <div class="d-sm-flex justify-content-between">
-          <h3 class="has-text-primary has-text-centered mb-6 mb-sm-0">สอบถามรายละเอียดเพิ่มเติม</h2>
+          <h3 class="has-text-primary has-text-centered mb-6 mb-sm-0">สอบถามรายละเอียดเพิ่มเติม</h3>
           <ul class="columns">
             <li class="column">
               <a class="academy-social-link facebook" href="https://facebook.com/ShinyuAcademy" target="_blank">
